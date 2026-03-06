@@ -1,0 +1,18 @@
+{
+  "name": "expo-selectable-text",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "author": "Parables",
+  "license": "MIT",
+  "homepage": "https://parables.app",
+  "scripts": {},
+  "peerDependencies": {
+    "expo": "*",
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "expo-modules-core": "*"
+  }
+}

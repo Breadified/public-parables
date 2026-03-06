@@ -1,0 +1,73 @@
+# EAS Build Ignore
+# NOTE: This file REPLACES all .gitignore rules for EAS builds
+
+# ============================================
+# PROJECT-SPECIFIC EXCLUSIONS (~298MB savings)
+# ============================================
+
+# Bible source data - not needed in app builds
+bible-data/
+
+# Backend infrastructure
+supabase/
+supabase-docker/
+
+# Development files
+scripts/
+.business-requirements/
+.reference/
+.claude/
+
+# Root markdown files
+*.md
+!frontend/**/*.md
+
+# ============================================
+# STANDARD EXCLUSIONS (from .gitignore files)
+# ============================================
+
+# Build outputs
+frontend/dist/
+frontend/web-build/
+frontend/build-test/
+
+# Expo cache
+frontend/.expo/
+
+# TypeScript generated
+frontend/expo-env.d.ts
+
+# Native build artifacts (EAS rebuilds these)
+frontend/android/.gradle/
+frontend/android/build/
+frontend/android/app/build/
+frontend/ios/build/
+frontend/ios/Pods/
+frontend/.kotlin/
+
+# Debug files
+*.log
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# Environment files
+.env
+.env.local
+.env*.local
+**/.env
+**/.env.local
+
+# Keystores (sensitive)
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# Backup files
+*.backup
+*.orig.*

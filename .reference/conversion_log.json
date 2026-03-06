@@ -1,0 +1,6769 @@
+{
+  "success": 966,
+  "failed": 0,
+  "skipped": 0,
+  "files": [
+    {
+      "input": "1000000.doc",
+      "output": "1000000.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "1001001-1001031.doc",
+      "output": "1001001-1001031.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "1001001-1001031_1.doc",
+      "output": "1001001-1001031_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "1001001-1002025.doc",
+      "output": "1001001-1002025.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "1002002-1002003.doc",
+      "output": "1002002-1002003.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "1002004-1002025.doc",
+      "output": "1002004-1002025.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "1002018-1002025.doc",
+      "output": "1002018-1002025.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "1002018-1002025_1.doc",
+      "output": "1002018-1002025_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "1002018-1002025_2.doc",
+      "output": "1002018-1002025_2.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "1002018-1002025_3.doc",
+      "output": "1002018-1002025_3.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "1003001-1011032.doc",
+      "output": "1003001-1011032.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "1012001-1013018.doc",
+      "output": "1012001-1013018.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "1012001-1013018_1.doc",
+      "output": "1012001-1013018_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "1022001-1022019.doc",
+      "output": "1022001-1022019.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "1022010-1022019.doc",
+      "output": "1022010-1022019.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "1025001-1025034.doc",
+      "output": "1025001-1025034.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "1045001-1045020.doc",
+      "output": "1045001-1045020.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "1050001-1050026.doc",
+      "output": "1050001-1050026.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "18001001-18002013.doc",
+      "output": "18001001-18002013.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "18001001-18002013_2.doc",
+      "output": "18001001-18002013_2.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "18004001-18004021.doc",
+      "output": "18004001-18004021.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "18028001-18028028.doc",
+      "output": "18028001-18028028.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "18042001-18042017_1.doc",
+      "output": "18042001-18042017_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "18042001-18042017_2.doc",
+      "output": "18042001-18042017_2.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "18042001-18042017_4.doc",
+      "output": "18042001-18042017_4.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "19001001-19001006.doc",
+      "output": "19001001-19001006.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "19018001-19018050.doc",
+      "output": "19018001-19018050.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "19073001-19073028.doc",
+      "output": "19073001-19073028.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "19139001-19139024.doc",
+      "output": "19139001-19139024.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "2000000.doc",
+      "output": "2000000.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "2000000_1.doc",
+      "output": "2000000_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "2000000_2.doc",
+      "output": "2000000_2.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "20003005-20003006.doc",
+      "output": "20003005-20003006.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "20005001-20005023.doc",
+      "output": "20005001-20005023.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "2001001-2003022.doc",
+      "output": "2001001-2003022.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "20023001-20023035.doc",
+      "output": "20023001-20023035.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "2004001-2004017.doc",
+      "output": "2004001-2004017.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "2004001-2005023.doc",
+      "output": "2004001-2005023.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "2004001-2006030.doc",
+      "output": "2004001-2006030.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "2006013-2006007.doc",
+      "output": "2006013-2006007.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "2008001-2009035.doc",
+      "output": "2008001-2009035.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "2009001-2012051.doc",
+      "output": "2009001-2012051.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "2009013-2010023.doc",
+      "output": "2009013-2010023.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "2013001-2015027.doc",
+      "output": "2013001-2015027.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "2033001-2033023.doc",
+      "output": "2033001-2033023.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "21003001-21003022.doc",
+      "output": "21003001-21003022.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "21003001-21003022_1.doc",
+      "output": "21003001-21003022_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "21004001-21004016.doc",
+      "output": "21004001-21004016.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "21004001-21004016_1.doc",
+      "output": "21004001-21004016_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "21004004-21004012.doc",
+      "output": "21004004-21004012.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "21005001-21005020.doc",
+      "output": "21005001-21005020.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "21011001-21012014.doc",
+      "output": "21011001-21012014.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "23000000.doc",
+      "output": "23000000.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "23023001-23023018.doc",
+      "output": "23023001-23023018.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "23034001-23035010.doc",
+      "output": "23034001-23035010.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "23036001-23037038.doc",
+      "output": "23036001-23037038.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "23036001-23037038_1.doc",
+      "output": "23036001-23037038_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "23036001-23037038_2.doc",
+      "output": "23036001-23037038_2.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "23044024-23045013.doc",
+      "output": "23044024-23045013.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "23045013-23046013.doc",
+      "output": "23045013-23046013.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "23055001-23055007_1.doc",
+      "output": "23055001-23055007_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "26000000.doc",
+      "output": "26000000.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "27001001-27001021.doc",
+      "output": "27001001-27001021.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "27002001-27002049.doc",
+      "output": "27002001-27002049.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "27003001-27003030.doc",
+      "output": "27003001-27003030.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "27004001-27004037.doc",
+      "output": "27004001-27004037.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "27004001-27004037_1.doc",
+      "output": "27004001-27004037_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "27006001-27006028.doc",
+      "output": "27006001-27006028.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "27006001-27006028_1.doc",
+      "output": "27006001-27006028_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "27007001-27007028.doc",
+      "output": "27007001-27007028.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "27007001-27007028_1.doc",
+      "output": "27007001-27007028_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "27008001-27008027.doc",
+      "output": "27008001-27008027.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "27008001-27010021.doc",
+      "output": "27008001-27010021.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "27009001-27009027.doc",
+      "output": "27009001-27009027.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "27010001-27012013.doc",
+      "output": "27010001-27012013.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "27012001-27012013.doc",
+      "output": "27012001-27012013.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "3000000.doc",
+      "output": "3000000.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "30001001-30001002.doc",
+      "output": "30001001-30001002.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "30009001-30009015.doc",
+      "output": "30009001-30009015.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "30009001-30009015_1.doc",
+      "output": "30009001-30009015_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "3008001-3010020.doc",
+      "output": "3008001-3010020.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "32000000.doc",
+      "output": "32000000.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "36000000.doc",
+      "output": "36000000.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "36000000_1.doc",
+      "output": "36000000_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "36001001-36001013.doc",
+      "output": "36001001-36001013.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "36001001-36001013_1.doc",
+      "output": "36001001-36001013_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "36001014-36001002.doc",
+      "output": "36001014-36001002.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "36002004-36002003.doc",
+      "output": "36002004-36002003.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "36003006-36003020.doc",
+      "output": "36003006-36003020.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "36003006-36003020_1.doc",
+      "output": "36003006-36003020_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "38001001-38001006.doc",
+      "output": "38001001-38001006.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "38001001-38001021.doc",
+      "output": "38001001-38001021.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "38002001-38002013_1.doc",
+      "output": "38002001-38002013_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "38003001-38004014.doc",
+      "output": "38003001-38004014.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "38003001-38005011.doc",
+      "output": "38003001-38005011.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "38012001-38014021.doc",
+      "output": "38012001-38014021.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "38012001-38014021_1.doc",
+      "output": "38012001-38014021_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "39000000.doc",
+      "output": "39000000.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "39001001-39002009.doc",
+      "output": "39001001-39002009.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "39002010-39002017.doc",
+      "output": "39002010-39002017.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "39003006-39003016.doc",
+      "output": "39003006-39003016.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "4000000_1.doc",
+      "output": "4000000_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40001001-40001025.doc",
+      "output": "40001001-40001025.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40001001-40001025_1.doc",
+      "output": "40001001-40001025_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40001018-40001025.doc",
+      "output": "40001018-40001025.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40002001-40002023.doc",
+      "output": "40002001-40002023.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40005038-40005048.doc",
+      "output": "40005038-40005048.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40005038-40005048_1.doc",
+      "output": "40005038-40005048_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40005043-40005048.doc",
+      "output": "40005043-40005048.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40007007-40007014.doc",
+      "output": "40007007-40007014.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40009035-40010042.doc",
+      "output": "40009035-40010042.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "4001001-4010013.doc",
+      "output": "4001001-4010013.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "4001001-4010013_2.doc",
+      "output": "4001001-4010013_2.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40011001-40012013.doc",
+      "output": "40011001-40012013.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40012014-40012050.doc",
+      "output": "40012014-40012050.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40013001-40013023.doc",
+      "output": "40013001-40013023.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40013001-40013058.doc",
+      "output": "40013001-40013058.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40013024-40013043.doc",
+      "output": "40013024-40013043.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40014001-40014036.doc",
+      "output": "40014001-40014036.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40016001-40016028.doc",
+      "output": "40016001-40016028.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40016001-40016028_1.doc",
+      "output": "40016001-40016028_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40016013-40016024.doc",
+      "output": "40016013-40016024.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40016013-40016028.doc",
+      "output": "40016013-40016028.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40016013-40016028_1.doc",
+      "output": "40016013-40016028_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40016013-40016028_3.doc",
+      "output": "40016013-40016028_3.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40016024-40017026.doc",
+      "output": "40016024-40017026.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40017001-40008009.doc",
+      "output": "40017001-40008009.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40017001-40008009_1.doc",
+      "output": "40017001-40008009_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40017001-40017009.doc",
+      "output": "40017001-40017009.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40017001-40017013.doc",
+      "output": "40017001-40017013.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40017014-40018014.doc",
+      "output": "40017014-40018014.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40018001-40018014.doc",
+      "output": "40018001-40018014.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40018015-40020016.doc",
+      "output": "40018015-40020016.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40018015-40020016_1.doc",
+      "output": "40018015-40020016_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40021001-40021017.doc",
+      "output": "40021001-40021017.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40021001-40021046.doc",
+      "output": "40021001-40021046.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40021018-40022014.doc",
+      "output": "40021018-40022014.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40022015-40022046.doc",
+      "output": "40022015-40022046.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40023001-40023039.doc",
+      "output": "40023001-40023039.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40024036-40025013.doc",
+      "output": "40024036-40025013.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40026047-40027027.doc",
+      "output": "40026047-40027027.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40027027-40027056.doc",
+      "output": "40027027-40027056.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "40028016-40028020.doc",
+      "output": "40028016-40028020.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "4011001-4011035.doc",
+      "output": "4011001-4011035.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "4012001-4012016.doc",
+      "output": "4012001-4012016.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "4013001-4014045.doc",
+      "output": "4013001-4014045.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "4020001-4020029_1.doc",
+      "output": "4020001-4020029_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "4022001-4024025.doc",
+      "output": "4022001-4024025.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "4025001-4026065.doc",
+      "output": "4025001-4026065.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "4027001-4036013.doc",
+      "output": "4027001-4036013.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "41002001-41002012.doc",
+      "output": "41002001-41002012.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "41003007-41003034.doc",
+      "output": "41003007-41003034.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "41005021-41005043.doc",
+      "output": "41005021-41005043.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "41006030-41006044.doc",
+      "output": "41006030-41006044.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "41009033-41009041.doc",
+      "output": "41009033-41009041.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "41013001-41013037.doc",
+      "output": "41013001-41013037.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "41015001-41015039.doc",
+      "output": "41015001-41015039.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "41015040-41016008.doc",
+      "output": "41015040-41016008.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42001001-42001038.doc",
+      "output": "42001001-42001038.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42001057-42001080.doc",
+      "output": "42001057-42001080.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42002001-42002021.doc",
+      "output": "42002001-42002021.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42002001-42004044.doc",
+      "output": "42002001-42004044.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42002021-42002035.doc",
+      "output": "42002021-42002035.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42003001-42003020.doc",
+      "output": "42003001-42003020.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42007001-42007010.doc",
+      "output": "42007001-42007010.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42007011-42007017.doc",
+      "output": "42007011-42007017.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42007036-42007050.doc",
+      "output": "42007036-42007050.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42010025-42010037.doc",
+      "output": "42010025-42010037.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42011001-42011013.doc",
+      "output": "42011001-42011013.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42012035-42012048.doc",
+      "output": "42012035-42012048.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42013001-42013030.doc",
+      "output": "42013001-42013030.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42014015-42014024.doc",
+      "output": "42014015-42014024.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42015001-42015032.doc",
+      "output": "42015001-42015032.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42016001-42016013.doc",
+      "output": "42016001-42016013.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42016001-42016016.doc",
+      "output": "42016001-42016016.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42016001-42016018.doc",
+      "output": "42016001-42016018.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42016014-42016031.doc",
+      "output": "42016014-42016031.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42017001-42017019.doc",
+      "output": "42017001-42017019.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42017001-42017019_1.doc",
+      "output": "42017001-42017019_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42017001-42017019_2.doc",
+      "output": "42017001-42017019_2.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42018001-42018014.doc",
+      "output": "42018001-42018014.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42018009-42018017.doc",
+      "output": "42018009-42018017.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42018009-42018017_1.doc",
+      "output": "42018009-42018017_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42018015-42018030_1.doc",
+      "output": "42018015-42018030_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42019028-42019048.doc",
+      "output": "42019028-42019048.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42019028-42019048_1.doc",
+      "output": "42019028-42019048_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42019028-42019048_2.doc",
+      "output": "42019028-42019048_2.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42022024-42022040.doc",
+      "output": "42022024-42022040.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42022031-42022062.doc",
+      "output": "42022031-42022062.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42022039-42022062.doc",
+      "output": "42022039-42022062.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42023001-42023025.doc",
+      "output": "42023001-42023025.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42023001-42023025_2.doc",
+      "output": "42023001-42023025_2.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42023026-42023049.doc",
+      "output": "42023026-42023049.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42023026-42023049_1.doc",
+      "output": "42023026-42023049_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42023032-42023049.doc",
+      "output": "42023032-42023049.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42023038-42023043.doc",
+      "output": "42023038-42023043.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42023050-42024012.doc",
+      "output": "42023050-42024012.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42023050-42024012_2.doc",
+      "output": "42023050-42024012_2.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "42024013-42024036.doc",
+      "output": "42024013-42024036.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "43001001-43001018.doc",
+      "output": "43001001-43001018.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "43001001-43001018_2.doc",
+      "output": "43001001-43001018_2.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "43001001-43001034.doc",
+      "output": "43001001-43001034.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "43001001-43001051_1.doc",
+      "output": "43001001-43001051_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "43001019-43001051.doc",
+      "output": "43001019-43001051.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "43003001-43003036_1.doc",
+      "output": "43003001-43003036_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "43003001-43003036_2.doc",
+      "output": "43003001-43003036_2.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "43003001-43003036_4.doc",
+      "output": "43003001-43003036_4.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "43004001-43004054.doc",
+      "output": "43004001-43004054.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "43005001-43005047.doc",
+      "output": "43005001-43005047.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "43006001-43006071.doc",
+      "output": "43006001-43006071.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "43006001-43006071_2.doc",
+      "output": "43006001-43006071_2.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "43006001-43006071_4.doc",
+      "output": "43006001-43006071_4.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "43012001-43012050_1.doc",
+      "output": "43012001-43012050_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "43015001-43015017_1.doc",
+      "output": "43015001-43015017_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "43015001-43015017_2.doc",
+      "output": "43015001-43015017_2.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "43015026-43016015_1.doc",
+      "output": "43015026-43016015_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "44001001-44001026.doc",
+      "output": "44001001-44001026.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "44001001-44001026_1.doc",
+      "output": "44001001-44001026_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "44002001-44002013.doc",
+      "output": "44002001-44002013.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "44002001-44002013_1.doc",
+      "output": "44002001-44002013_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "44002014-44002021.doc",
+      "output": "44002014-44002021.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "44002022-44002047.doc",
+      "output": "44002022-44002047.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "44003001-44004032.doc",
+      "output": "44003001-44004032.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "44003001-44004032_1.doc",
+      "output": "44003001-44004032_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "44004032-44005016.doc",
+      "output": "44004032-44005016.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "44005017-44005042.doc",
+      "output": "44005017-44005042.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "44006001-44007060.doc",
+      "output": "44006001-44007060.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "44008001-44008040.doc",
+      "output": "44008001-44008040.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "44010001-44010048.doc",
+      "output": "44010001-44010048.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "44011001-44011030.doc",
+      "output": "44011001-44011030.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "44017024-44017034.doc",
+      "output": "44017024-44017034.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "44019001-44019041.doc",
+      "output": "44019001-44019041.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "44019001-44019041_1.doc",
+      "output": "44019001-44019041_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "44020032-44020035.doc",
+      "output": "44020032-44020035.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "45000000.doc",
+      "output": "45000000.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "45001001-45001017.doc",
+      "output": "45001001-45001017.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "45001001-45001017_1.doc",
+      "output": "45001001-45001017_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "45001018-45001032.doc",
+      "output": "45001018-45001032.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "45001018-45001032_1.doc",
+      "output": "45001018-45001032_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "45002001-45002025.doc",
+      "output": "45002001-45002025.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "45002001-45002029.doc",
+      "output": "45002001-45002029.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "45002001-45002029_1.doc",
+      "output": "45002001-45002029_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "45003001-45003026.doc",
+      "output": "45003001-45003026.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "45003022-45003022.doc",
+      "output": "45003022-45003022.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "45003027-45004008.doc",
+      "output": "45003027-45004008.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "45003027-45004025.doc",
+      "output": "45003027-45004025.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "45005001-45005021.doc",
+      "output": "45005001-45005021.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "45005006-45005008.doc",
+      "output": "45005006-45005008.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "45006001-45006023.doc",
+      "output": "45006001-45006023.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "45007001-45007025.doc",
+      "output": "45007001-45007025.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "45007001-45008001.doc",
+      "output": "45007001-45008001.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "45008001-45008039.doc",
+      "output": "45008001-45008039.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "45010001-45010021.doc",
+      "output": "45010001-45010021.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "45010001-45010021_2.doc",
+      "output": "45010001-45010021_2.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "45012001-45012015_2.doc",
+      "output": "45012001-45012015_2.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "45012001-45012015_3.doc",
+      "output": "45012001-45012015_3.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "45012016-45013014.doc",
+      "output": "45012016-45013014.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "45014001-45015006.doc",
+      "output": "45014001-45015006.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "45014001-45015013.doc",
+      "output": "45014001-45015013.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "46010031-46011001.doc",
+      "output": "46010031-46011001.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "46011002-46011016.doc",
+      "output": "46011002-46011016.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "46011017-46011034.doc",
+      "output": "46011017-46011034.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "46011017-46011034_1.doc",
+      "output": "46011017-46011034_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "46012001-46012006.doc",
+      "output": "46012001-46012006.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "46012001-46012006_1.doc",
+      "output": "46012001-46012006_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "46012001-46012006_3.doc",
+      "output": "46012001-46012006_3.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "46012001-46012007.doc",
+      "output": "46012001-46012007.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "46012001-46012011.doc",
+      "output": "46012001-46012011.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "46012001-46014025.doc",
+      "output": "46012001-46014025.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "46012001-46014040.doc",
+      "output": "46012001-46014040.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "46012007-46012031.doc",
+      "output": "46012007-46012031.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "46012007-46012031_2.doc",
+      "output": "46012007-46012031_2.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "46012007-46012031_3.doc",
+      "output": "46012007-46012031_3.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "46013001-46013013_1.doc",
+      "output": "46013001-46013013_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "46013001-46013013_2.doc",
+      "output": "46013001-46013013_2.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "46013001-46013013_3.doc",
+      "output": "46013001-46013013_3.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "46013001-46013013_4.doc",
+      "output": "46013001-46013013_4.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "46013008-46013013_1.doc",
+      "output": "46013008-46013013_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "46014001-46014025.doc",
+      "output": "46014001-46014025.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "46014001-46014040.doc",
+      "output": "46014001-46014040.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "47001023-47001002.doc",
+      "output": "47001023-47001002.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "47002014-47002003.doc",
+      "output": "47002014-47002003.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "47003007-47003004.doc",
+      "output": "47003007-47003004.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "47003007-47003004_1.doc",
+      "output": "47003007-47003004_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "47008001-47008015.doc",
+      "output": "47008001-47008015.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "47009001-47009009.doc",
+      "output": "47009001-47009009.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "48001001-48001010.doc",
+      "output": "48001001-48001010.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "48002001-48002021.doc",
+      "output": "48002001-48002021.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "48002011-48002021.doc",
+      "output": "48002011-48002021.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "48002011-48002021_1.doc",
+      "output": "48002011-48002021_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "48004021-48004005.doc",
+      "output": "48004021-48004005.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "48005001-48005026.doc",
+      "output": "48005001-48005026.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "48005013-48005026.doc",
+      "output": "48005013-48005026.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "48005016-48005023.doc",
+      "output": "48005016-48005023.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "49000000.doc",
+      "output": "49000000.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "49001001-49001010.doc",
+      "output": "49001001-49001010.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "49001001-49001014.doc",
+      "output": "49001001-49001014.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "49001011-49001014.doc",
+      "output": "49001011-49001014.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "49001015-49001023.doc",
+      "output": "49001015-49001023.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "49001015-49001023_1.doc",
+      "output": "49001015-49001023_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "49002001-49002010.doc",
+      "output": "49002001-49002010.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "49002001-49002010_1.doc",
+      "output": "49002001-49002010_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "49002001-49002010_2.doc",
+      "output": "49002001-49002010_2.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "49002001-49002013.doc",
+      "output": "49002001-49002013.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "49002001-49002022.doc",
+      "output": "49002001-49002022.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "49002008-49002009.doc",
+      "output": "49002008-49002009.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "49003001-49003013.doc",
+      "output": "49003001-49003013.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "49003014-49003021.doc",
+      "output": "49003014-49003021.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "49004001-49004013.doc",
+      "output": "49004001-49004013.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "49004001-49004013_1.doc",
+      "output": "49004001-49004013_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "49005002-49005003.doc",
+      "output": "49005002-49005003.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "49005015-49005023_1.doc",
+      "output": "49005015-49005023_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "49005021-49005033.doc",
+      "output": "49005021-49005033.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "49005021-49005033_1.doc",
+      "output": "49005021-49005033_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "49005021-49005033_2.doc",
+      "output": "49005021-49005033_2.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "49005021-49005033_3.doc",
+      "output": "49005021-49005033_3.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "49005021-49005033_4.doc",
+      "output": "49005021-49005033_4.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "49005022-49005033.doc",
+      "output": "49005022-49005033.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "49006010-49006020.doc",
+      "output": "49006010-49006020.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "49006010-49006024.doc",
+      "output": "49006010-49006024.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "50000000.doc",
+      "output": "50000000.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "50000000_1.doc",
+      "output": "50000000_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "50000000_2.doc",
+      "output": "50000000_2.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "50000000_3.doc",
+      "output": "50000000_3.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "50000000_4.doc",
+      "output": "50000000_4.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "50001001-50001011.doc",
+      "output": "50001001-50001011.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "50001001-50001011_1.doc",
+      "output": "50001001-50001011_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "50001001-50004023.doc",
+      "output": "50001001-50004023.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "50001003-50001011.doc",
+      "output": "50001003-50001011.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "50001009-50001011.doc",
+      "output": "50001009-50001011.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "50001012-50001030.doc",
+      "output": "50001012-50001030.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "50001012-50001030_1.doc",
+      "output": "50001012-50001030_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "50002001-50002011.doc",
+      "output": "50002001-50002011.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "50002012-50002030.doc",
+      "output": "50002012-50002030.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "50002019-50002030.doc",
+      "output": "50002019-50002030.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "50003001-50003011.doc",
+      "output": "50003001-50003011.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "50003001-50003011_1.doc",
+      "output": "50003001-50003011_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "50003001-50004001.doc",
+      "output": "50003001-50004001.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "50003001-50004001_1.doc",
+      "output": "50003001-50004001_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "50003007-50003011.doc",
+      "output": "50003007-50003011.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "50003012-50003016.doc",
+      "output": "50003012-50003016.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "50003012-50003021.doc",
+      "output": "50003012-50003021.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "50004001-50004023.doc",
+      "output": "50004001-50004023.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "51002006-51002007.doc",
+      "output": "51002006-51002007.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "51002006-51002007_1.doc",
+      "output": "51002006-51002007_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "51004002-51004006.doc",
+      "output": "51004002-51004006.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "51004005-51004006.doc",
+      "output": "51004005-51004006.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "51004005-51004006_1.doc",
+      "output": "51004005-51004006_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "52000000.doc",
+      "output": "52000000.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "52001001-52001010.doc",
+      "output": "52001001-52001010.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "52001001-52001010_1.doc",
+      "output": "52001001-52001010_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "52002001-52002012.doc",
+      "output": "52002001-52002012.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "52004013-52004018.doc",
+      "output": "52004013-52004018.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "52005001-52005011.doc",
+      "output": "52005001-52005011.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "52005012-52005018.doc",
+      "output": "52005012-52005018.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "52005012-52005018_1.doc",
+      "output": "52005012-52005018_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "53002001-53002017.doc",
+      "output": "53002001-53002017.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "53003001-53003018.doc",
+      "output": "53003001-53003018.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "54002001-54002006.doc",
+      "output": "54002001-54002006.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "54002001-54002006_1.doc",
+      "output": "54002001-54002006_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "54002001-54002006_2.doc",
+      "output": "54002001-54002006_2.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "54002001-54002007.doc",
+      "output": "54002001-54002007.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "54002001-54002007_1.doc",
+      "output": "54002001-54002007_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "54004016-54004016.doc",
+      "output": "54004016-54004016.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "55001001-55001018.doc",
+      "output": "55001001-55001018.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "55002001-55002026.doc",
+      "output": "55002001-55002026.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "55002001-55002026_1.doc",
+      "output": "55002001-55002026_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "55002001-55002026_2.doc",
+      "output": "55002001-55002026_2.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "55003001-55003017.doc",
+      "output": "55003001-55003017.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "55003001-55003017_2.doc",
+      "output": "55003001-55003017_2.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "55003001-55003017_3.doc",
+      "output": "55003001-55003017_3.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "55003001-55003017_4.doc",
+      "output": "55003001-55003017_4.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "56002001-56002010.doc",
+      "output": "56002001-56002010.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "56002001-56002013.doc",
+      "output": "56002001-56002013.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58000000.doc",
+      "output": "58000000.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58000000_1.doc",
+      "output": "58000000_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58001001-58001004.doc",
+      "output": "58001001-58001004.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58001001-58001004_1.doc",
+      "output": "58001001-58001004_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58001001-58002003.doc",
+      "output": "58001001-58002003.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58002005-58003001.doc",
+      "output": "58002005-58003001.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58002005-58003001_1.doc",
+      "output": "58002005-58003001_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58002005-58003001_2.doc",
+      "output": "58002005-58003001_2.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58003001-58003019.doc",
+      "output": "58003001-58003019.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58003001-58003019_1.doc",
+      "output": "58003001-58003019_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58003001-58004013.doc",
+      "output": "58003001-58004013.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58003002-58004013.doc",
+      "output": "58003002-58004013.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58003002-58004013_1.doc",
+      "output": "58003002-58004013_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58003012-58004013.doc",
+      "output": "58003012-58004013.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58004012-58005010.doc",
+      "output": "58004012-58005010.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58004012-58008014.doc",
+      "output": "58004012-58008014.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58004012-58008014_1.doc",
+      "output": "58004012-58008014_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58004012-58008014_2.doc",
+      "output": "58004012-58008014_2.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58004014-58005010.doc",
+      "output": "58004014-58005010.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58005011-58006020.doc",
+      "output": "58005011-58006020.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58005011-58006020_1.doc",
+      "output": "58005011-58006020_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58008001-58008013.doc",
+      "output": "58008001-58008013.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58008013-58010025.doc",
+      "output": "58008013-58010025.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58009001-58009028.doc",
+      "output": "58009001-58009028.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58009001-58010039.doc",
+      "output": "58009001-58010039.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58009001-58010039_1.doc",
+      "output": "58009001-58010039_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58010019-58010025.doc",
+      "output": "58010019-58010025.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58010019-58010039.doc",
+      "output": "58010019-58010039.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58010019-58010039_1.doc",
+      "output": "58010019-58010039_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58010024-58010025.doc",
+      "output": "58010024-58010025.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58010024-58010025_1.doc",
+      "output": "58010024-58010025_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58010026-58011002.doc",
+      "output": "58010026-58011002.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58011001-58011016.doc",
+      "output": "58011001-58011016.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58012001-58012013.doc",
+      "output": "58012001-58012013.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58012001-58012013_1.doc",
+      "output": "58012001-58012013_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58012001-58012029_1.doc",
+      "output": "58012001-58012029_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58012001-58013006.doc",
+      "output": "58012001-58013006.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58012005-58012013.doc",
+      "output": "58012005-58012013.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58012005-58012013_1.doc",
+      "output": "58012005-58012013_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58012014-58012017_1.doc",
+      "output": "58012014-58012017_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58012018-58012029_1.doc",
+      "output": "58012018-58012029_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58013001-58013006.doc",
+      "output": "58013001-58013006.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "58013001-58013025.doc",
+      "output": "58013001-58013025.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "59000000.doc",
+      "output": "59000000.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "59000000_1.doc",
+      "output": "59000000_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "59000000_2.doc",
+      "output": "59000000_2.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "59001001-59001008.doc",
+      "output": "59001001-59001008.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "59001001-59001008_1.doc",
+      "output": "59001001-59001008_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "59001001-59001018.doc",
+      "output": "59001001-59001018.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "59001001-59001018_1.doc",
+      "output": "59001001-59001018_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "59001001-59001018_2.doc",
+      "output": "59001001-59001018_2.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "59001001-59001018_3.doc",
+      "output": "59001001-59001018_3.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "59001001-59001018_4.doc",
+      "output": "59001001-59001018_4.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "59001019-59001027.doc",
+      "output": "59001019-59001027.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "59001019-59001027_1.doc",
+      "output": "59001019-59001027_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "59001019-59001027_2.doc",
+      "output": "59001019-59001027_2.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "59001019-59001027_3.doc",
+      "output": "59001019-59001027_3.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "59002001-59002013.doc",
+      "output": "59002001-59002013.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "59002014-59002026.doc",
+      "output": "59002014-59002026.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "59003001-59003013.doc",
+      "output": "59003001-59003013.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "59003013-59003018.doc",
+      "output": "59003013-59003018.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "59003013-59003018_2.doc",
+      "output": "59003013-59003018_2.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "59003013-59003018_3.doc",
+      "output": "59003013-59003018_3.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "59003014-59003004.doc",
+      "output": "59003014-59003004.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "59004013-59004005.doc",
+      "output": "59004013-59004005.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "59005013-59005020.doc",
+      "output": "59005013-59005020.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "60000000.doc",
+      "output": "60000000.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "60000000_1.doc",
+      "output": "60000000_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "60000000_2.doc",
+      "output": "60000000_2.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "60001001-60001002.doc",
+      "output": "60001001-60001002.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "60001001-60001012.doc",
+      "output": "60001001-60001012.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "60001001-60001012_1.doc",
+      "output": "60001001-60001012_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "60001001-60001025.doc",
+      "output": "60001001-60001025.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "60001013-60002003.doc",
+      "output": "60001013-60002003.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "60002004-60002010.doc",
+      "output": "60002004-60002010.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "60002004-60002012.doc",
+      "output": "60002004-60002012.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "60002009-60002014.doc",
+      "output": "60002009-60002014.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "60002011-60002017.doc",
+      "output": "60002011-60002017.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "60002011-60002025.doc",
+      "output": "60002011-60002025.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "60002012-60002025.doc",
+      "output": "60002012-60002025.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "60002012-60002025_1.doc",
+      "output": "60002012-60002025_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "60002018-60002025.doc",
+      "output": "60002018-60002025.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "60003001-60003007.doc",
+      "output": "60003001-60003007.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "60003001-60003007_1.doc",
+      "output": "60003001-60003007_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "60003001-60003007_3.doc",
+      "output": "60003001-60003007_3.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "60003008-60003018.doc",
+      "output": "60003008-60003018.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "60003008-60003018_1.doc",
+      "output": "60003008-60003018_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "60003018-60003004.doc",
+      "output": "60003018-60003004.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "60003018-60003004_1.doc",
+      "output": "60003018-60003004_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "60003018-60004006.doc",
+      "output": "60003018-60004006.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "60004007-60004017.doc",
+      "output": "60004007-60004017.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "60004012-60004005.doc",
+      "output": "60004012-60004005.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "60005001-60005004.doc",
+      "output": "60005001-60005004.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "60005001-60005012.doc",
+      "output": "60005001-60005012.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "60005001-60005014.doc",
+      "output": "60005001-60005014.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "60005001-60005014_2.doc",
+      "output": "60005001-60005014_2.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "61001001-61001011.doc",
+      "output": "61001001-61001011.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "61001001-61001011_1.doc",
+      "output": "61001001-61001011_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "61001001-61001021.doc",
+      "output": "61001001-61001021.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "61001001-61001021_1.doc",
+      "output": "61001001-61001021_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "61001001-61001021_2.doc",
+      "output": "61001001-61001021_2.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "61001001-61001021_3.doc",
+      "output": "61001001-61001021_3.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "61001001-61001021_4.doc",
+      "output": "61001001-61001021_4.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "61001012-61001021.doc",
+      "output": "61001012-61001021.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "61002001-61002022.doc",
+      "output": "61002001-61002022.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "61003001-61003018_1.doc",
+      "output": "61003001-61003018_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "61003001-61003018_2.doc",
+      "output": "61003001-61003018_2.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "62002018-62002029.doc",
+      "output": "62002018-62002029.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "66000000.doc",
+      "output": "66000000.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "66000000_1.doc",
+      "output": "66000000_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "66001001-66001020.doc",
+      "output": "66001001-66001020.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "66002001-66002029.doc",
+      "output": "66002001-66002029.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "66004001-66004011.doc",
+      "output": "66004001-66004011.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "66005001-66005014.doc",
+      "output": "66005001-66005014.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "66005001-66005014_1.doc",
+      "output": "66005001-66005014_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "66005001-66005014_2.doc",
+      "output": "66005001-66005014_2.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "66005001-66005014_3.doc",
+      "output": "66005001-66005014_3.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "66005005-66005005.doc",
+      "output": "66005005-66005005.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "66006001-66006017.doc",
+      "output": "66006001-66006017.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "66008001-66008013.doc",
+      "output": "66008001-66008013.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "66012001-66012018.doc",
+      "output": "66012001-66012018.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "66014001-66014020.doc",
+      "output": "66014001-66014020.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "66017001-66017018.doc",
+      "output": "66017001-66017018.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "66018001-66022021.doc",
+      "output": "66018001-66022021.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "66019001-66019021.doc",
+      "output": "66019001-66019021.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "8000000.doc",
+      "output": "8000000.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "9003001-9003021_1.doc",
+      "output": "9003001-9003021_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "9007002-9007017.doc",
+      "output": "9007002-9007017.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "9008001-9008022_1.doc",
+      "output": "9008001-9008022_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "9009001-9010027_1.doc",
+      "output": "9009001-9010027_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "9015001-9015031_1.doc",
+      "output": "9015001-9015031_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "9016001-9016023_2.doc",
+      "output": "9016001-9016023_2.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "9017001-9017058_1.doc",
+      "output": "9017001-9017058_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "9018001-9018030_1.doc",
+      "output": "9018001-9018030_1.md",
+      "success": true,
+      "method": "libreoffice",
+      "error": null
+    },
+    {
+      "input": "10001001-10001027.docx",
+      "output": "10001001-10001027.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "10002001-10002032.docx",
+      "output": "10002001-10002032.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "10003001-10005003.docx",
+      "output": "10003001-10005003.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "10005001-10006023.docx",
+      "output": "10005001-10006023.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "10007001-10007029.docx",
+      "output": "10007001-10007029.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "10008001-10010019.docx",
+      "output": "10008001-10010019.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "1001001-1001002.docx",
+      "output": "1001001-1001002.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "10011001-10012031.docx",
+      "output": "10011001-10012031.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "10013001-10014033.docx",
+      "output": "10013001-10014033.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "10014001-10016023.docx",
+      "output": "10014001-10016023.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "10014001-10016023_1.docx",
+      "output": "10014001-10016023_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "10017001-10019043.docx",
+      "output": "10017001-10019043.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "1002004-1002023.docx",
+      "output": "1002004-1002023.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "10024001-10024025.docx",
+      "output": "10024001-10024025.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "1003001-1003024.docx",
+      "output": "1003001-1003024.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "1009001-1009020.docx",
+      "output": "1009001-1009020.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "1011001-1012007.docx",
+      "output": "1011001-1012007.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "1012009-1013018.docx",
+      "output": "1012009-1013018.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "1013001-1013018.docx",
+      "output": "1013001-1013018.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "1014001-1014024.docx",
+      "output": "1014001-1014024.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "1015001-1017027.docx",
+      "output": "1015001-1017027.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "1018001-1019038.docx",
+      "output": "1018001-1019038.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "1022001-1022019_1.docx",
+      "output": "1022001-1022019_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "1023001-1023020.docx",
+      "output": "1023001-1023020.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "18001001-18002013_1.docx",
+      "output": "18001001-18002013_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "18001020-18001024.docx",
+      "output": "18001020-18001024.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "18004001-18004021_1.docx",
+      "output": "18004001-18004021_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "18028001-18028028_1.docx",
+      "output": "18028001-18028028_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "18033001-18033033.docx",
+      "output": "18033001-18033033.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "18042001-18042017.docx",
+      "output": "18042001-18042017.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "18042001-18042017_3.docx",
+      "output": "18042001-18042017_3.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "18042001-18042017_5.docx",
+      "output": "18042001-18042017_5.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "2001001-2002010.docx",
+      "output": "2001001-2002010.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "2003001-2004031.docx",
+      "output": "2003001-2004031.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "2003007-2004017.docx",
+      "output": "2003007-2004017.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "20031001-20031009.docx",
+      "output": "20031001-20031009.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "2007001-2007025.docx",
+      "output": "2007001-2007025.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "2007001-2007025_1.docx",
+      "output": "2007001-2007025_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "2007001-2007025_2.docx",
+      "output": "2007001-2007025_2.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "2009013-2010023_1.docx",
+      "output": "2009013-2010023_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "2014001-2014031.docx",
+      "output": "2014001-2014031.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "2016001-2016030.docx",
+      "output": "2016001-2016030.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "2021001-2021036.docx",
+      "output": "2021001-2021036.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "2021001-2021036_1.docx",
+      "output": "2021001-2021036_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "2025001-2025040.docx",
+      "output": "2025001-2025040.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "2032001-2032035.docx",
+      "output": "2032001-2032035.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "2040017-2040038.docx",
+      "output": "2040017-2040038.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "21001001-21001018.docx",
+      "output": "21001001-21001018.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "21001001-21001018_1.docx",
+      "output": "21001001-21001018_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "21001001-21001018_2.docx",
+      "output": "21001001-21001018_2.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "21001001-21002026.docx",
+      "output": "21001001-21002026.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "21002001-21002026.docx",
+      "output": "21002001-21002026.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "21002001-21002026_1.docx",
+      "output": "21002001-21002026_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "21009001-21009012.docx",
+      "output": "21009001-21009012.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "21009001-21009012_1.docx",
+      "output": "21009001-21009012_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "21009007-21009010.docx",
+      "output": "21009007-21009010.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "21012001-21012014.docx",
+      "output": "21012001-21012014.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "23001001-23001020.docx",
+      "output": "23001001-23001020.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "23002001-23002022.docx",
+      "output": "23002001-23002022.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "23003001-23004006.docx",
+      "output": "23003001-23004006.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "23005001-23005030.docx",
+      "output": "23005001-23005030.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "23006001-23006013.docx",
+      "output": "23006001-23006013.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "23007001-23007025.docx",
+      "output": "23007001-23007025.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "23009001-23009007.docx",
+      "output": "23009001-23009007.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "23011001-23011012.docx",
+      "output": "23011001-23011012.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "23040021-23040026.docx",
+      "output": "23040021-23040026.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "23055001-23055007.docx",
+      "output": "23055001-23055007.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "23055001-23055007_2.docx",
+      "output": "23055001-23055007_2.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "23055001-23055007_3.docx",
+      "output": "23055001-23055007_3.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "27000000.docx",
+      "output": "27000000.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "30001001-30002016.docx",
+      "output": "30001001-30002016.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "30001001-30002016_1.docx",
+      "output": "30001001-30002016_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "30003001-30003015.docx",
+      "output": "30003001-30003015.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "30003001-30003015_1.docx",
+      "output": "30003001-30003015_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "30004001-30005017.docx",
+      "output": "30004001-30005017.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "30004001-30005017_1.docx",
+      "output": "30004001-30005017_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "30005018-30005027.docx",
+      "output": "30005018-30005027.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "30006001-30006014.docx",
+      "output": "30006001-30006014.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "30006001-30006014_1.docx",
+      "output": "30006001-30006014_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "32001001-32001016.docx",
+      "output": "32001001-32001016.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "32001001-32001016_1.docx",
+      "output": "32001001-32001016_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "32001001-32001016_2.docx",
+      "output": "32001001-32001016_2.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "32001017-32002010.docx",
+      "output": "32001017-32002010.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "32001017-32002010_1.docx",
+      "output": "32001017-32002010_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "32002001-32002010.docx",
+      "output": "32002001-32002010.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "32002010-32003010.docx",
+      "output": "32002010-32003010.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "32002010-32003010_1.docx",
+      "output": "32002010-32003010_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "32002010-32003010_2.docx",
+      "output": "32002010-32003010_2.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "32004001-32004011.docx",
+      "output": "32004001-32004011.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "32004001-32004011_1.docx",
+      "output": "32004001-32004011_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "33001001-33001016.docx",
+      "output": "33001001-33001016.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "33002001-33002013.docx",
+      "output": "33002001-33002013.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "33002001-33002013_1.docx",
+      "output": "33002001-33002013_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "33003001-33003012.docx",
+      "output": "33003001-33003012.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "33004001-33004013.docx",
+      "output": "33004001-33004013.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "33004001-33004013_1.docx",
+      "output": "33004001-33004013_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "33005001-33005015.docx",
+      "output": "33005001-33005015.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "33006001-33006016.docx",
+      "output": "33006001-33006016.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "33007001-33007020.docx",
+      "output": "33007001-33007020.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "38002001-38002013.docx",
+      "output": "38002001-38002013.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "38003001-38004014_1.docx",
+      "output": "38003001-38004014_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "38007001-38008023.docx",
+      "output": "38007001-38008023.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "38007001-38008023_1.docx",
+      "output": "38007001-38008023_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "38009001-38011003.docx",
+      "output": "38009001-38011003.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "38011004-38011013.docx",
+      "output": "38011004-38011013.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "38012001-38013002.docx",
+      "output": "38012001-38013002.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "38012001-38013002_1.docx",
+      "output": "38012001-38013002_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "38012010-38013002.docx",
+      "output": "38012010-38013002.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "38014001-38014021.docx",
+      "output": "38014001-38014021.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "38014001-38014021_1.docx",
+      "output": "38014001-38014021_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "38014001-38014021_2.docx",
+      "output": "38014001-38014021_2.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "39001001-39002009_1.docx",
+      "output": "39001001-39002009_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "39002010-39002017_1.docx",
+      "output": "39002010-39002017_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "39002017-39003012.docx",
+      "output": "39002017-39003012.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "4000000.docx",
+      "output": "4000000.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "40005001-40005012.docx",
+      "output": "40005001-40005012.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "40005001-40005014.docx",
+      "output": "40005001-40005014.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "40005001-40005048.docx",
+      "output": "40005001-40005048.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "40005001-40005048_1.docx",
+      "output": "40005001-40005048_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "40005001-40005048_2.docx",
+      "output": "40005001-40005048_2.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "40005001-40005048_3.docx",
+      "output": "40005001-40005048_3.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "40005001-40005048_4.docx",
+      "output": "40005001-40005048_4.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "40005001-40005048_5.docx",
+      "output": "40005001-40005048_5.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "40006001-40006034.docx",
+      "output": "40006001-40006034.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "40006019-40006024.docx",
+      "output": "40006019-40006024.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "40007001-40007006.docx",
+      "output": "40007001-40007006.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "40007015-40007023.docx",
+      "output": "40007015-40007023.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "40009035-40010042_1.docx",
+      "output": "40009035-40010042_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "4001001-4010013_1.docx",
+      "output": "4001001-4010013_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "40016013-40016028_2.docx",
+      "output": "40016013-40016028_2.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "40017001-40008009_2.docx",
+      "output": "40017001-40008009_2.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "40018015-40018035.docx",
+      "output": "40018015-40018035.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "40018015-40018035_1.docx",
+      "output": "40018015-40018035_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "40024001-40024035.docx",
+      "output": "40024001-40024035.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "40026001-40026046.docx",
+      "output": "40026001-40026046.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "40026047-40027027_1.docx",
+      "output": "40026047-40027027_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "40027027-40027054.docx",
+      "output": "40027027-40027054.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "40027057-40028020.docx",
+      "output": "40027057-40028020.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "4011001-4011020.docx",
+      "output": "4011001-4011020.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "4011001-4011023.docx",
+      "output": "4011001-4011023.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "4013017-4013033.docx",
+      "output": "4013017-4013033.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "4020001-4020013.docx",
+      "output": "4020001-4020013.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "4020001-4020029.docx",
+      "output": "4020001-4020029.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "41001001-41001015.docx",
+      "output": "41001001-41001015.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "41001017-41001035.docx",
+      "output": "41001017-41001035.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "41002001-41002017.docx",
+      "output": "41002001-41002017.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "41002018-41002022.docx",
+      "output": "41002018-41002022.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "41002023-41003006.docx",
+      "output": "41002023-41003006.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "41003007-41003035.docx",
+      "output": "41003007-41003035.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "41004001-41004034.docx",
+      "output": "41004001-41004034.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "41004035-41005021.docx",
+      "output": "41004035-41005021.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "41005021-41005006.docx",
+      "output": "41005021-41005006.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "41005021-41006056.docx",
+      "output": "41005021-41006056.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "41007001-41007037.docx",
+      "output": "41007001-41007037.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "41008011-41009001.docx",
+      "output": "41008011-41009001.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "41008027-41008035.docx",
+      "output": "41008027-41008035.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "41009001-41009050.docx",
+      "output": "41009001-41009050.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "41009002-41009029.docx",
+      "output": "41009002-41009029.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "41009002-41009029_1.docx",
+      "output": "41009002-41009029_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "41009030-41009041.docx",
+      "output": "41009030-41009041.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "41009030-41009041_1.docx",
+      "output": "41009030-41009041_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "41010001-41010016.docx",
+      "output": "41010001-41010016.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "41010017-41010034.docx",
+      "output": "41010017-41010034.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "41010017-41010042.docx",
+      "output": "41010017-41010042.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "41010035-41010052.docx",
+      "output": "41010035-41010052.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "41011001-41011033.docx",
+      "output": "41011001-41011033.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "41012001-41012044.docx",
+      "output": "41012001-41012044.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "41013001-41013037_1.docx",
+      "output": "41013001-41013037_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "41014001-41014042.docx",
+      "output": "41014001-41014042.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "41015040-41016008_1.docx",
+      "output": "41015040-41016008_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42001001-42001080.docx",
+      "output": "42001001-42001080.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42001026-42001038.docx",
+      "output": "42001026-42001038.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42002001-42002020.docx",
+      "output": "42002001-42002020.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42009001-42009021.docx",
+      "output": "42009001-42009021.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42009001-42009021_1.docx",
+      "output": "42009001-42009021_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42009052-42010015.docx",
+      "output": "42009052-42010015.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42010001-42010042.docx",
+      "output": "42010001-42010042.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42010025-42010037_1.docx",
+      "output": "42010025-42010037_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42010038-42010042.docx",
+      "output": "42010038-42010042.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42010038-42010042_1.docx",
+      "output": "42010038-42010042_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42010038-42010042_2.docx",
+      "output": "42010038-42010042_2.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42011001-42011013_1.docx",
+      "output": "42011001-42011013_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42011001-42011054.docx",
+      "output": "42011001-42011054.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42011014-42011041.docx",
+      "output": "42011014-42011041.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42011037-42011054.docx",
+      "output": "42011037-42011054.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42012013-42012034.docx",
+      "output": "42012013-42012034.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42012049-42014024.docx",
+      "output": "42012049-42014024.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42013001-42017031.docx",
+      "output": "42013001-42017031.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42014001-42014035.docx",
+      "output": "42014001-42014035.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42014015-42014024_1.docx",
+      "output": "42014015-42014024_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42014025-42014035.docx",
+      "output": "42014025-42014035.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42014025-42014035_1.docx",
+      "output": "42014025-42014035_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42015001-42015032_1.docx",
+      "output": "42015001-42015032_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42015001-42015032_2.docx",
+      "output": "42015001-42015032_2.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42015001-42015032_3.docx",
+      "output": "42015001-42015032_3.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42015001-42015032_4.docx",
+      "output": "42015001-42015032_4.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42015011-42015024.docx",
+      "output": "42015011-42015024.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42015011-42015024_1.docx",
+      "output": "42015011-42015024_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42016001-42016014.docx",
+      "output": "42016001-42016014.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42016001-42016014_1.docx",
+      "output": "42016001-42016014_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42016001-42016014_2.docx",
+      "output": "42016001-42016014_2.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42016001-42016016_1.docx",
+      "output": "42016001-42016016_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42016001-42016016_2.docx",
+      "output": "42016001-42016016_2.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42016001-42016016_3.docx",
+      "output": "42016001-42016016_3.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42017001-42017007.docx",
+      "output": "42017001-42017007.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42017001-42017019_3.docx",
+      "output": "42017001-42017019_3.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42017001-42017019_4.docx",
+      "output": "42017001-42017019_4.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42017001-42017037.docx",
+      "output": "42017001-42017037.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42017007-42017019.docx",
+      "output": "42017007-42017019.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42017007-42017019_1.docx",
+      "output": "42017007-42017019_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42018001-42018014_1.docx",
+      "output": "42018001-42018014_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42018001-42018017.docx",
+      "output": "42018001-42018017.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42018015-42018030.docx",
+      "output": "42018015-42018030.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42018018-42018030.docx",
+      "output": "42018018-42018030.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42019001-42019010.docx",
+      "output": "42019001-42019010.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42019011-42019027.docx",
+      "output": "42019011-42019027.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42020001-42020019.docx",
+      "output": "42020001-42020019.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42020020-42020025.docx",
+      "output": "42020020-42020025.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42020020-42021004.docx",
+      "output": "42020020-42021004.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42020020-42021004_1.docx",
+      "output": "42020020-42021004_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42020026-42020040.docx",
+      "output": "42020026-42020040.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42021001-42021038.docx",
+      "output": "42021001-42021038.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42022001-42022038.docx",
+      "output": "42022001-42022038.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42022039-42022062_1.docx",
+      "output": "42022039-42022062_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42023001-42023025_1.docx",
+      "output": "42023001-42023025_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42023050-42024012_1.docx",
+      "output": "42023050-42024012_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42024013-42024046.docx",
+      "output": "42024013-42024046.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42024013-42024046_1.docx",
+      "output": "42024013-42024046_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "42024013-42024046_2.docx",
+      "output": "42024013-42024046_2.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "43001001-43001018_1.docx",
+      "output": "43001001-43001018_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "43001001-43001051.docx",
+      "output": "43001001-43001051.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "43002001-43002025.docx",
+      "output": "43002001-43002025.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "43003001-43003036.docx",
+      "output": "43003001-43003036.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "43003001-43003036_3.docx",
+      "output": "43003001-43003036_3.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "43004001-43004042.docx",
+      "output": "43004001-43004042.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "43004001-43004042_1.docx",
+      "output": "43004001-43004042_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "43004001-43004042_2.docx",
+      "output": "43004001-43004042_2.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "43004001-43004042_3.docx",
+      "output": "43004001-43004042_3.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "43005001-43005035.docx",
+      "output": "43005001-43005035.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "43006001-43006071_1.docx",
+      "output": "43006001-43006071_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "43006001-43006071_3.docx",
+      "output": "43006001-43006071_3.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "43006048-43006054.docx",
+      "output": "43006048-43006054.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "43007001-43007034.docx",
+      "output": "43007001-43007034.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "43008012-43009005.docx",
+      "output": "43008012-43009005.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "43008032-43008047.docx",
+      "output": "43008032-43008047.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "43009001-43009041.docx",
+      "output": "43009001-43009041.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "43010001-43010018.docx",
+      "output": "43010001-43010018.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "43011001-43011057.docx",
+      "output": "43011001-43011057.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "43012001-43012033.docx",
+      "output": "43012001-43012033.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "43012001-43012050.docx",
+      "output": "43012001-43012050.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "43013001-43013038.docx",
+      "output": "43013001-43013038.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "43014001-43014023.docx",
+      "output": "43014001-43014023.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "43014001-43014023_1.docx",
+      "output": "43014001-43014023_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "43015001-43015015.docx",
+      "output": "43015001-43015015.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "43015001-43015015_1.docx",
+      "output": "43015001-43015015_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "43015001-43015017.docx",
+      "output": "43015001-43015017.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "43015001-43015017_3.docx",
+      "output": "43015001-43015017_3.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "43015026-43016015.docx",
+      "output": "43015026-43016015.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "43016016-43016033.docx",
+      "output": "43016016-43016033.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "43017001-43017026.docx",
+      "output": "43017001-43017026.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "43018001-43018040.docx",
+      "output": "43018001-43018040.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "43020001-43020031.docx",
+      "output": "43020001-43020031.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "43021001-43021019.docx",
+      "output": "43021001-43021019.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "43021001-43021025.docx",
+      "output": "43021001-43021025.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "44004001-44004020.docx",
+      "output": "44004001-44004020.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "44014001-44014028.docx",
+      "output": "44014001-44014028.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "44014001-44014028_1.docx",
+      "output": "44014001-44014028_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "44015001-44015041.docx",
+      "output": "44015001-44015041.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "44016001-44016040.docx",
+      "output": "44016001-44016040.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "44016001-44016040_1.docx",
+      "output": "44016001-44016040_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "44017016-44017034.docx",
+      "output": "44017016-44017034.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "44019001-44019041_2.docx",
+      "output": "44019001-44019041_2.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "44020001-44020038.docx",
+      "output": "44020001-44020038.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "44020001-44020038_1.docx",
+      "output": "44020001-44020038_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "44021001-44021040.docx",
+      "output": "44021001-44021040.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "44024001-44024027.docx",
+      "output": "44024001-44024027.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "45001001-45001017_2.docx",
+      "output": "45001001-45001017_2.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "45001001-45001017_3.docx",
+      "output": "45001001-45001017_3.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "45001001-45001017_4.docx",
+      "output": "45001001-45001017_4.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "45001018-45001023.docx",
+      "output": "45001018-45001023.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "45001018-45001032_2.docx",
+      "output": "45001018-45001032_2.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "45002001-45003001.docx",
+      "output": "45002001-45003001.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "45003003-45003026.docx",
+      "output": "45003003-45003026.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "45004001-45004025.docx",
+      "output": "45004001-45004025.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "45005012-45005021.docx",
+      "output": "45005012-45005021.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "45006001-45006023_1.docx",
+      "output": "45006001-45006023_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "45008022-45008039.docx",
+      "output": "45008022-45008039.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "45008034-45008039.docx",
+      "output": "45008034-45008039.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "45008034-45008039_1.docx",
+      "output": "45008034-45008039_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "45008034-45008039_2.docx",
+      "output": "45008034-45008039_2.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "45008034-45008039_3.docx",
+      "output": "45008034-45008039_3.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "45008034-45008039_4.docx",
+      "output": "45008034-45008039_4.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "45009001-45009026.docx",
+      "output": "45009001-45009026.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "45009001-45009033.docx",
+      "output": "45009001-45009033.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "45009001-45009033_1.docx",
+      "output": "45009001-45009033_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "45010001-45010021_1.docx",
+      "output": "45010001-45010021_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "45011001-45011036.docx",
+      "output": "45011001-45011036.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "45011001-45011036_1.docx",
+      "output": "45011001-45011036_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "45011001-45011036_2.docx",
+      "output": "45011001-45011036_2.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "45012001-45012011.docx",
+      "output": "45012001-45012011.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "45012001-45012011_1.docx",
+      "output": "45012001-45012011_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "45012001-45012015.docx",
+      "output": "45012001-45012015.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "45012001-45012015_1.docx",
+      "output": "45012001-45012015_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "45012016-45013014_1.docx",
+      "output": "45012016-45013014_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "45013001-45013010.docx",
+      "output": "45013001-45013010.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "45014001-45014026.docx",
+      "output": "45014001-45014026.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "45014001-45014026_1.docx",
+      "output": "45014001-45014026_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "45014001-45015006_1.docx",
+      "output": "45014001-45015006_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "45015007-45015033.docx",
+      "output": "45015007-45015033.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "45015007-45015033_1.docx",
+      "output": "45015007-45015033_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "45015014-45015017.docx",
+      "output": "45015014-45015017.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "46001001-46001018.docx",
+      "output": "46001001-46001018.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "46001018-46001031.docx",
+      "output": "46001018-46001031.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "46002001-46002016.docx",
+      "output": "46002001-46002016.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "46002006-46002016.docx",
+      "output": "46002006-46002016.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "46003001-46003023.docx",
+      "output": "46003001-46003023.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "46003016-46004001.docx",
+      "output": "46003016-46004001.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "46004001-46004015.docx",
+      "output": "46004001-46004015.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "46006011-46006020.docx",
+      "output": "46006011-46006020.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "46009019-46010013.docx",
+      "output": "46009019-46010013.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "46009024-46015013.docx",
+      "output": "46009024-46015013.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "46010001-46010033.docx",
+      "output": "46010001-46010033.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "46011001-46011034.docx",
+      "output": "46011001-46011034.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "46011017-46011034_2.docx",
+      "output": "46011017-46011034_2.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "46012001-46012006_2.docx",
+      "output": "46012001-46012006_2.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "46012007-46012027.docx",
+      "output": "46012007-46012027.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "46012007-46012027_1.docx",
+      "output": "46012007-46012027_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "46012007-46012031_1.docx",
+      "output": "46012007-46012031_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "46012012-46012020.docx",
+      "output": "46012012-46012020.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "46013001-46013013.docx",
+      "output": "46013001-46013013.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "46013001-46013013_5.docx",
+      "output": "46013001-46013013_5.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "46013008-46013013.docx",
+      "output": "46013008-46013013.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "46014001-46014025_1.docx",
+      "output": "46014001-46014025_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "46014001-46014025_2.docx",
+      "output": "46014001-46014025_2.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "46015001-46015007.docx",
+      "output": "46015001-46015007.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "46015003-46015026.docx",
+      "output": "46015003-46015026.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "47005011-47005006.docx",
+      "output": "47005011-47005006.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "47005014-47005015.docx",
+      "output": "47005014-47005015.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "48001001-48001024.docx",
+      "output": "48001001-48001024.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "48002001-48002020.docx",
+      "output": "48002001-48002020.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "48003001-48003018.docx",
+      "output": "48003001-48003018.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "48003019-48004011.docx",
+      "output": "48003019-48004011.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "48005001-48005026_1.docx",
+      "output": "48005001-48005026_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "48005001-48005026_2.docx",
+      "output": "48005001-48005026_2.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "49001013-49001014.docx",
+      "output": "49001013-49001014.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "49002001-49002010_3.docx",
+      "output": "49002001-49002010_3.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "49003001-49003021.docx",
+      "output": "49003001-49003021.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "49003001-49003021_1.docx",
+      "output": "49003001-49003021_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "49004001-49004013_2.docx",
+      "output": "49004001-49004013_2.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "49004001-49004016.docx",
+      "output": "49004001-49004016.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "49004001-49004032.docx",
+      "output": "49004001-49004032.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "49005001-49005020.docx",
+      "output": "49005001-49005020.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "49005015-49005023.docx",
+      "output": "49005015-49005023.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "49006005-49006009.docx",
+      "output": "49006005-49006009.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "50001012-50001030_2.docx",
+      "output": "50001012-50001030_2.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "50002013-50002016.docx",
+      "output": "50002013-50002016.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "5005001-5005033.docx",
+      "output": "5005001-5005033.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "51001001-51001014.docx",
+      "output": "51001001-51001014.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "51001015-51001023.docx",
+      "output": "51001015-51001023.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "51001024-51002003.docx",
+      "output": "51001024-51002003.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "51002001-51002023.docx",
+      "output": "51002001-51002023.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "51003001-51003017.docx",
+      "output": "51003001-51003017.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "51003017-51004001.docx",
+      "output": "51003017-51004001.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "52001001-52001010_2.docx",
+      "output": "52001001-52001010_2.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "52002001-52002012_1.docx",
+      "output": "52002001-52002012_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "52002017-52003013.docx",
+      "output": "52002017-52003013.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "52003001-52003013.docx",
+      "output": "52003001-52003013.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "52004001-52004012.docx",
+      "output": "52004001-52004012.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "52004001-52004012_1.docx",
+      "output": "52004001-52004012_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "52004013-52004018_1.docx",
+      "output": "52004013-52004018_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "54001001-54001020.docx",
+      "output": "54001001-54001020.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "54002001-54002008.docx",
+      "output": "54002001-54002008.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "54002001-54002015.docx",
+      "output": "54002001-54002015.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "54002009-54002014.docx",
+      "output": "54002009-54002014.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "54003001-54003016.docx",
+      "output": "54003001-54003016.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "54004001-54004016.docx",
+      "output": "54004001-54004016.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "54004001-54004016_1.docx",
+      "output": "54004001-54004016_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "54004001-54004016_2.docx",
+      "output": "54004001-54004016_2.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "54004001-54004016_3.docx",
+      "output": "54004001-54004016_3.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "54005001-54005025.docx",
+      "output": "54005001-54005025.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "54006001-54006021.docx",
+      "output": "54006001-54006021.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "55003001-55003005.docx",
+      "output": "55003001-55003005.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "55003001-55003017_1.docx",
+      "output": "55003001-55003017_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "55004001-55004022.docx",
+      "output": "55004001-55004022.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "55004001-55004022_1.docx",
+      "output": "55004001-55004022_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "56002001-56002015.docx",
+      "output": "56002001-56002015.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "56002001-56002015_1.docx",
+      "output": "56002001-56002015_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "58004001-58004011.docx",
+      "output": "58004001-58004011.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "58004001-58004013.docx",
+      "output": "58004001-58004013.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "58010019-58010035.docx",
+      "output": "58010019-58010035.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "58011001-58011007.docx",
+      "output": "58011001-58011007.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "58011001-58011016_1.docx",
+      "output": "58011001-58011016_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "58011001-58011040.docx",
+      "output": "58011001-58011040.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "58012001-58012003.docx",
+      "output": "58012001-58012003.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "58012001-58012029.docx",
+      "output": "58012001-58012029.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "58012001-58012029_2.docx",
+      "output": "58012001-58012029_2.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "58012001-58012029_3.docx",
+      "output": "58012001-58012029_3.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "58012004-58013006.docx",
+      "output": "58012004-58013006.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "58012005-58012013_2.docx",
+      "output": "58012005-58012013_2.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "58012005-58012013_3.docx",
+      "output": "58012005-58012013_3.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "58012014-58012017.docx",
+      "output": "58012014-58012017.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "58012018-58012029.docx",
+      "output": "58012018-58012029.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "58012018-58012029_2.docx",
+      "output": "58012018-58012029_2.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "58013001-58013006_1.docx",
+      "output": "58013001-58013006_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "58013001-58013006_2.docx",
+      "output": "58013001-58013006_2.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "58013001-58013025_1.docx",
+      "output": "58013001-58013025_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "58013007-58013021.docx",
+      "output": "58013007-58013021.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "59001001-59001027.docx",
+      "output": "59001001-59001027.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "59003001-59004017.docx",
+      "output": "59003001-59004017.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "59003001-59004017_1.docx",
+      "output": "59003001-59004017_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "59003013-59003018_1.docx",
+      "output": "59003013-59003018_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "59003014-59003004_1.docx",
+      "output": "59003014-59003004_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "6000000.docx",
+      "output": "6000000.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "60001001-60001002_1.docx",
+      "output": "60001001-60001002_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "60001001-60001002_2.docx",
+      "output": "60001001-60001002_2.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "60002004-60002011.docx",
+      "output": "60002004-60002011.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "60002012-60002017.docx",
+      "output": "60002012-60002017.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "60002018-60002025_1.docx",
+      "output": "60002018-60002025_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "60003001-60003007_2.docx",
+      "output": "60003001-60003007_2.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "60003013-60003018.docx",
+      "output": "60003013-60003018.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "60003018-60004006_1.docx",
+      "output": "60003018-60004006_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "60005001-60005014_1.docx",
+      "output": "60005001-60005014_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "6001001-6001018.docx",
+      "output": "6001001-6001018.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "6001001-6001018_1.docx",
+      "output": "6001001-6001018_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "6002001-6002024.docx",
+      "output": "6002001-6002024.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "6003001-6003017.docx",
+      "output": "6003001-6003017.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "6006001-6006027.docx",
+      "output": "6006001-6006027.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "6006001-6006027_1.docx",
+      "output": "6006001-6006027_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "6007001-6007026.docx",
+      "output": "6007001-6007026.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "6009001-6009027.docx",
+      "output": "6009001-6009027.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "61003001-61003018.docx",
+      "output": "61003001-61003018.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "61003003-61003013.docx",
+      "output": "61003003-61003013.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "61003003-61003013_1.docx",
+      "output": "61003003-61003013_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "62000000.docx",
+      "output": "62000000.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "62004001-62004021.docx",
+      "output": "62004001-62004021.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "62004007-62004011.docx",
+      "output": "62004007-62004011.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "62004007-62004011_1.docx",
+      "output": "62004007-62004011_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "62004007-62004011_2.docx",
+      "output": "62004007-62004011_2.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "62004007-62004012.docx",
+      "output": "62004007-62004012.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "62004007-62004012_1.docx",
+      "output": "62004007-62004012_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "66012007-66012017.docx",
+      "output": "66012007-66012017.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "66012007-66012017_1.docx",
+      "output": "66012007-66012017_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "66012007-66012017_2.docx",
+      "output": "66012007-66012017_2.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "9001001-9001028.docx",
+      "output": "9001001-9001028.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "9001001-9001028_1.docx",
+      "output": "9001001-9001028_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "9003001-9003021.docx",
+      "output": "9003001-9003021.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "9004001-9006021.docx",
+      "output": "9004001-9006021.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "9008001-9008022.docx",
+      "output": "9008001-9008022.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "9009001-9010027.docx",
+      "output": "9009001-9010027.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "9011001-9011015.docx",
+      "output": "9011001-9011015.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "9015001-9015031.docx",
+      "output": "9015001-9015031.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "9016001-9016023.docx",
+      "output": "9016001-9016023.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "9016001-9016023_1.docx",
+      "output": "9016001-9016023_1.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "9017001-9017058.docx",
+      "output": "9017001-9017058.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "9018001-9018030.docx",
+      "output": "9018001-9018030.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "9021001-9021015.docx",
+      "output": "9021001-9021015.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "9024001-9024022.docx",
+      "output": "9024001-9024022.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    },
+    {
+      "input": "9028001-9028025.docx",
+      "output": "9028001-9028025.md",
+      "success": true,
+      "method": "pandoc",
+      "error": null
+    }
+  ]
+}

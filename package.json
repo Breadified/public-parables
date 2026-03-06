@@ -1,0 +1,46 @@
+{
+  "name": "parables",
+  "version": "1.0.0",
+  "description": "AI-powered Bible app with offline support",
+  "scripts": {
+    "prestart": "node scripts/check-apple-secret-expiry.js",
+    "start": "cd frontend && npx expo start --dev-client --clear",
+    "start:android": "cd frontend && npx expo run:android",
+    "dev": "cd frontend && npx expo start --dev-client",
+    "build:dev": "cd frontend && rimraf android && cross-env APP_VARIANT=development npx expo prebuild --platform android --clean && (echo sdk.dir=C:/Users/user/AppData/Local/Android/Sdk && echo ndk.dir=C:/Users/user/AppData/Local/Android/Sdk/ndk/27.1.12297006) > android/local.properties && cd android && .\\gradlew.bat --stop && (powershell -Command \"Remove-Item -Recurse -Force -ErrorAction SilentlyContinue 'C:\\P\\frontend\\node_modules\\expo-modules-core\\android\\build'\" || echo cleanup done) && .\\gradlew.bat assembleDebug --no-daemon",
+    "install:android": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe uninstall com.parables.app.dev 2>nul & C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe install C:\\P\\frontend\\android\\app\\build\\outputs\\apk\\debug\\app-debug.apk",
+    "build:dev:install": "npm run build:dev && npm run install:android",
+    "build:release": "cd frontend && npx expo prebuild --platform android --clean && (echo sdk.dir=C:/Users/user/AppData/Local/Android/Sdk && echo ndk.dir=C:/Users/user/AppData/Local/Android/Sdk/ndk/27.1.12297006) > android/local.properties && cd android && .\\gradlew.bat --stop && (powershell -Command \"Remove-Item -Recurse -Force -ErrorAction SilentlyContinue 'C:\\P\\frontend\\node_modules\\expo-modules-core\\android\\build'\" || echo cleanup done) && .\\gradlew.bat assembleRelease --no-daemon",
+    "install:android:release": "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe uninstall com.parables.app 2>nul & C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe install C:\\P\\frontend\\android\\app\\build\\outputs\\apk\\release\\app-release.apk",
+    "build:release:install": "npm run build:release && npm run install:android:release",
+    "build:ios": "cd frontend && cross-env EAS_NO_VCS=1 APP_VARIANT=development eas build --profile development --platform ios --clear-cache",
+    "build:all": "cd frontend && cross-env EAS_NO_VCS=1 APP_VARIANT=development eas build --profile development --platform all --clear-cache",
+    "ship": "node scripts/version-manager.js ship",
+    "ship:rebuild": "cd frontend && rimraf android ios && cross-env EAS_NO_VCS=1 eas build --profile preview --platform all --clear-cache",
+    "ship:rebuild:android": "cd frontend && rimraf android && cross-env EAS_NO_VCS=1 eas build --profile preview --platform android --clear-cache",
+    "ship:rebuild:ios": "cd frontend && rimraf ios && cross-env EAS_NO_VCS=1 eas build --profile preview --platform ios --clear-cache",
+    "ship:ios": "cd frontend && cross-env EAS_NO_VCS=1 eas build --profile preview --platform ios --clear-cache",
+    "lint": "cd frontend && npm run lint",
+    "typecheck": "cd frontend && npm run typecheck",
+    "generate:apple-secret": "node scripts/generate-apple-secret.js",
+    "version:bump": "node scripts/version-manager.js bump"
+  },
+  "keywords": [
+    "bible",
+    "expo",
+    "react-native",
+    "ai"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@xenova/transformers": "^2.17.2",
+    "better-sqlite3": "^12.5.0",
+    "cross-env": "^10.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "rimraf": "^6.1.2"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.90.1"
+  }
+}

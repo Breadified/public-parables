@@ -1,0 +1,5937 @@
+{
+  "metadata": {
+    "version": "1.1.0",
+    "generatedAt": "2025-12-05T03:54:30.173Z",
+    "totalQuestions": 105,
+    "totalCategories": 10,
+    "cycleStartDate": "2025-12-01",
+    "description": "Daily apologetics questions with interleaved category ordering for variety"
+  },
+  "categories": [
+    {
+      "id": "cat-does-god-even-exist",
+      "name": "Does God Even Exist?",
+      "questionCount": 15
+    },
+    {
+      "id": "cat-the-problem-of-evilgods-bigges",
+      "name": "The Problem of Evil—God's Biggest Failure?",
+      "questionCount": 12
+    },
+    {
+      "id": "cat-is-jesus-who-christians-claim",
+      "name": "Is Jesus Who Christians Claim?",
+      "questionCount": 12
+    },
+    {
+      "id": "cat-is-the-bible-trustworthyor-a-m",
+      "name": "Is the Bible Trustworthy—Or a Mess of Errors?",
+      "questionCount": 18
+    },
+    {
+      "id": "cat-science-vs-scripturecant-both-",
+      "name": "Science vs. Scripture—Can't Both Be True?",
+      "questionCount": 10
+    },
+    {
+      "id": "cat-christianitys-exclusive-claims",
+      "name": "Christianity's Exclusive Claims—Arrogant or True?",
+      "questionCount": 10
+    },
+    {
+      "id": "cat-the-character-of-godworthy-of-",
+      "name": "The Character of God—Worthy of Worship?",
+      "questionCount": 10
+    },
+    {
+      "id": "cat-the-bibles-moralityoutdated-an",
+      "name": "The Bible's Morality—Outdated and Dangerous?",
+      "questionCount": 8
+    },
+    {
+      "id": "cat-faith-doubt-and-honesty",
+      "name": "Faith, Doubt, and Honesty",
+      "questionCount": 5
+    },
+    {
+      "id": "cat-the-questions-beneath-the-ques",
+      "name": "The Questions Beneath the Questions (5)",
+      "questionCount": 5
+    }
+  ],
+  "questions": [
+    {
+      "id": "bac60fbb-4fbd-4a10-a94f-33cb3973827d",
+      "orderIndex": 0,
+      "categoryId": "cat-does-god-even-exist",
+      "categoryName": "Does God Even Exist?",
+      "questionText": "If everything needs a creator, who created God?",
+      "verseReferences": [
+        {
+          "reference": "Acts 17:24-28",
+          "bookNumber": 44,
+          "chapter": 17,
+          "verseStart": 24,
+          "verseEnd": 28,
+          "type": "response"
+        },
+        {
+          "reference": "Romans 1:19-20",
+          "bookNumber": 45,
+          "chapter": 1,
+          "verseStart": 19,
+          "verseEnd": 20,
+          "type": "context"
+        },
+        {
+          "reference": "Genesis 1:1-3",
+          "bookNumber": 1,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 3,
+          "type": "response"
+        },
+        {
+          "reference": "Colossians 1:16-17",
+          "bookNumber": 51,
+          "chapter": 1,
+          "verseStart": 16,
+          "verseEnd": 17,
+          "type": "response"
+        },
+        {
+          "reference": "Exodus 3:14",
+          "bookNumber": 2,
+          "chapter": 3,
+          "verseStart": 14,
+          "verseEnd": null,
+          "type": "response"
+        },
+        {
+          "reference": "Revelation 1:8",
+          "bookNumber": 66,
+          "chapter": 1,
+          "verseStart": 8,
+          "verseEnd": null,
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "dcc6553b-8894-49fd-af98-6fa5cb42ff41",
+      "orderIndex": 1,
+      "categoryId": "cat-the-problem-of-evilgods-bigges",
+      "categoryName": "The Problem of Evil—God's Biggest Failure?",
+      "questionText": "If God is all-powerful and all-loving, why do innocent children get cancer?",
+      "verseReferences": [
+        {
+          "reference": "Job 1:1-22",
+          "bookNumber": 18,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 22,
+          "type": "context"
+        },
+        {
+          "reference": "Job 2:1-10",
+          "bookNumber": 18,
+          "chapter": 2,
+          "verseStart": 1,
+          "verseEnd": 10,
+          "type": "response"
+        },
+        {
+          "reference": "James 1:2-4",
+          "bookNumber": 59,
+          "chapter": 1,
+          "verseStart": 2,
+          "verseEnd": 4,
+          "type": "response"
+        },
+        {
+          "reference": "Romans 8:28-29",
+          "bookNumber": 45,
+          "chapter": 8,
+          "verseStart": 28,
+          "verseEnd": 29,
+          "type": "response"
+        },
+        {
+          "reference": "Genesis 50:19-20",
+          "bookNumber": 1,
+          "chapter": 50,
+          "verseStart": 19,
+          "verseEnd": 20,
+          "type": "response"
+        },
+        {
+          "reference": "Revelation 21:1-4",
+          "bookNumber": 66,
+          "chapter": 21,
+          "verseStart": 1,
+          "verseEnd": 4,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "bae49968-ded8-4c7d-91c6-bc813e2d1c3e",
+      "orderIndex": 2,
+      "categoryId": "cat-is-jesus-who-christians-claim",
+      "categoryName": "Is Jesus Who Christians Claim?",
+      "questionText": "If Jesus was God, why did He seem ignorant of things (like the date of His return)?",
+      "verseReferences": [
+        {
+          "reference": "Colossians 1:15-20",
+          "bookNumber": 51,
+          "chapter": 1,
+          "verseStart": 15,
+          "verseEnd": 20,
+          "type": "context"
+        },
+        {
+          "reference": "John 1:1-18",
+          "bookNumber": 43,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 18,
+          "type": "context"
+        },
+        {
+          "reference": "Hebrews 1:1-4",
+          "bookNumber": 58,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 4,
+          "type": "response"
+        },
+        {
+          "reference": "Hebrews 2:14-18",
+          "bookNumber": 58,
+          "chapter": 2,
+          "verseStart": 14,
+          "verseEnd": 18,
+          "type": "response"
+        },
+        {
+          "reference": "Hebrews 4:14-16",
+          "bookNumber": 58,
+          "chapter": 4,
+          "verseStart": 14,
+          "verseEnd": 16,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "b227f515-41cc-4734-87ef-b7f93564bf42",
+      "orderIndex": 3,
+      "categoryId": "cat-is-the-bible-trustworthyor-a-m",
+      "categoryName": "Is the Bible Trustworthy—Or a Mess of Errors?",
+      "questionText": "How can the Bible be trusted when we don't have the original manuscripts?",
+      "verseReferences": [
+        {
+          "reference": "John 12:49-50",
+          "bookNumber": 43,
+          "chapter": 12,
+          "verseStart": 49,
+          "verseEnd": 50,
+          "type": "context"
+        },
+        {
+          "reference": "Hebrews 1:1-3",
+          "bookNumber": 58,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 3,
+          "type": "response"
+        },
+        {
+          "reference": "Luke 1:1-4",
+          "bookNumber": 42,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 4,
+          "type": "response"
+        },
+        {
+          "reference": "1 Corinthians 15:3-8",
+          "bookNumber": 46,
+          "chapter": 15,
+          "verseStart": 3,
+          "verseEnd": 8,
+          "type": "response"
+        },
+        {
+          "reference": "Isaiah 40:8",
+          "bookNumber": 23,
+          "chapter": 40,
+          "verseStart": 8,
+          "verseEnd": null,
+          "type": "context"
+        },
+        {
+          "reference": "Matthew 5:18",
+          "bookNumber": 40,
+          "chapter": 5,
+          "verseStart": 18,
+          "verseEnd": null,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "3b0a243e-b94a-49f7-9f05-4ec7b0481fd5",
+      "orderIndex": 4,
+      "categoryId": "cat-science-vs-scripturecant-both-",
+      "categoryName": "Science vs. Scripture—Can't Both Be True?",
+      "questionText": "If miracles break natural laws, doesn't that make them by definition the least likely explanation?",
+      "verseReferences": [
+        {
+          "reference": "John 5:36-40",
+          "bookNumber": 43,
+          "chapter": 5,
+          "verseStart": 36,
+          "verseEnd": 40,
+          "type": "response"
+        },
+        {
+          "reference": "Acts 3:12-16",
+          "bookNumber": 44,
+          "chapter": 3,
+          "verseStart": 12,
+          "verseEnd": 16,
+          "type": "response"
+        },
+        {
+          "reference": "John 6:14-15",
+          "bookNumber": 43,
+          "chapter": 6,
+          "verseStart": 14,
+          "verseEnd": 15,
+          "type": "context"
+        },
+        {
+          "reference": "Acts 4:13-22",
+          "bookNumber": 44,
+          "chapter": 4,
+          "verseStart": 13,
+          "verseEnd": 22,
+          "type": "response"
+        },
+        {
+          "reference": "John 11:38-45",
+          "bookNumber": 43,
+          "chapter": 11,
+          "verseStart": 38,
+          "verseEnd": 45,
+          "type": "response"
+        },
+        {
+          "reference": "1 Corinthians 15:12-19",
+          "bookNumber": 46,
+          "chapter": 15,
+          "verseStart": 12,
+          "verseEnd": 19,
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "ea8bd802-f656-4cae-81c7-6e247aa2c564",
+      "orderIndex": 5,
+      "categoryId": "cat-christianitys-exclusive-claims",
+      "categoryName": "Christianity's Exclusive Claims—Arrogant or True?",
+      "questionText": "Why would a loving God send sincere, moral people to hell just for having the wrong beliefs?",
+      "verseReferences": [
+        {
+          "reference": "Romans 3:10-23",
+          "bookNumber": 45,
+          "chapter": 3,
+          "verseStart": 10,
+          "verseEnd": 23,
+          "type": "context"
+        },
+        {
+          "reference": "Acts 17:22-31",
+          "bookNumber": 44,
+          "chapter": 17,
+          "verseStart": 22,
+          "verseEnd": 31,
+          "type": "response"
+        },
+        {
+          "reference": "Romans 1:18-23",
+          "bookNumber": 45,
+          "chapter": 1,
+          "verseStart": 18,
+          "verseEnd": 23,
+          "type": "context"
+        },
+        {
+          "reference": "Titus 2:11-14",
+          "bookNumber": 56,
+          "chapter": 2,
+          "verseStart": 11,
+          "verseEnd": 14,
+          "type": "response"
+        },
+        {
+          "reference": "Ephesians 2:1-10",
+          "bookNumber": 49,
+          "chapter": 2,
+          "verseStart": 1,
+          "verseEnd": 10,
+          "type": "response"
+        },
+        {
+          "reference": "Isaiah 64:6-7",
+          "bookNumber": 23,
+          "chapter": 64,
+          "verseStart": 6,
+          "verseEnd": 7,
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "cf7a52c9-23e4-4f46-b7d1-77df98c227cf",
+      "orderIndex": 6,
+      "categoryId": "cat-the-character-of-godworthy-of-",
+      "categoryName": "The Character of God—Worthy of Worship?",
+      "questionText": "How is it \"loving\" to create a place of eternal torture for your own children?",
+      "verseReferences": [
+        {
+          "reference": "Romans 5:12-21",
+          "bookNumber": 45,
+          "chapter": 5,
+          "verseStart": 12,
+          "verseEnd": 21,
+          "type": "context"
+        },
+        {
+          "reference": "Luke 16:19-31",
+          "bookNumber": 42,
+          "chapter": 16,
+          "verseStart": 19,
+          "verseEnd": 31,
+          "type": "response"
+        },
+        {
+          "reference": "John 3:16-18",
+          "bookNumber": 43,
+          "chapter": 3,
+          "verseStart": 16,
+          "verseEnd": 18,
+          "type": "response"
+        },
+        {
+          "reference": "Amos 1:3-2:16",
+          "bookNumber": null,
+          "chapter": null,
+          "verseStart": null,
+          "verseEnd": null,
+          "type": "context"
+        },
+        {
+          "reference": "Romans 9:19-24",
+          "bookNumber": 45,
+          "chapter": 9,
+          "verseStart": 19,
+          "verseEnd": 24,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "388fc35f-1890-4467-a829-1478252e8b00",
+      "orderIndex": 7,
+      "categoryId": "cat-the-bibles-moralityoutdated-an",
+      "categoryName": "The Bible's Morality—Outdated and Dangerous?",
+      "questionText": "Why should ancient Middle Eastern morality apply to modern life?",
+      "verseReferences": [
+        {
+          "reference": "Isaiah 2:2-3",
+          "bookNumber": 23,
+          "chapter": 2,
+          "verseStart": 2,
+          "verseEnd": 3,
+          "type": "context"
+        },
+        {
+          "reference": "Ecclesiastes 12:13-14",
+          "bookNumber": 21,
+          "chapter": 12,
+          "verseStart": 13,
+          "verseEnd": 14,
+          "type": "response"
+        },
+        {
+          "reference": "Matthew 5:17-19",
+          "bookNumber": 40,
+          "chapter": 5,
+          "verseStart": 17,
+          "verseEnd": 19,
+          "type": "response"
+        },
+        {
+          "reference": "Romans 4:9-12",
+          "bookNumber": 45,
+          "chapter": 4,
+          "verseStart": 9,
+          "verseEnd": 12,
+          "type": "response"
+        },
+        {
+          "reference": "Hebrews 8:10-12",
+          "bookNumber": 58,
+          "chapter": 8,
+          "verseStart": 10,
+          "verseEnd": 12,
+          "type": "response"
+        },
+        {
+          "reference": "Psalm 139:13-16",
+          "bookNumber": 19,
+          "chapter": 139,
+          "verseStart": 13,
+          "verseEnd": 16,
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "df06330b-a5df-4cfe-98fc-4bbc0ba4c432",
+      "orderIndex": 8,
+      "categoryId": "cat-faith-doubt-and-honesty",
+      "categoryName": "Faith, Doubt, and Honesty",
+      "questionText": "Why does God punish honest doubt but reward blind belief?",
+      "verseReferences": [
+        {
+          "reference": "Hebrews 11:1-6",
+          "bookNumber": 58,
+          "chapter": 11,
+          "verseStart": 1,
+          "verseEnd": 6,
+          "type": "context"
+        },
+        {
+          "reference": "John 20:24-29",
+          "bookNumber": 43,
+          "chapter": 20,
+          "verseStart": 24,
+          "verseEnd": 29,
+          "type": "response"
+        },
+        {
+          "reference": "Psalm 73:1-17",
+          "bookNumber": 19,
+          "chapter": 73,
+          "verseStart": 1,
+          "verseEnd": 17,
+          "type": "response"
+        },
+        {
+          "reference": "1 Peter 3:15-16",
+          "bookNumber": 60,
+          "chapter": 3,
+          "verseStart": 15,
+          "verseEnd": 16,
+          "type": "response"
+        },
+        {
+          "reference": "Proverbs 3:5-6",
+          "bookNumber": 20,
+          "chapter": 3,
+          "verseStart": 5,
+          "verseEnd": 6,
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "b7de87cb-eb83-43ef-9bfb-9e3aa4201b39",
+      "orderIndex": 9,
+      "categoryId": "cat-the-questions-beneath-the-ques",
+      "categoryName": "The Questions Beneath the Questions (5)",
+      "questionText": "Am I holding the Bible to a standard I don't apply to anything else I believe?",
+      "verseReferences": [
+        {
+          "reference": "2 Timothy 3:14-17",
+          "bookNumber": 55,
+          "chapter": 3,
+          "verseStart": 14,
+          "verseEnd": 17,
+          "type": "context"
+        },
+        {
+          "reference": "Job 40:1-14",
+          "bookNumber": 18,
+          "chapter": 40,
+          "verseStart": 1,
+          "verseEnd": 14,
+          "type": "context"
+        },
+        {
+          "reference": "Luke 1:1-4",
+          "bookNumber": 42,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 4,
+          "type": "response"
+        },
+        {
+          "reference": "1 Corinthians 15:3-8",
+          "bookNumber": 46,
+          "chapter": 15,
+          "verseStart": 3,
+          "verseEnd": 8,
+          "type": "response"
+        },
+        {
+          "reference": "2 Peter 1:16-21",
+          "bookNumber": 61,
+          "chapter": 1,
+          "verseStart": 16,
+          "verseEnd": 21,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "2e9c5419-393d-4b67-b8b8-eb448f6298d2",
+      "orderIndex": 10,
+      "categoryId": "cat-does-god-even-exist",
+      "categoryName": "Does God Even Exist?",
+      "questionText": "If God is real, why does He hide instead of making Himself obvious?",
+      "verseReferences": [
+        {
+          "reference": "John 1:1-18",
+          "bookNumber": 43,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 18,
+          "type": "response"
+        },
+        {
+          "reference": "Acts 17:24-28",
+          "bookNumber": 44,
+          "chapter": 17,
+          "verseStart": 24,
+          "verseEnd": 28,
+          "type": "context"
+        },
+        {
+          "reference": "Isaiah 55:6-9",
+          "bookNumber": 23,
+          "chapter": 55,
+          "verseStart": 6,
+          "verseEnd": 9,
+          "type": "response"
+        },
+        {
+          "reference": "Exodus 33:18-23",
+          "bookNumber": 2,
+          "chapter": 33,
+          "verseStart": 18,
+          "verseEnd": 23,
+          "type": "context"
+        },
+        {
+          "reference": "John 14:8-11",
+          "bookNumber": 43,
+          "chapter": 14,
+          "verseStart": 8,
+          "verseEnd": 11,
+          "type": "response"
+        },
+        {
+          "reference": "1 Kings 19:11-13",
+          "bookNumber": 11,
+          "chapter": 19,
+          "verseStart": 11,
+          "verseEnd": 13,
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "41aa7498-9b7d-412f-9fa6-b0aafb75ecb6",
+      "orderIndex": 11,
+      "categoryId": "cat-the-problem-of-evilgods-bigges",
+      "categoryName": "The Problem of Evil—God's Biggest Failure?",
+      "questionText": "Why did God create a world He knew would be filled with suffering?",
+      "verseReferences": [
+        {
+          "reference": "Job 1:6-12",
+          "bookNumber": 18,
+          "chapter": 1,
+          "verseStart": 6,
+          "verseEnd": 12,
+          "type": "context"
+        },
+        {
+          "reference": "Job 42:1-6",
+          "bookNumber": 18,
+          "chapter": 42,
+          "verseStart": 1,
+          "verseEnd": 6,
+          "type": "response"
+        },
+        {
+          "reference": "Genesis 50:20",
+          "bookNumber": 1,
+          "chapter": 50,
+          "verseStart": 20,
+          "verseEnd": null,
+          "type": "response"
+        },
+        {
+          "reference": "John 9:1-7",
+          "bookNumber": 43,
+          "chapter": 9,
+          "verseStart": 1,
+          "verseEnd": 7,
+          "type": "response"
+        },
+        {
+          "reference": "Revelation 21:1-4",
+          "bookNumber": 66,
+          "chapter": 21,
+          "verseStart": 1,
+          "verseEnd": 4,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "b6ae9e24-9709-47ee-930c-37bfb8d168fb",
+      "orderIndex": 12,
+      "categoryId": "cat-is-jesus-who-christians-claim",
+      "categoryName": "Is Jesus Who Christians Claim?",
+      "questionText": "Why should I trust accounts written decades after Jesus supposedly lived?",
+      "verseReferences": [
+        {
+          "reference": "1 Corinthians 15:3-8",
+          "bookNumber": 46,
+          "chapter": 15,
+          "verseStart": 3,
+          "verseEnd": 8,
+          "type": "response"
+        },
+        {
+          "reference": "John 20:30-31",
+          "bookNumber": 43,
+          "chapter": 20,
+          "verseStart": 30,
+          "verseEnd": 31,
+          "type": "context"
+        },
+        {
+          "reference": "Acts 2:22-32",
+          "bookNumber": 44,
+          "chapter": 2,
+          "verseStart": 22,
+          "verseEnd": 32,
+          "type": "response"
+        },
+        {
+          "reference": "1 John 1:1-3",
+          "bookNumber": 62,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 3,
+          "type": "response"
+        },
+        {
+          "reference": "Mark 15:40-41",
+          "bookNumber": 41,
+          "chapter": 15,
+          "verseStart": 40,
+          "verseEnd": 41,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "8730757e-6100-4519-8210-d635dd291c20",
+      "orderIndex": 13,
+      "categoryId": "cat-is-the-bible-trustworthyor-a-m",
+      "categoryName": "Is the Bible Trustworthy—Or a Mess of Errors?",
+      "questionText": "Why does the Bible contain scientific errors (like a flat earth, a solid sky dome, bats as birds)?",
+      "verseReferences": [
+        {
+          "reference": "2 Timothy 3:14-17",
+          "bookNumber": 55,
+          "chapter": 3,
+          "verseStart": 14,
+          "verseEnd": 17,
+          "type": "response"
+        },
+        {
+          "reference": "John 1:1-5",
+          "bookNumber": 43,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 5,
+          "type": "context"
+        },
+        {
+          "reference": "Hebrews 1:1-3",
+          "bookNumber": 58,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 3,
+          "type": "response"
+        },
+        {
+          "reference": "2 Peter 1:16-21",
+          "bookNumber": 61,
+          "chapter": 1,
+          "verseStart": 16,
+          "verseEnd": 21,
+          "type": "response"
+        },
+        {
+          "reference": "Isaiah 55:10-11",
+          "bookNumber": 23,
+          "chapter": 55,
+          "verseStart": 10,
+          "verseEnd": 11,
+          "type": "context"
+        },
+        {
+          "reference": "Luke 24:25-27",
+          "bookNumber": 42,
+          "chapter": 24,
+          "verseStart": 25,
+          "verseEnd": 27,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "6ec86098-649e-495a-ab64-b525a055268e",
+      "orderIndex": 14,
+      "categoryId": "cat-science-vs-scripturecant-both-",
+      "categoryName": "Science vs. Scripture—Can't Both Be True?",
+      "questionText": "How can you take the Bible seriously when it describes the sun standing still?",
+      "verseReferences": [
+        {
+          "reference": "Genesis 1:1",
+          "bookNumber": 1,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": null,
+          "type": "context"
+        },
+        {
+          "reference": "2 Timothy 3:15-17",
+          "bookNumber": 55,
+          "chapter": 3,
+          "verseStart": 15,
+          "verseEnd": 17,
+          "type": "response"
+        },
+        {
+          "reference": "Joshua 10:12-14",
+          "bookNumber": 6,
+          "chapter": 10,
+          "verseStart": 12,
+          "verseEnd": 14,
+          "type": "context"
+        },
+        {
+          "reference": "Psalm 19:1-6",
+          "bookNumber": 19,
+          "chapter": 19,
+          "verseStart": 1,
+          "verseEnd": 6,
+          "type": "response"
+        },
+        {
+          "reference": "Job 38:1-7",
+          "bookNumber": 18,
+          "chapter": 38,
+          "verseStart": 1,
+          "verseEnd": 7,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "ea1aa4e4-345d-4165-8d40-a6139ed58ff9",
+      "orderIndex": 15,
+      "categoryId": "cat-christianitys-exclusive-claims",
+      "categoryName": "Christianity's Exclusive Claims—Arrogant or True?",
+      "questionText": "Why do Christians interpret the same Bible in completely opposite ways?",
+      "verseReferences": [
+        {
+          "reference": "Romans 10:5-13",
+          "bookNumber": 45,
+          "chapter": 10,
+          "verseStart": 5,
+          "verseEnd": 13,
+          "type": "response"
+        },
+        {
+          "reference": "2 Timothy 3:14-17",
+          "bookNumber": 55,
+          "chapter": 3,
+          "verseStart": 14,
+          "verseEnd": 17,
+          "type": "response"
+        },
+        {
+          "reference": "2 Peter 3:15-16",
+          "bookNumber": 61,
+          "chapter": 3,
+          "verseStart": 15,
+          "verseEnd": 16,
+          "type": "context"
+        },
+        {
+          "reference": "Numbers 12:1-8",
+          "bookNumber": 4,
+          "chapter": 12,
+          "verseStart": 1,
+          "verseEnd": 8,
+          "type": "context"
+        },
+        {
+          "reference": "1 Corinthians 2:10-14",
+          "bookNumber": 46,
+          "chapter": 2,
+          "verseStart": 10,
+          "verseEnd": 14,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "c82477cf-22aa-4c27-8906-207f90e84933",
+      "orderIndex": 16,
+      "categoryId": "cat-the-character-of-godworthy-of-",
+      "categoryName": "The Character of God—Worthy of Worship?",
+      "questionText": "Why would a just God punish children for the sins of their parents to the third and fourth generation?",
+      "verseReferences": [
+        {
+          "reference": "Exodus 20:4-6",
+          "bookNumber": 2,
+          "chapter": 20,
+          "verseStart": 4,
+          "verseEnd": 6,
+          "type": "context"
+        },
+        {
+          "reference": "Ezekiel 18:1-20",
+          "bookNumber": 26,
+          "chapter": 18,
+          "verseStart": 1,
+          "verseEnd": 20,
+          "type": "response"
+        },
+        {
+          "reference": "Romans 5:12-21",
+          "bookNumber": 45,
+          "chapter": 5,
+          "verseStart": 12,
+          "verseEnd": 21,
+          "type": "response"
+        },
+        {
+          "reference": "2 Samuel 13:1-22",
+          "bookNumber": 10,
+          "chapter": 13,
+          "verseStart": 1,
+          "verseEnd": 22,
+          "type": "context"
+        },
+        {
+          "reference": "Genesis 3:14-19",
+          "bookNumber": 1,
+          "chapter": 3,
+          "verseStart": 14,
+          "verseEnd": 19,
+          "type": "context"
+        },
+        {
+          "reference": "Ezekiel 33:10-16",
+          "bookNumber": 26,
+          "chapter": 33,
+          "verseStart": 10,
+          "verseEnd": 16,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "a947d7eb-71b8-4b01-8d07-3a2f51df0d0f",
+      "orderIndex": 17,
+      "categoryId": "cat-the-bibles-moralityoutdated-an",
+      "categoryName": "The Bible's Morality—Outdated and Dangerous?",
+      "questionText": "Why does the Bible condemn homosexuality but permit polygamy?",
+      "verseReferences": [
+        {
+          "reference": "Genesis 2:18-25",
+          "bookNumber": 1,
+          "chapter": 2,
+          "verseStart": 18,
+          "verseEnd": 25,
+          "type": "context"
+        },
+        {
+          "reference": "Matthew 19:3-9",
+          "bookNumber": 40,
+          "chapter": 19,
+          "verseStart": 3,
+          "verseEnd": 9,
+          "type": "response"
+        },
+        {
+          "reference": "Genesis 4:19-24",
+          "bookNumber": 1,
+          "chapter": 4,
+          "verseStart": 19,
+          "verseEnd": 24,
+          "type": "context"
+        },
+        {
+          "reference": "1 Kings 11:1-8",
+          "bookNumber": 11,
+          "chapter": 11,
+          "verseStart": 1,
+          "verseEnd": 8,
+          "type": "response"
+        },
+        {
+          "reference": "Romans 1:24-27",
+          "bookNumber": 45,
+          "chapter": 1,
+          "verseStart": 24,
+          "verseEnd": 27,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "fb3dc47b-5e9f-40ef-8453-9df261234bc7",
+      "orderIndex": 18,
+      "categoryId": "cat-faith-doubt-and-honesty",
+      "categoryName": "Faith, Doubt, and Honesty",
+      "questionText": "If I sincerely seek God and don't find Him, is that my fault or His?",
+      "verseReferences": [
+        {
+          "reference": "Jeremiah 29:13-14",
+          "bookNumber": 24,
+          "chapter": 29,
+          "verseStart": 13,
+          "verseEnd": 14,
+          "type": "response"
+        },
+        {
+          "reference": "John 1:1-14",
+          "bookNumber": 43,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 14,
+          "type": "context"
+        },
+        {
+          "reference": "Romans 1:18-23",
+          "bookNumber": 45,
+          "chapter": 1,
+          "verseStart": 18,
+          "verseEnd": 23,
+          "type": "response"
+        },
+        {
+          "reference": "Proverbs 3:5-6",
+          "bookNumber": 20,
+          "chapter": 3,
+          "verseStart": 5,
+          "verseEnd": 6,
+          "type": "context"
+        },
+        {
+          "reference": "Matthew 7:7-11",
+          "bookNumber": 40,
+          "chapter": 7,
+          "verseStart": 7,
+          "verseEnd": 11,
+          "type": "response"
+        },
+        {
+          "reference": "Hebrews 11:6",
+          "bookNumber": 58,
+          "chapter": 11,
+          "verseStart": 6,
+          "verseEnd": null,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "8bd4442d-3719-4788-bcd6-0e0d4aeb61e7",
+      "orderIndex": 19,
+      "categoryId": "cat-the-questions-beneath-the-ques",
+      "categoryName": "The Questions Beneath the Questions (5)",
+      "questionText": "What would I have to see or experience to change my mind?",
+      "verseReferences": [
+        {
+          "reference": "Job 40:1-14",
+          "bookNumber": 18,
+          "chapter": 40,
+          "verseStart": 1,
+          "verseEnd": 14,
+          "type": "context"
+        },
+        {
+          "reference": "John 20:24-29",
+          "bookNumber": 43,
+          "chapter": 20,
+          "verseStart": 24,
+          "verseEnd": 29,
+          "type": "response"
+        },
+        {
+          "reference": "Luke 16:19-31",
+          "bookNumber": 42,
+          "chapter": 16,
+          "verseStart": 19,
+          "verseEnd": 31,
+          "type": "response"
+        },
+        {
+          "reference": "2 Timothy 3:14-17",
+          "bookNumber": 55,
+          "chapter": 3,
+          "verseStart": 14,
+          "verseEnd": 17,
+          "type": "context"
+        },
+        {
+          "reference": "James 1:5-8",
+          "bookNumber": 59,
+          "chapter": 1,
+          "verseStart": 5,
+          "verseEnd": 8,
+          "type": "response"
+        },
+        {
+          "reference": "Acts 17:30-31",
+          "bookNumber": 44,
+          "chapter": 17,
+          "verseStart": 30,
+          "verseEnd": 31,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "9986e192-aca8-4df5-b331-3ae7b44fe851",
+      "orderIndex": 20,
+      "categoryId": "cat-does-god-even-exist",
+      "categoryName": "Does God Even Exist?",
+      "questionText": "Doesn't the vastness of the universe make humanity seem insignificant rather than specially created?",
+      "verseReferences": [
+        {
+          "reference": "Psalm 8:1-9",
+          "bookNumber": 19,
+          "chapter": 8,
+          "verseStart": 1,
+          "verseEnd": 9,
+          "type": "context"
+        },
+        {
+          "reference": "Isaiah 40:21-26",
+          "bookNumber": 23,
+          "chapter": 40,
+          "verseStart": 21,
+          "verseEnd": 26,
+          "type": "response"
+        },
+        {
+          "reference": "Genesis 1:26-28",
+          "bookNumber": 1,
+          "chapter": 1,
+          "verseStart": 26,
+          "verseEnd": 28,
+          "type": "response"
+        },
+        {
+          "reference": "Psalm 19:1-6",
+          "bookNumber": 19,
+          "chapter": 19,
+          "verseStart": 1,
+          "verseEnd": 6,
+          "type": "context"
+        },
+        {
+          "reference": "Acts 17:24-28",
+          "bookNumber": 44,
+          "chapter": 17,
+          "verseStart": 24,
+          "verseEnd": 28,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "56973e26-4064-4388-b6cf-4fcf98d309a5",
+      "orderIndex": 21,
+      "categoryId": "cat-the-problem-of-evilgods-bigges",
+      "categoryName": "The Problem of Evil—God's Biggest Failure?",
+      "questionText": "Why does God seem to intervene in trivial matters but ignore genocides?",
+      "verseReferences": [
+        {
+          "reference": "Job 1:6-12",
+          "bookNumber": 18,
+          "chapter": 1,
+          "verseStart": 6,
+          "verseEnd": 12,
+          "type": "context"
+        },
+        {
+          "reference": "Isaiah 45:5-7",
+          "bookNumber": 23,
+          "chapter": 45,
+          "verseStart": 5,
+          "verseEnd": 7,
+          "type": "response"
+        },
+        {
+          "reference": "Romans 9:19-24",
+          "bookNumber": 45,
+          "chapter": 9,
+          "verseStart": 19,
+          "verseEnd": 24,
+          "type": "response"
+        },
+        {
+          "reference": "Joshua 5:13-15",
+          "bookNumber": 6,
+          "chapter": 5,
+          "verseStart": 13,
+          "verseEnd": 15,
+          "type": "context"
+        },
+        {
+          "reference": "Psalm 73:16-20",
+          "bookNumber": 19,
+          "chapter": 73,
+          "verseStart": 16,
+          "verseEnd": 20,
+          "type": "response"
+        },
+        {
+          "reference": "Acts 2:22-23",
+          "bookNumber": 44,
+          "chapter": 2,
+          "verseStart": 22,
+          "verseEnd": 23,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "fa6c31ca-6954-4796-9401-3aaf92bb687e",
+      "orderIndex": 22,
+      "categoryId": "cat-is-jesus-who-christians-claim",
+      "categoryName": "Is Jesus Who Christians Claim?",
+      "questionText": "If Jesus is the \"Prince of Peace,\" why did He say He came to bring a sword?",
+      "verseReferences": [
+        {
+          "reference": "Luke 12:49-59",
+          "bookNumber": 42,
+          "chapter": 12,
+          "verseStart": 49,
+          "verseEnd": 59,
+          "type": "response"
+        },
+        {
+          "reference": "Hebrews 4:12",
+          "bookNumber": 58,
+          "chapter": 4,
+          "verseStart": 12,
+          "verseEnd": null,
+          "type": "response"
+        },
+        {
+          "reference": "Isaiah 9:1-7",
+          "bookNumber": 23,
+          "chapter": 9,
+          "verseStart": 1,
+          "verseEnd": 7,
+          "type": "context"
+        },
+        {
+          "reference": "Matthew 10:34-39",
+          "bookNumber": 40,
+          "chapter": 10,
+          "verseStart": 34,
+          "verseEnd": 39,
+          "type": "response"
+        },
+        {
+          "reference": "John 14:27",
+          "bookNumber": 43,
+          "chapter": 14,
+          "verseStart": 27,
+          "verseEnd": null,
+          "type": "context"
+        },
+        {
+          "reference": "2 Corinthians 2:15-16",
+          "bookNumber": 47,
+          "chapter": 2,
+          "verseStart": 15,
+          "verseEnd": 16,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "8b7818a6-21f6-4630-8dd8-546e49c929b9",
+      "orderIndex": 23,
+      "categoryId": "cat-is-the-bible-trustworthyor-a-m",
+      "categoryName": "Is the Bible Trustworthy—Or a Mess of Errors?",
+      "questionText": "Why does the Bible include books that contradict each other theologically (James vs. Paul on faith and works)?",
+      "verseReferences": [
+        {
+          "reference": "James 2:14-26",
+          "bookNumber": 59,
+          "chapter": 2,
+          "verseStart": 14,
+          "verseEnd": 26,
+          "type": "response"
+        },
+        {
+          "reference": "Romans 4:1-8",
+          "bookNumber": 45,
+          "chapter": 4,
+          "verseStart": 1,
+          "verseEnd": 8,
+          "type": "response"
+        },
+        {
+          "reference": "Genesis 15:1-6",
+          "bookNumber": 1,
+          "chapter": 15,
+          "verseStart": 1,
+          "verseEnd": 6,
+          "type": "context"
+        },
+        {
+          "reference": "Luke 24:25-27",
+          "bookNumber": 42,
+          "chapter": 24,
+          "verseStart": 25,
+          "verseEnd": 27,
+          "type": "context"
+        },
+        {
+          "reference": "Ephesians 2:8-10",
+          "bookNumber": 49,
+          "chapter": 2,
+          "verseStart": 8,
+          "verseEnd": 10,
+          "type": "response"
+        },
+        {
+          "reference": "2 Timothy 3:14-17",
+          "bookNumber": 55,
+          "chapter": 3,
+          "verseStart": 14,
+          "verseEnd": 17,
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "39f430cb-81c5-48ed-9718-8941c76ad9c2",
+      "orderIndex": 24,
+      "categoryId": "cat-science-vs-scripturecant-both-",
+      "categoryName": "Science vs. Scripture—Can't Both Be True?",
+      "questionText": "Why does the Bible describe a global flood when there's no geological evidence for it?",
+      "verseReferences": [
+        {
+          "reference": "Genesis 1:1",
+          "bookNumber": 1,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": null,
+          "type": "context"
+        },
+        {
+          "reference": "2 Peter 3:3-7",
+          "bookNumber": 61,
+          "chapter": 3,
+          "verseStart": 3,
+          "verseEnd": 7,
+          "type": "response"
+        },
+        {
+          "reference": "Genesis 9:8-17",
+          "bookNumber": 1,
+          "chapter": 9,
+          "verseStart": 8,
+          "verseEnd": 17,
+          "type": "response"
+        },
+        {
+          "reference": "Hebrews 11:7",
+          "bookNumber": 58,
+          "chapter": 11,
+          "verseStart": 7,
+          "verseEnd": null,
+          "type": "response"
+        },
+        {
+          "reference": "Romans 1:18-20",
+          "bookNumber": 45,
+          "chapter": 1,
+          "verseStart": 18,
+          "verseEnd": 20,
+          "type": "context"
+        },
+        {
+          "reference": "1 Corinthians 1:20-25",
+          "bookNumber": 46,
+          "chapter": 1,
+          "verseStart": 20,
+          "verseEnd": 25,
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "f537c2db-f098-447f-8367-418a155a9ebc",
+      "orderIndex": 25,
+      "categoryId": "cat-christianitys-exclusive-claims",
+      "categoryName": "Christianity's Exclusive Claims—Arrogant or True?",
+      "questionText": "How is it fair that someone's eternal destiny depends on where and when they were born?",
+      "verseReferences": [
+        {
+          "reference": "Romans 9:19-24",
+          "bookNumber": 45,
+          "chapter": 9,
+          "verseStart": 19,
+          "verseEnd": 24,
+          "type": "context"
+        },
+        {
+          "reference": "Acts 17:26-27",
+          "bookNumber": 44,
+          "chapter": 17,
+          "verseStart": 26,
+          "verseEnd": 27,
+          "type": "response"
+        },
+        {
+          "reference": "Romans 2:14-16",
+          "bookNumber": 45,
+          "chapter": 2,
+          "verseStart": 14,
+          "verseEnd": 16,
+          "type": "response"
+        },
+        {
+          "reference": "1 Peter 1:1-5",
+          "bookNumber": 60,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 5,
+          "type": "context"
+        },
+        {
+          "reference": "Genesis 18:25",
+          "bookNumber": 1,
+          "chapter": 18,
+          "verseStart": 25,
+          "verseEnd": null,
+          "type": "response"
+        },
+        {
+          "reference": "John 14:6",
+          "bookNumber": 43,
+          "chapter": 14,
+          "verseStart": 6,
+          "verseEnd": null,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "12207290-893e-43ce-93de-83c31b7ce70a",
+      "orderIndex": 26,
+      "categoryId": "cat-the-character-of-godworthy-of-",
+      "categoryName": "The Character of God—Worthy of Worship?",
+      "questionText": "Why does God demand worship and threaten punishment for those who don't give it? Isn't that narcissism?",
+      "verseReferences": [
+        {
+          "reference": "Romans 1:18-25",
+          "bookNumber": 45,
+          "chapter": 1,
+          "verseStart": 18,
+          "verseEnd": 25,
+          "type": "context"
+        },
+        {
+          "reference": "Revelation 5:1-14",
+          "bookNumber": 66,
+          "chapter": 5,
+          "verseStart": 1,
+          "verseEnd": 14,
+          "type": "response"
+        },
+        {
+          "reference": "Romans 12:1-2",
+          "bookNumber": 45,
+          "chapter": 12,
+          "verseStart": 1,
+          "verseEnd": 2,
+          "type": "response"
+        },
+        {
+          "reference": "Isaiah 40:12-26",
+          "bookNumber": 23,
+          "chapter": 40,
+          "verseStart": 12,
+          "verseEnd": 26,
+          "type": "context"
+        },
+        {
+          "reference": "Amos 1:1-2:16",
+          "bookNumber": null,
+          "chapter": null,
+          "verseStart": null,
+          "verseEnd": null,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "657bbe2f-d615-4223-b94a-b5fdbdb369f1",
+      "orderIndex": 27,
+      "categoryId": "cat-the-bibles-moralityoutdated-an",
+      "categoryName": "The Bible's Morality—Outdated and Dangerous?",
+      "questionText": "If morality comes from God, does that mean genocide is okay when God commands it?",
+      "verseReferences": [
+        {
+          "reference": "Genesis 15:13-16",
+          "bookNumber": 1,
+          "chapter": 15,
+          "verseStart": 13,
+          "verseEnd": 16,
+          "type": "context"
+        },
+        {
+          "reference": "Joshua 6:17-25",
+          "bookNumber": 6,
+          "chapter": 6,
+          "verseStart": 17,
+          "verseEnd": 25,
+          "type": "response"
+        },
+        {
+          "reference": "Deuteronomy 9:4-6",
+          "bookNumber": 5,
+          "chapter": 9,
+          "verseStart": 4,
+          "verseEnd": 6,
+          "type": "response"
+        },
+        {
+          "reference": "Genesis 18:22-33",
+          "bookNumber": 1,
+          "chapter": 18,
+          "verseStart": 22,
+          "verseEnd": 33,
+          "type": "context"
+        },
+        {
+          "reference": "2 Peter 3:9",
+          "bookNumber": 61,
+          "chapter": 3,
+          "verseStart": 9,
+          "verseEnd": null,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "83de14d1-35a3-44ec-be2d-74418f4f1b63",
+      "orderIndex": 28,
+      "categoryId": "cat-faith-doubt-and-honesty",
+      "categoryName": "Faith, Doubt, and Honesty",
+      "questionText": "If I have to suppress my reason to believe, is that really what God wants?",
+      "verseReferences": [
+        {
+          "reference": "John 1:1-14",
+          "bookNumber": 43,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 14,
+          "type": "context"
+        },
+        {
+          "reference": "Hebrews 11:1-3",
+          "bookNumber": 58,
+          "chapter": 11,
+          "verseStart": 1,
+          "verseEnd": 3,
+          "type": "response"
+        },
+        {
+          "reference": "Job 40:1-14",
+          "bookNumber": 18,
+          "chapter": 40,
+          "verseStart": 1,
+          "verseEnd": 14,
+          "type": "context"
+        },
+        {
+          "reference": "Isaiah 1:18",
+          "bookNumber": 23,
+          "chapter": 1,
+          "verseStart": 18,
+          "verseEnd": null,
+          "type": "response"
+        },
+        {
+          "reference": "Acts 17:2-4",
+          "bookNumber": 44,
+          "chapter": 17,
+          "verseStart": 2,
+          "verseEnd": 4,
+          "type": "response"
+        },
+        {
+          "reference": "1 Peter 3:15",
+          "bookNumber": 60,
+          "chapter": 3,
+          "verseStart": 15,
+          "verseEnd": null,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "5f18f2dd-5972-457e-8c3b-2e8ee47b39ae",
+      "orderIndex": 29,
+      "categoryId": "cat-the-questions-beneath-the-ques",
+      "categoryName": "The Questions Beneath the Questions (5)",
+      "questionText": "Am I rejecting Christianity because of evidence—or because I don't want it to be true?",
+      "verseReferences": [
+        {
+          "reference": "Romans 1:18-23",
+          "bookNumber": 45,
+          "chapter": 1,
+          "verseStart": 18,
+          "verseEnd": 23,
+          "type": "context"
+        },
+        {
+          "reference": "John 3:19-21",
+          "bookNumber": 43,
+          "chapter": 3,
+          "verseStart": 19,
+          "verseEnd": 21,
+          "type": "response"
+        },
+        {
+          "reference": "2 Timothy 3:1-5",
+          "bookNumber": 55,
+          "chapter": 3,
+          "verseStart": 1,
+          "verseEnd": 5,
+          "type": "context"
+        },
+        {
+          "reference": "Mark 15:40-16:8",
+          "bookNumber": null,
+          "chapter": null,
+          "verseStart": null,
+          "verseEnd": null,
+          "type": "response"
+        },
+        {
+          "reference": "Acts 17:30-31",
+          "bookNumber": 44,
+          "chapter": 17,
+          "verseStart": 30,
+          "verseEnd": 31,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "52600c90-92cc-4121-ad91-ed8f4a06959f",
+      "orderIndex": 30,
+      "categoryId": "cat-does-god-even-exist",
+      "categoryName": "Does God Even Exist?",
+      "questionText": "Why would God create a universe with so much empty, lifeless space if Earth was the point?",
+      "verseReferences": [
+        {
+          "reference": "Psalm 19:1-6",
+          "bookNumber": 19,
+          "chapter": 19,
+          "verseStart": 1,
+          "verseEnd": 6,
+          "type": "context"
+        },
+        {
+          "reference": "Isaiah 40:21-26",
+          "bookNumber": 23,
+          "chapter": 40,
+          "verseStart": 21,
+          "verseEnd": 26,
+          "type": "response"
+        },
+        {
+          "reference": "Job 38:1-11",
+          "bookNumber": 18,
+          "chapter": 38,
+          "verseStart": 1,
+          "verseEnd": 11,
+          "type": "response"
+        },
+        {
+          "reference": "Acts 17:24-28",
+          "bookNumber": 44,
+          "chapter": 17,
+          "verseStart": 24,
+          "verseEnd": 28,
+          "type": "context"
+        },
+        {
+          "reference": "Romans 1:19-20",
+          "bookNumber": 45,
+          "chapter": 1,
+          "verseStart": 19,
+          "verseEnd": 20,
+          "type": "response"
+        },
+        {
+          "reference": "Genesis 1:14-19",
+          "bookNumber": 1,
+          "chapter": 1,
+          "verseStart": 14,
+          "verseEnd": 19,
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "25805fcb-93db-4739-b52b-2aedfff59090",
+      "orderIndex": 31,
+      "categoryId": "cat-the-problem-of-evilgods-bigges",
+      "categoryName": "The Problem of Evil—God's Biggest Failure?",
+      "questionText": "If free will explains evil, why didn't God create beings who freely choose good?",
+      "verseReferences": [
+        {
+          "reference": "Genesis 2:16-17",
+          "bookNumber": 1,
+          "chapter": 2,
+          "verseStart": 16,
+          "verseEnd": 17,
+          "type": "context"
+        },
+        {
+          "reference": "Genesis 45:4-8",
+          "bookNumber": 1,
+          "chapter": 45,
+          "verseStart": 4,
+          "verseEnd": 8,
+          "type": "response"
+        },
+        {
+          "reference": "Job 1:6-12",
+          "bookNumber": 18,
+          "chapter": 1,
+          "verseStart": 6,
+          "verseEnd": 12,
+          "type": "context"
+        },
+        {
+          "reference": "Romans 9:19-24",
+          "bookNumber": 45,
+          "chapter": 9,
+          "verseStart": 19,
+          "verseEnd": 24,
+          "type": "response"
+        },
+        {
+          "reference": "Revelation 21:3-5",
+          "bookNumber": 66,
+          "chapter": 21,
+          "verseStart": 3,
+          "verseEnd": 5,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "b9554519-4f11-4a98-b501-e83f44708b15",
+      "orderIndex": 32,
+      "categoryId": "cat-is-jesus-who-christians-claim",
+      "categoryName": "Is Jesus Who Christians Claim?",
+      "questionText": "Couldn't the disciples have simply made up the resurrection to keep their movement alive?",
+      "verseReferences": [
+        {
+          "reference": "Luke 16:27-31",
+          "bookNumber": 42,
+          "chapter": 16,
+          "verseStart": 27,
+          "verseEnd": 31,
+          "type": "context"
+        },
+        {
+          "reference": "John 20:24-29",
+          "bookNumber": 43,
+          "chapter": 20,
+          "verseStart": 24,
+          "verseEnd": 29,
+          "type": "response"
+        },
+        {
+          "reference": "Acts 2:22-32",
+          "bookNumber": 44,
+          "chapter": 2,
+          "verseStart": 22,
+          "verseEnd": 32,
+          "type": "response"
+        },
+        {
+          "reference": "John 20:1-9",
+          "bookNumber": 43,
+          "chapter": 20,
+          "verseStart": 1,
+          "verseEnd": 9,
+          "type": "response"
+        },
+        {
+          "reference": "Acts 4:18-20",
+          "bookNumber": 44,
+          "chapter": 4,
+          "verseStart": 18,
+          "verseEnd": 20,
+          "type": "response"
+        },
+        {
+          "reference": "1 Corinthians 15:17-19",
+          "bookNumber": 46,
+          "chapter": 15,
+          "verseStart": 17,
+          "verseEnd": 19,
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "9b1518df-ba59-4f1b-8a08-268894b74d88",
+      "orderIndex": 33,
+      "categoryId": "cat-is-the-bible-trustworthyor-a-m",
+      "categoryName": "Is the Bible Trustworthy—Or a Mess of Errors?",
+      "questionText": "Why does the Bible treat women as property?",
+      "verseReferences": [
+        {
+          "reference": "Genesis 1:26-28",
+          "bookNumber": 1,
+          "chapter": 1,
+          "verseStart": 26,
+          "verseEnd": 28,
+          "type": "context"
+        },
+        {
+          "reference": "Genesis 2:18-25",
+          "bookNumber": 1,
+          "chapter": 2,
+          "verseStart": 18,
+          "verseEnd": 25,
+          "type": "context"
+        },
+        {
+          "reference": "1 Peter 3:1-7",
+          "bookNumber": 60,
+          "chapter": 3,
+          "verseStart": 1,
+          "verseEnd": 7,
+          "type": "response"
+        },
+        {
+          "reference": "Ephesians 5:25-33",
+          "bookNumber": 49,
+          "chapter": 5,
+          "verseStart": 25,
+          "verseEnd": 33,
+          "type": "response"
+        },
+        {
+          "reference": "Luke 8:1-3",
+          "bookNumber": 42,
+          "chapter": 8,
+          "verseStart": 1,
+          "verseEnd": 3,
+          "type": "response"
+        },
+        {
+          "reference": "John 4:7-26",
+          "bookNumber": 43,
+          "chapter": 4,
+          "verseStart": 7,
+          "verseEnd": 26,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "a0fb892e-0efb-4b1f-aebd-ad35dbca8b2f",
+      "orderIndex": 34,
+      "categoryId": "cat-science-vs-scripturecant-both-",
+      "categoryName": "Science vs. Scripture—Can't Both Be True?",
+      "questionText": "If Adam and Eve were the first humans, where did Cain's wife come from?",
+      "verseReferences": [
+        {
+          "reference": "Genesis 1:26-28",
+          "bookNumber": 1,
+          "chapter": 1,
+          "verseStart": 26,
+          "verseEnd": 28,
+          "type": "context"
+        },
+        {
+          "reference": "Genesis 2:18-24",
+          "bookNumber": 1,
+          "chapter": 2,
+          "verseStart": 18,
+          "verseEnd": 24,
+          "type": "context"
+        },
+        {
+          "reference": "Genesis 5:1-5",
+          "bookNumber": 1,
+          "chapter": 5,
+          "verseStart": 1,
+          "verseEnd": 5,
+          "type": "response"
+        },
+        {
+          "reference": "Acts 17:26",
+          "bookNumber": 44,
+          "chapter": 17,
+          "verseStart": 26,
+          "verseEnd": null,
+          "type": "response"
+        },
+        {
+          "reference": "Genesis 4:16-17",
+          "bookNumber": 1,
+          "chapter": 4,
+          "verseStart": 16,
+          "verseEnd": 17,
+          "type": "context"
+        },
+        {
+          "reference": "Romans 5:12-14",
+          "bookNumber": 45,
+          "chapter": 5,
+          "verseStart": 12,
+          "verseEnd": 14,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "c6820b8d-a906-4a0e-868e-2c0e257cdb33",
+      "orderIndex": 35,
+      "categoryId": "cat-christianitys-exclusive-claims",
+      "categoryName": "Christianity's Exclusive Claims—Arrogant or True?",
+      "questionText": "If Christianity is true, why are there so many denominations that can't agree on anything?",
+      "verseReferences": [
+        {
+          "reference": "Galatians 2:11-21",
+          "bookNumber": 48,
+          "chapter": 2,
+          "verseStart": 11,
+          "verseEnd": 21,
+          "type": "context"
+        },
+        {
+          "reference": "1 Corinthians 1:10-17",
+          "bookNumber": 46,
+          "chapter": 1,
+          "verseStart": 10,
+          "verseEnd": 17,
+          "type": "response"
+        },
+        {
+          "reference": "Ephesians 4:1-6",
+          "bookNumber": 49,
+          "chapter": 4,
+          "verseStart": 1,
+          "verseEnd": 6,
+          "type": "response"
+        },
+        {
+          "reference": "John 17:20-23",
+          "bookNumber": 43,
+          "chapter": 17,
+          "verseStart": 20,
+          "verseEnd": 23,
+          "type": "response"
+        },
+        {
+          "reference": "2 Timothy 3:14-17",
+          "bookNumber": 55,
+          "chapter": 3,
+          "verseStart": 14,
+          "verseEnd": 17,
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "0f694daf-eb4b-474e-a32b-c5877456045d",
+      "orderIndex": 36,
+      "categoryId": "cat-the-character-of-godworthy-of-",
+      "categoryName": "The Character of God—Worthy of Worship?",
+      "questionText": "Why did God send bears to maul 42 children for mocking a prophet's baldness?",
+      "verseReferences": [
+        {
+          "reference": "Job 40:1-14",
+          "bookNumber": 18,
+          "chapter": 40,
+          "verseStart": 1,
+          "verseEnd": 14,
+          "type": "context"
+        },
+        {
+          "reference": "Amos 2:6-16",
+          "bookNumber": 30,
+          "chapter": 2,
+          "verseStart": 6,
+          "verseEnd": 16,
+          "type": "response"
+        },
+        {
+          "reference": "Luke 13:1-5",
+          "bookNumber": 42,
+          "chapter": 13,
+          "verseStart": 1,
+          "verseEnd": 5,
+          "type": "response"
+        },
+        {
+          "reference": "1 Samuel 2:12-17",
+          "bookNumber": 9,
+          "chapter": 2,
+          "verseStart": 12,
+          "verseEnd": 17,
+          "type": "context"
+        },
+        {
+          "reference": "Romans 11:22",
+          "bookNumber": 45,
+          "chapter": 11,
+          "verseStart": 22,
+          "verseEnd": null,
+          "type": "response"
+        },
+        {
+          "reference": "Numbers 21:4-9",
+          "bookNumber": 4,
+          "chapter": 21,
+          "verseStart": 4,
+          "verseEnd": 9,
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "a5af15df-e66f-446a-aca5-158accbedb73",
+      "orderIndex": 37,
+      "categoryId": "cat-the-bibles-moralityoutdated-an",
+      "categoryName": "The Bible's Morality—Outdated and Dangerous?",
+      "questionText": "Why does the Bible prescribe marrying a rape victim to her rapist?",
+      "verseReferences": [
+        {
+          "reference": "Deuteronomy 22:25-27",
+          "bookNumber": 5,
+          "chapter": 22,
+          "verseStart": 25,
+          "verseEnd": 27,
+          "type": "context"
+        },
+        {
+          "reference": "Exodus 21:22-27",
+          "bookNumber": 2,
+          "chapter": 21,
+          "verseStart": 22,
+          "verseEnd": 27,
+          "type": "context"
+        },
+        {
+          "reference": "Mark 10:2-9",
+          "bookNumber": 41,
+          "chapter": 10,
+          "verseStart": 2,
+          "verseEnd": 9,
+          "type": "response"
+        },
+        {
+          "reference": "Genesis 1:26-28",
+          "bookNumber": 1,
+          "chapter": 1,
+          "verseStart": 26,
+          "verseEnd": 28,
+          "type": "response"
+        },
+        {
+          "reference": "Matthew 5:38-42",
+          "bookNumber": 40,
+          "chapter": 5,
+          "verseStart": 38,
+          "verseEnd": 42,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "d8df1bd1-cb4a-4701-b295-4a29e6277e14",
+      "orderIndex": 38,
+      "categoryId": "cat-faith-doubt-and-honesty",
+      "categoryName": "Faith, Doubt, and Honesty",
+      "questionText": "Why do so many intelligent, educated people reject Christianity after studying it?",
+      "verseReferences": [
+        {
+          "reference": "1 Corinthians 1:18-25",
+          "bookNumber": 46,
+          "chapter": 1,
+          "verseStart": 18,
+          "verseEnd": 25,
+          "type": "context"
+        },
+        {
+          "reference": "1 Corinthians 2:1-8",
+          "bookNumber": 46,
+          "chapter": 2,
+          "verseStart": 1,
+          "verseEnd": 8,
+          "type": "response"
+        },
+        {
+          "reference": "2 Timothy 3:1-7",
+          "bookNumber": 55,
+          "chapter": 3,
+          "verseStart": 1,
+          "verseEnd": 7,
+          "type": "response"
+        },
+        {
+          "reference": "Romans 1:18-23",
+          "bookNumber": 45,
+          "chapter": 1,
+          "verseStart": 18,
+          "verseEnd": 23,
+          "type": "context"
+        },
+        {
+          "reference": "John 7:17",
+          "bookNumber": 43,
+          "chapter": 7,
+          "verseStart": 17,
+          "verseEnd": null,
+          "type": "response"
+        },
+        {
+          "reference": "Matthew 11:25-27",
+          "bookNumber": 40,
+          "chapter": 11,
+          "verseStart": 25,
+          "verseEnd": 27,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "52a439c7-e404-4a9c-b8c2-82d7cf2f5440",
+      "orderIndex": 39,
+      "categoryId": "cat-the-questions-beneath-the-ques",
+      "categoryName": "The Questions Beneath the Questions (5)",
+      "questionText": "Have I actually read the Bible, or am I rejecting what others say it teaches?",
+      "verseReferences": [
+        {
+          "reference": "Romans 10:5-17",
+          "bookNumber": 45,
+          "chapter": 10,
+          "verseStart": 5,
+          "verseEnd": 17,
+          "type": "response"
+        },
+        {
+          "reference": "2 Timothy 3:14-17",
+          "bookNumber": 55,
+          "chapter": 3,
+          "verseStart": 14,
+          "verseEnd": 17,
+          "type": "response"
+        },
+        {
+          "reference": "Job 42:1-6",
+          "bookNumber": 18,
+          "chapter": 42,
+          "verseStart": 1,
+          "verseEnd": 6,
+          "type": "context"
+        },
+        {
+          "reference": "Acts 17:10-12",
+          "bookNumber": 44,
+          "chapter": 17,
+          "verseStart": 10,
+          "verseEnd": 12,
+          "type": "response"
+        },
+        {
+          "reference": "John 5:39-40",
+          "bookNumber": 43,
+          "chapter": 5,
+          "verseStart": 39,
+          "verseEnd": 40,
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "76cd5553-1198-4919-872c-68bb83d3bb54",
+      "orderIndex": 40,
+      "categoryId": "cat-does-god-even-exist",
+      "categoryName": "Does God Even Exist?",
+      "questionText": "Why do believers from every religion claim the same certainty about their God?",
+      "verseReferences": [
+        {
+          "reference": "Acts 17:24-31",
+          "bookNumber": 44,
+          "chapter": 17,
+          "verseStart": 24,
+          "verseEnd": 31,
+          "type": "response"
+        },
+        {
+          "reference": "Romans 1:18-23",
+          "bookNumber": 45,
+          "chapter": 1,
+          "verseStart": 18,
+          "verseEnd": 23,
+          "type": "context"
+        },
+        {
+          "reference": "John 1:1-14",
+          "bookNumber": 43,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 14,
+          "type": "response"
+        },
+        {
+          "reference": "1 Kings 18:20-39",
+          "bookNumber": 11,
+          "chapter": 18,
+          "verseStart": 20,
+          "verseEnd": 39,
+          "type": "response"
+        },
+        {
+          "reference": "Isaiah 44:6-20",
+          "bookNumber": 23,
+          "chapter": 44,
+          "verseStart": 6,
+          "verseEnd": 20,
+          "type": "context"
+        },
+        {
+          "reference": "1 Corinthians 15:12-19",
+          "bookNumber": 46,
+          "chapter": 15,
+          "verseStart": 12,
+          "verseEnd": 19,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "5ee7b52b-a297-41b6-958e-3fc61f2dabf0",
+      "orderIndex": 41,
+      "categoryId": "cat-the-problem-of-evilgods-bigges",
+      "categoryName": "The Problem of Evil—God's Biggest Failure?",
+      "questionText": "Why does God answer prayers for parking spots but not for starving children?",
+      "verseReferences": [
+        {
+          "reference": "Job 1:6-22",
+          "bookNumber": 18,
+          "chapter": 1,
+          "verseStart": 6,
+          "verseEnd": 22,
+          "type": "context"
+        },
+        {
+          "reference": "Job 40:6-14",
+          "bookNumber": 18,
+          "chapter": 40,
+          "verseStart": 6,
+          "verseEnd": 14,
+          "type": "response"
+        },
+        {
+          "reference": "Luke 13:1-5",
+          "bookNumber": 42,
+          "chapter": 13,
+          "verseStart": 1,
+          "verseEnd": 5,
+          "type": "response"
+        },
+        {
+          "reference": "Psalm 73:1-28",
+          "bookNumber": 19,
+          "chapter": 73,
+          "verseStart": 1,
+          "verseEnd": 28,
+          "type": "context"
+        },
+        {
+          "reference": "Matthew 6:25-34",
+          "bookNumber": 40,
+          "chapter": 6,
+          "verseStart": 25,
+          "verseEnd": 34,
+          "type": "response"
+        },
+        {
+          "reference": "Job 42:1-6",
+          "bookNumber": 18,
+          "chapter": 42,
+          "verseStart": 1,
+          "verseEnd": 6,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "62c284b9-029b-4ad8-8e9d-ba38c0279df2",
+      "orderIndex": 42,
+      "categoryId": "cat-is-jesus-who-christians-claim",
+      "categoryName": "Is Jesus Who Christians Claim?",
+      "questionText": "Why did Jesus curse a fig tree for not having fruit out of season? Isn't that petty?",
+      "verseReferences": [
+        {
+          "reference": "Matthew 21:18-22",
+          "bookNumber": 40,
+          "chapter": 21,
+          "verseStart": 18,
+          "verseEnd": 22,
+          "type": "response"
+        },
+        {
+          "reference": "Jeremiah 8:13",
+          "bookNumber": 24,
+          "chapter": 8,
+          "verseStart": 13,
+          "verseEnd": null,
+          "type": "context"
+        },
+        {
+          "reference": "John 15:1-8",
+          "bookNumber": 43,
+          "chapter": 15,
+          "verseStart": 1,
+          "verseEnd": 8,
+          "type": "response"
+        },
+        {
+          "reference": "Micah 7:1-2",
+          "bookNumber": 33,
+          "chapter": 7,
+          "verseStart": 1,
+          "verseEnd": 2,
+          "type": "context"
+        },
+        {
+          "reference": "Luke 13:6-9",
+          "bookNumber": 42,
+          "chapter": 13,
+          "verseStart": 6,
+          "verseEnd": 9,
+          "type": "response"
+        },
+        {
+          "reference": "Mark 11:12-21",
+          "bookNumber": 41,
+          "chapter": 11,
+          "verseStart": 12,
+          "verseEnd": 21,
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "3b427a72-9ec5-40e0-8bbe-bbab69d2a646",
+      "orderIndex": 43,
+      "categoryId": "cat-is-the-bible-trustworthyor-a-m",
+      "categoryName": "Is the Bible Trustworthy—Or a Mess of Errors?",
+      "questionText": "Why should I trust books written by anonymous authors with theological agendas?",
+      "verseReferences": [
+        {
+          "reference": "John 12:49-50",
+          "bookNumber": 43,
+          "chapter": 12,
+          "verseStart": 49,
+          "verseEnd": 50,
+          "type": "response"
+        },
+        {
+          "reference": "2 Timothy 3:14-17",
+          "bookNumber": 55,
+          "chapter": 3,
+          "verseStart": 14,
+          "verseEnd": 17,
+          "type": "response"
+        },
+        {
+          "reference": "2 Peter 1:16-21",
+          "bookNumber": 61,
+          "chapter": 1,
+          "verseStart": 16,
+          "verseEnd": 21,
+          "type": "response"
+        },
+        {
+          "reference": "Luke 1:1-4",
+          "bookNumber": 42,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 4,
+          "type": "context"
+        },
+        {
+          "reference": "1 Corinthians 15:3-8",
+          "bookNumber": 46,
+          "chapter": 15,
+          "verseStart": 3,
+          "verseEnd": 8,
+          "type": "response"
+        },
+        {
+          "reference": "Hebrews 11:32-38",
+          "bookNumber": 58,
+          "chapter": 11,
+          "verseStart": 32,
+          "verseEnd": 38,
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "09782448-c1f8-4ce2-a02a-8a4195a58062",
+      "orderIndex": 44,
+      "categoryId": "cat-science-vs-scripturecant-both-",
+      "categoryName": "Science vs. Scripture—Can't Both Be True?",
+      "questionText": "Doesn't the Bible's cosmology (firmament, waters above, pillars of the earth) reflect ancient ignorance?",
+      "verseReferences": [
+        {
+          "reference": "Genesis 1:1-5",
+          "bookNumber": 1,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 5,
+          "type": "context"
+        },
+        {
+          "reference": "Hebrews 11:3",
+          "bookNumber": 58,
+          "chapter": 11,
+          "verseStart": 3,
+          "verseEnd": null,
+          "type": "response"
+        },
+        {
+          "reference": "Romans 10:5-13",
+          "bookNumber": 45,
+          "chapter": 10,
+          "verseStart": 5,
+          "verseEnd": 13,
+          "type": "response"
+        },
+        {
+          "reference": "Psalm 19:1-6",
+          "bookNumber": 19,
+          "chapter": 19,
+          "verseStart": 1,
+          "verseEnd": 6,
+          "type": "context"
+        },
+        {
+          "reference": "Job 38:1-11",
+          "bookNumber": 18,
+          "chapter": 38,
+          "verseStart": 1,
+          "verseEnd": 11,
+          "type": "response"
+        },
+        {
+          "reference": "2 Timothy 3:15-17",
+          "bookNumber": 55,
+          "chapter": 3,
+          "verseStart": 15,
+          "verseEnd": 17,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "370a5869-7590-4cc9-a38d-9a55b67da7ca",
+      "orderIndex": 45,
+      "categoryId": "cat-christianitys-exclusive-claims",
+      "categoryName": "Christianity's Exclusive Claims—Arrogant or True?",
+      "questionText": "Isn't it arrogant to claim billions of people in other religions are all wrong?",
+      "verseReferences": [
+        {
+          "reference": "Numbers 12:1-3",
+          "bookNumber": 4,
+          "chapter": 12,
+          "verseStart": 1,
+          "verseEnd": 3,
+          "type": "context"
+        },
+        {
+          "reference": "John 14:6",
+          "bookNumber": 43,
+          "chapter": 14,
+          "verseStart": 6,
+          "verseEnd": null,
+          "type": "response"
+        },
+        {
+          "reference": "Acts 4:12",
+          "bookNumber": 44,
+          "chapter": 4,
+          "verseStart": 12,
+          "verseEnd": null,
+          "type": "response"
+        },
+        {
+          "reference": "Romans 1:16-17",
+          "bookNumber": 45,
+          "chapter": 1,
+          "verseStart": 16,
+          "verseEnd": 17,
+          "type": "response"
+        },
+        {
+          "reference": "2 Timothy 3:14-17",
+          "bookNumber": 55,
+          "chapter": 3,
+          "verseStart": 14,
+          "verseEnd": 17,
+          "type": "context"
+        },
+        {
+          "reference": "1 Corinthians 1:18-25",
+          "bookNumber": 46,
+          "chapter": 1,
+          "verseStart": 18,
+          "verseEnd": 25,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "d5978141-fda6-4918-9f10-10765409d7d1",
+      "orderIndex": 46,
+      "categoryId": "cat-the-character-of-godworthy-of-",
+      "categoryName": "The Character of God—Worthy of Worship?",
+      "questionText": "Why does God test people if He already knows the outcome?",
+      "verseReferences": [
+        {
+          "reference": "Genesis 22:1-14",
+          "bookNumber": 1,
+          "chapter": 22,
+          "verseStart": 1,
+          "verseEnd": 14,
+          "type": "response"
+        },
+        {
+          "reference": "Job 1:6-12",
+          "bookNumber": 18,
+          "chapter": 1,
+          "verseStart": 6,
+          "verseEnd": 12,
+          "type": "context"
+        },
+        {
+          "reference": "Job 42:1-6",
+          "bookNumber": 18,
+          "chapter": 42,
+          "verseStart": 1,
+          "verseEnd": 6,
+          "type": "response"
+        },
+        {
+          "reference": "Deuteronomy 8:2-5",
+          "bookNumber": 5,
+          "chapter": 8,
+          "verseStart": 2,
+          "verseEnd": 5,
+          "type": "response"
+        },
+        {
+          "reference": "James 1:2-4",
+          "bookNumber": 59,
+          "chapter": 1,
+          "verseStart": 2,
+          "verseEnd": 4,
+          "type": "response"
+        },
+        {
+          "reference": "1 Peter 1:6-7",
+          "bookNumber": 60,
+          "chapter": 1,
+          "verseStart": 6,
+          "verseEnd": 7,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "ad5e0f13-4094-46c2-a0e8-411b105ed788",
+      "orderIndex": 47,
+      "categoryId": "cat-the-bibles-moralityoutdated-an",
+      "categoryName": "The Bible's Morality—Outdated and Dangerous?",
+      "questionText": "How can you use the Bible for morality when it's been used to justify atrocities?",
+      "verseReferences": [
+        {
+          "reference": "Genesis 15:13-16",
+          "bookNumber": 1,
+          "chapter": 15,
+          "verseStart": 13,
+          "verseEnd": 16,
+          "type": "context"
+        },
+        {
+          "reference": "2 Peter 3:15-16",
+          "bookNumber": 61,
+          "chapter": 3,
+          "verseStart": 15,
+          "verseEnd": 16,
+          "type": "response"
+        },
+        {
+          "reference": "Matthew 7:15-23",
+          "bookNumber": 40,
+          "chapter": 7,
+          "verseStart": 15,
+          "verseEnd": 23,
+          "type": "response"
+        },
+        {
+          "reference": "James 1:22-25",
+          "bookNumber": 59,
+          "chapter": 1,
+          "verseStart": 22,
+          "verseEnd": 25,
+          "type": "response"
+        },
+        {
+          "reference": "Deuteronomy 10:17-19",
+          "bookNumber": 5,
+          "chapter": 10,
+          "verseStart": 17,
+          "verseEnd": 19,
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "12f9157f-2ffb-4fff-b72d-5a4f72f5d8e6",
+      "orderIndex": 48,
+      "categoryId": "cat-faith-doubt-and-honesty",
+      "categoryName": "Faith, Doubt, and Honesty",
+      "questionText": "If Christianity requires faith, isn't that an admission that there's not enough evidence?",
+      "verseReferences": [
+        {
+          "reference": "Hebrews 11:1-3",
+          "bookNumber": 58,
+          "chapter": 11,
+          "verseStart": 1,
+          "verseEnd": 3,
+          "type": "context"
+        },
+        {
+          "reference": "Luke 7:1-10",
+          "bookNumber": 42,
+          "chapter": 7,
+          "verseStart": 1,
+          "verseEnd": 10,
+          "type": "response"
+        },
+        {
+          "reference": "2 Timothy 3:14-17",
+          "bookNumber": 55,
+          "chapter": 3,
+          "verseStart": 14,
+          "verseEnd": 17,
+          "type": "response"
+        },
+        {
+          "reference": "John 20:24-31",
+          "bookNumber": 43,
+          "chapter": 20,
+          "verseStart": 24,
+          "verseEnd": 31,
+          "type": "response"
+        },
+        {
+          "reference": "Acts 1:1-3",
+          "bookNumber": 44,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 3,
+          "type": "context"
+        },
+        {
+          "reference": "1 Corinthians 15:3-8",
+          "bookNumber": 46,
+          "chapter": 15,
+          "verseStart": 3,
+          "verseEnd": 8,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "acfced0e-df44-4e3f-b062-279c96b8bb05",
+      "orderIndex": 49,
+      "categoryId": "cat-the-questions-beneath-the-ques",
+      "categoryName": "The Questions Beneath the Questions (5)",
+      "questionText": "If Christianity were true, would I be willing to follow it even if it cost me everything?",
+      "verseReferences": [
+        {
+          "reference": "Luke 14:25-33",
+          "bookNumber": 42,
+          "chapter": 14,
+          "verseStart": 25,
+          "verseEnd": 33,
+          "type": "context"
+        },
+        {
+          "reference": "Mark 8:34-38",
+          "bookNumber": 41,
+          "chapter": 8,
+          "verseStart": 34,
+          "verseEnd": 38,
+          "type": "response"
+        },
+        {
+          "reference": "Philippians 3:7-11",
+          "bookNumber": 50,
+          "chapter": 3,
+          "verseStart": 7,
+          "verseEnd": 11,
+          "type": "response"
+        },
+        {
+          "reference": "John 6:60-69",
+          "bookNumber": 43,
+          "chapter": 6,
+          "verseStart": 60,
+          "verseEnd": 69,
+          "type": "response"
+        },
+        {
+          "reference": "Matthew 13:44-46",
+          "bookNumber": 40,
+          "chapter": 13,
+          "verseStart": 44,
+          "verseEnd": 46,
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "655dd0df-a6d1-4320-aac5-7ceb6cb90568",
+      "orderIndex": 50,
+      "categoryId": "cat-does-god-even-exist",
+      "categoryName": "Does God Even Exist?",
+      "questionText": "Isn't faith just believing something without evidence—and isn't that irrational?",
+      "verseReferences": [
+        {
+          "reference": "Hebrews 11:1-3",
+          "bookNumber": 58,
+          "chapter": 11,
+          "verseStart": 1,
+          "verseEnd": 3,
+          "type": "response"
+        },
+        {
+          "reference": "Luke 7:1-10",
+          "bookNumber": 42,
+          "chapter": 7,
+          "verseStart": 1,
+          "verseEnd": 10,
+          "type": "response"
+        },
+        {
+          "reference": "John 20:24-31",
+          "bookNumber": 43,
+          "chapter": 20,
+          "verseStart": 24,
+          "verseEnd": 31,
+          "type": "context"
+        },
+        {
+          "reference": "Acts 17:16-34",
+          "bookNumber": 44,
+          "chapter": 17,
+          "verseStart": 16,
+          "verseEnd": 34,
+          "type": "response"
+        },
+        {
+          "reference": "1 Corinthians 15:3-8",
+          "bookNumber": 46,
+          "chapter": 15,
+          "verseStart": 3,
+          "verseEnd": 8,
+          "type": "response"
+        },
+        {
+          "reference": "Psalm 19:1-6",
+          "bookNumber": 19,
+          "chapter": 19,
+          "verseStart": 1,
+          "verseEnd": 6,
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "4c77a3e5-c0f6-4f11-8a51-0d7d43f0e570",
+      "orderIndex": 51,
+      "categoryId": "cat-the-problem-of-evilgods-bigges",
+      "categoryName": "The Problem of Evil—God's Biggest Failure?",
+      "questionText": "How is eternal conscious torment a just punishment for a finite life of sin?",
+      "verseReferences": [
+        {
+          "reference": "Romans 6:23",
+          "bookNumber": 45,
+          "chapter": 6,
+          "verseStart": 23,
+          "verseEnd": null,
+          "type": "context"
+        },
+        {
+          "reference": "Ephesians 2:1-3",
+          "bookNumber": 49,
+          "chapter": 2,
+          "verseStart": 1,
+          "verseEnd": 3,
+          "type": "context"
+        },
+        {
+          "reference": "Romans 9:19-24",
+          "bookNumber": 45,
+          "chapter": 9,
+          "verseStart": 19,
+          "verseEnd": 24,
+          "type": "response"
+        },
+        {
+          "reference": "Romans 2:5-11",
+          "bookNumber": 45,
+          "chapter": 2,
+          "verseStart": 5,
+          "verseEnd": 11,
+          "type": "response"
+        },
+        {
+          "reference": "Revelation 21:8",
+          "bookNumber": 66,
+          "chapter": 21,
+          "verseStart": 8,
+          "verseEnd": null,
+          "type": "response"
+        },
+        {
+          "reference": "Luke 13:1-5",
+          "bookNumber": 42,
+          "chapter": 13,
+          "verseStart": 1,
+          "verseEnd": 5,
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "721bf5a9-3bb3-4903-8623-3ec447a066ec",
+      "orderIndex": 52,
+      "categoryId": "cat-is-jesus-who-christians-claim",
+      "categoryName": "Is Jesus Who Christians Claim?",
+      "questionText": "Why would God need a blood sacrifice to forgive? Couldn't He just forgive?",
+      "verseReferences": [
+        {
+          "reference": "Leviticus 17:11",
+          "bookNumber": 3,
+          "chapter": 17,
+          "verseStart": 11,
+          "verseEnd": null,
+          "type": "context"
+        },
+        {
+          "reference": "Hebrews 9:22-28",
+          "bookNumber": 58,
+          "chapter": 9,
+          "verseStart": 22,
+          "verseEnd": 28,
+          "type": "response"
+        },
+        {
+          "reference": "Romans 3:23-26",
+          "bookNumber": 45,
+          "chapter": 3,
+          "verseStart": 23,
+          "verseEnd": 26,
+          "type": "response"
+        },
+        {
+          "reference": "Mark 2:1-12",
+          "bookNumber": 41,
+          "chapter": 2,
+          "verseStart": 1,
+          "verseEnd": 12,
+          "type": "response"
+        },
+        {
+          "reference": "Isaiah 53:4-12",
+          "bookNumber": 23,
+          "chapter": 53,
+          "verseStart": 4,
+          "verseEnd": 12,
+          "type": "response"
+        },
+        {
+          "reference": "Genesis 22:1-14",
+          "bookNumber": 1,
+          "chapter": 22,
+          "verseStart": 1,
+          "verseEnd": 14,
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "16461578-f7bc-448f-925e-3daa086d65cc",
+      "orderIndex": 53,
+      "categoryId": "cat-is-the-bible-trustworthyor-a-m",
+      "categoryName": "Is the Bible Trustworthy—Or a Mess of Errors?",
+      "questionText": "Why does the Old Testament prescribe death for minor offenses like picking up sticks on the Sabbath?",
+      "verseReferences": [
+        {
+          "reference": "Numbers 15:32-36",
+          "bookNumber": 4,
+          "chapter": 15,
+          "verseStart": 32,
+          "verseEnd": 36,
+          "type": "context"
+        },
+        {
+          "reference": "Exodus 31:12-17",
+          "bookNumber": 2,
+          "chapter": 31,
+          "verseStart": 12,
+          "verseEnd": 17,
+          "type": "context"
+        },
+        {
+          "reference": "Romans 6:23",
+          "bookNumber": 45,
+          "chapter": 6,
+          "verseStart": 23,
+          "verseEnd": null,
+          "type": "response"
+        },
+        {
+          "reference": "Hebrews 10:28-31",
+          "bookNumber": 58,
+          "chapter": 10,
+          "verseStart": 28,
+          "verseEnd": 31,
+          "type": "response"
+        },
+        {
+          "reference": "Galatians 3:19-25",
+          "bookNumber": 48,
+          "chapter": 3,
+          "verseStart": 19,
+          "verseEnd": 25,
+          "type": "response"
+        },
+        {
+          "reference": "Matthew 12:1-14",
+          "bookNumber": 40,
+          "chapter": 12,
+          "verseStart": 1,
+          "verseEnd": 14,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "660b36f7-a32e-4f8f-a19c-5e1275105e95",
+      "orderIndex": 54,
+      "categoryId": "cat-science-vs-scripturecant-both-",
+      "categoryName": "Science vs. Scripture—Can't Both Be True?",
+      "questionText": "How can you believe the earth is 6,000 years old when all evidence points to billions?",
+      "verseReferences": [
+        {
+          "reference": "Genesis 1:1",
+          "bookNumber": 1,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": null,
+          "type": "context"
+        },
+        {
+          "reference": "2 Peter 3:3-9",
+          "bookNumber": 61,
+          "chapter": 3,
+          "verseStart": 3,
+          "verseEnd": 9,
+          "type": "response"
+        },
+        {
+          "reference": "Job 38:1-11",
+          "bookNumber": 18,
+          "chapter": 38,
+          "verseStart": 1,
+          "verseEnd": 11,
+          "type": "response"
+        },
+        {
+          "reference": "Psalm 90:1-4",
+          "bookNumber": 19,
+          "chapter": 90,
+          "verseStart": 1,
+          "verseEnd": 4,
+          "type": "context"
+        },
+        {
+          "reference": "Colossians 1:15-17",
+          "bookNumber": 51,
+          "chapter": 1,
+          "verseStart": 15,
+          "verseEnd": 17,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "8e9d8bb2-7bbf-4113-8d96-88a472bf3596",
+      "orderIndex": 55,
+      "categoryId": "cat-christianitys-exclusive-claims",
+      "categoryName": "Christianity's Exclusive Claims—Arrogant or True?",
+      "questionText": "How can you claim Christianity is the only true religion when you were probably just born into it?",
+      "verseReferences": [
+        {
+          "reference": "John 14:6",
+          "bookNumber": 43,
+          "chapter": 14,
+          "verseStart": 6,
+          "verseEnd": null,
+          "type": "response"
+        },
+        {
+          "reference": "Acts 17:22-31",
+          "bookNumber": 44,
+          "chapter": 17,
+          "verseStart": 22,
+          "verseEnd": 31,
+          "type": "response"
+        },
+        {
+          "reference": "2 Timothy 3:14-17",
+          "bookNumber": 55,
+          "chapter": 3,
+          "verseStart": 14,
+          "verseEnd": 17,
+          "type": "context"
+        },
+        {
+          "reference": "1 Peter 3:15-16",
+          "bookNumber": 60,
+          "chapter": 3,
+          "verseStart": 15,
+          "verseEnd": 16,
+          "type": "response"
+        },
+        {
+          "reference": "Numbers 12:1-3",
+          "bookNumber": 4,
+          "chapter": 12,
+          "verseStart": 1,
+          "verseEnd": 3,
+          "type": "context"
+        },
+        {
+          "reference": "John 1:14-18",
+          "bookNumber": 43,
+          "chapter": 1,
+          "verseStart": 14,
+          "verseEnd": 18,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "50d2ef87-db78-4529-82f5-edaec560f79e",
+      "orderIndex": 56,
+      "categoryId": "cat-the-character-of-godworthy-of-",
+      "categoryName": "The Character of God—Worthy of Worship?",
+      "questionText": "Why does God play favorites (loving Jacob, hating Esau before they were born)?",
+      "verseReferences": [
+        {
+          "reference": "Malachi 1:1-5",
+          "bookNumber": 39,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 5,
+          "type": "context"
+        },
+        {
+          "reference": "Romans 9:10-24",
+          "bookNumber": 45,
+          "chapter": 9,
+          "verseStart": 10,
+          "verseEnd": 24,
+          "type": "response"
+        },
+        {
+          "reference": "Genesis 25:19-34",
+          "bookNumber": 1,
+          "chapter": 25,
+          "verseStart": 19,
+          "verseEnd": 34,
+          "type": "context"
+        },
+        {
+          "reference": "Deuteronomy 7:6-8",
+          "bookNumber": 5,
+          "chapter": 7,
+          "verseStart": 6,
+          "verseEnd": 8,
+          "type": "response"
+        },
+        {
+          "reference": "Ephesians 1:3-12",
+          "bookNumber": 49,
+          "chapter": 1,
+          "verseStart": 3,
+          "verseEnd": 12,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "cc1dda72-e2d3-455c-912d-3d24a5ec9ab7",
+      "orderIndex": 57,
+      "categoryId": "cat-the-bibles-moralityoutdated-an",
+      "categoryName": "The Bible's Morality—Outdated and Dangerous?",
+      "questionText": "Why does the Bible regulate slavery instead of abolishing it?",
+      "verseReferences": [
+        {
+          "reference": "Ephesians 6:5-9",
+          "bookNumber": 49,
+          "chapter": 6,
+          "verseStart": 5,
+          "verseEnd": 9,
+          "type": "response"
+        },
+        {
+          "reference": "1 Timothy 1:9-10",
+          "bookNumber": 54,
+          "chapter": 1,
+          "verseStart": 9,
+          "verseEnd": 10,
+          "type": "context"
+        },
+        {
+          "reference": "Exodus 21:16",
+          "bookNumber": 2,
+          "chapter": 21,
+          "verseStart": 16,
+          "verseEnd": null,
+          "type": "context"
+        },
+        {
+          "reference": "1 Peter 2:18-25",
+          "bookNumber": 60,
+          "chapter": 2,
+          "verseStart": 18,
+          "verseEnd": 25,
+          "type": "response"
+        },
+        {
+          "reference": "Genesis 50:15-21",
+          "bookNumber": 1,
+          "chapter": 50,
+          "verseStart": 15,
+          "verseEnd": 21,
+          "type": "context"
+        },
+        {
+          "reference": "Deuteronomy 23:15-16",
+          "bookNumber": 5,
+          "chapter": 23,
+          "verseStart": 15,
+          "verseEnd": 16,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "033a1de0-89a9-4b50-97d5-cd6ce4b40385",
+      "orderIndex": 58,
+      "categoryId": "cat-does-god-even-exist",
+      "categoryName": "Does God Even Exist?",
+      "questionText": "If God exists, why is there no direct, undeniable proof?",
+      "verseReferences": [
+        {
+          "reference": "Acts 17:24-28",
+          "bookNumber": 44,
+          "chapter": 17,
+          "verseStart": 24,
+          "verseEnd": 28,
+          "type": "context"
+        },
+        {
+          "reference": "John 1:1-18",
+          "bookNumber": 43,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 18,
+          "type": "response"
+        },
+        {
+          "reference": "Psalm 19:1-6",
+          "bookNumber": 19,
+          "chapter": 19,
+          "verseStart": 1,
+          "verseEnd": 6,
+          "type": "response"
+        },
+        {
+          "reference": "John 20:24-29",
+          "bookNumber": 43,
+          "chapter": 20,
+          "verseStart": 24,
+          "verseEnd": 29,
+          "type": "response"
+        },
+        {
+          "reference": "1 Corinthians 1:18-25",
+          "bookNumber": 46,
+          "chapter": 1,
+          "verseStart": 18,
+          "verseEnd": 25,
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "7e1019d7-c29b-4a8b-8ed8-887b99bc7cc7",
+      "orderIndex": 59,
+      "categoryId": "cat-the-problem-of-evilgods-bigges",
+      "categoryName": "The Problem of Evil—God's Biggest Failure?",
+      "questionText": "If God has a \"plan,\" does that mean He planned for rape, murder, and torture?",
+      "verseReferences": [
+        {
+          "reference": "Genesis 45:4-8",
+          "bookNumber": 1,
+          "chapter": 45,
+          "verseStart": 4,
+          "verseEnd": 8,
+          "type": "response"
+        },
+        {
+          "reference": "Genesis 3:1-7",
+          "bookNumber": 1,
+          "chapter": 3,
+          "verseStart": 1,
+          "verseEnd": 7,
+          "type": "context"
+        },
+        {
+          "reference": "Job 1:6-12",
+          "bookNumber": 18,
+          "chapter": 1,
+          "verseStart": 6,
+          "verseEnd": 12,
+          "type": "context"
+        },
+        {
+          "reference": "Romans 8:28-29",
+          "bookNumber": 45,
+          "chapter": 8,
+          "verseStart": 28,
+          "verseEnd": 29,
+          "type": "response"
+        },
+        {
+          "reference": "Genesis 50:19-20",
+          "bookNumber": 1,
+          "chapter": 50,
+          "verseStart": 19,
+          "verseEnd": 20,
+          "type": "response"
+        },
+        {
+          "reference": "James 1:13-15",
+          "bookNumber": 59,
+          "chapter": 1,
+          "verseStart": 13,
+          "verseEnd": 15,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "0aa40909-5217-4ae1-869e-ae91eb456da5",
+      "orderIndex": 60,
+      "categoryId": "cat-is-jesus-who-christians-claim",
+      "categoryName": "Is Jesus Who Christians Claim?",
+      "questionText": "Why do the Gospel accounts contradict each other on basic details?",
+      "verseReferences": [
+        {
+          "reference": "John 20:30-31",
+          "bookNumber": 43,
+          "chapter": 20,
+          "verseStart": 30,
+          "verseEnd": 31,
+          "type": "context"
+        },
+        {
+          "reference": "Luke 1:1-4",
+          "bookNumber": 42,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 4,
+          "type": "context"
+        },
+        {
+          "reference": "John 21:24-25",
+          "bookNumber": 43,
+          "chapter": 21,
+          "verseStart": 24,
+          "verseEnd": 25,
+          "type": "response"
+        },
+        {
+          "reference": "1 Corinthians 15:3-8",
+          "bookNumber": 46,
+          "chapter": 15,
+          "verseStart": 3,
+          "verseEnd": 8,
+          "type": "response"
+        },
+        {
+          "reference": "Luke 24:13-35",
+          "bookNumber": 42,
+          "chapter": 24,
+          "verseStart": 13,
+          "verseEnd": 35,
+          "type": "response"
+        },
+        {
+          "reference": "Acts 1:1-3",
+          "bookNumber": 44,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 3,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "4751451b-3112-43db-ba86-687408847cc1",
+      "orderIndex": 61,
+      "categoryId": "cat-is-the-bible-trustworthyor-a-m",
+      "categoryName": "Is the Bible Trustworthy—Or a Mess of Errors?",
+      "questionText": "Did God change His mind, or is the Bible just inconsistent about His character?",
+      "verseReferences": [
+        {
+          "reference": "Hebrews 1:1-3",
+          "bookNumber": 58,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 3,
+          "type": "context"
+        },
+        {
+          "reference": "Numbers 23:19",
+          "bookNumber": 4,
+          "chapter": 23,
+          "verseStart": 19,
+          "verseEnd": null,
+          "type": "response"
+        },
+        {
+          "reference": "Genesis 6:6-7",
+          "bookNumber": 1,
+          "chapter": 6,
+          "verseStart": 6,
+          "verseEnd": 7,
+          "type": "context"
+        },
+        {
+          "reference": "Malachi 3:6",
+          "bookNumber": 39,
+          "chapter": 3,
+          "verseStart": 6,
+          "verseEnd": null,
+          "type": "response"
+        },
+        {
+          "reference": "1 Samuel 15:29",
+          "bookNumber": 9,
+          "chapter": 15,
+          "verseStart": 29,
+          "verseEnd": null,
+          "type": "response"
+        },
+        {
+          "reference": "James 1:17",
+          "bookNumber": 59,
+          "chapter": 1,
+          "verseStart": 17,
+          "verseEnd": null,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "b4d8f713-3188-43ff-b398-d05db64a565d",
+      "orderIndex": 62,
+      "categoryId": "cat-science-vs-scripturecant-both-",
+      "categoryName": "Science vs. Scripture—Can't Both Be True?",
+      "questionText": "Doesn't evolution completely disprove the Genesis creation account?",
+      "verseReferences": [
+        {
+          "reference": "Genesis 1:26-31",
+          "bookNumber": 1,
+          "chapter": 1,
+          "verseStart": 26,
+          "verseEnd": 31,
+          "type": "context"
+        },
+        {
+          "reference": "Colossians 1:15-17",
+          "bookNumber": 51,
+          "chapter": 1,
+          "verseStart": 15,
+          "verseEnd": 17,
+          "type": "response"
+        },
+        {
+          "reference": "Hebrews 11:3",
+          "bookNumber": 58,
+          "chapter": 11,
+          "verseStart": 3,
+          "verseEnd": null,
+          "type": "response"
+        },
+        {
+          "reference": "Romans 1:19-20",
+          "bookNumber": 45,
+          "chapter": 1,
+          "verseStart": 19,
+          "verseEnd": 20,
+          "type": "context"
+        },
+        {
+          "reference": "Job 38:1-11",
+          "bookNumber": 18,
+          "chapter": 38,
+          "verseStart": 1,
+          "verseEnd": 11,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "3b604abd-00df-4928-9ea2-8a895491eb9e",
+      "orderIndex": 63,
+      "categoryId": "cat-christianitys-exclusive-claims",
+      "categoryName": "Christianity's Exclusive Claims—Arrogant or True?",
+      "questionText": "Isn't Christianity just a tool of colonialism and cultural imperialism?",
+      "verseReferences": [
+        {
+          "reference": "Galatians 1:6-9",
+          "bookNumber": 48,
+          "chapter": 1,
+          "verseStart": 6,
+          "verseEnd": 9,
+          "type": "context"
+        },
+        {
+          "reference": "Revelation 7:9-10",
+          "bookNumber": 66,
+          "chapter": 7,
+          "verseStart": 9,
+          "verseEnd": 10,
+          "type": "response"
+        },
+        {
+          "reference": "Galatians 3:26-29",
+          "bookNumber": 48,
+          "chapter": 3,
+          "verseStart": 26,
+          "verseEnd": 29,
+          "type": "response"
+        },
+        {
+          "reference": "Acts 1:6-8",
+          "bookNumber": 44,
+          "chapter": 1,
+          "verseStart": 6,
+          "verseEnd": 8,
+          "type": "context"
+        },
+        {
+          "reference": "Romans 15:8-12",
+          "bookNumber": 45,
+          "chapter": 15,
+          "verseStart": 8,
+          "verseEnd": 12,
+          "type": "response"
+        },
+        {
+          "reference": "John 3:16-17",
+          "bookNumber": 43,
+          "chapter": 3,
+          "verseStart": 16,
+          "verseEnd": 17,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "f81c9580-7966-44dc-a95c-718593708f46",
+      "orderIndex": 64,
+      "categoryId": "cat-the-character-of-godworthy-of-",
+      "categoryName": "The Character of God—Worthy of Worship?",
+      "questionText": "Why did God harden Pharaoh's heart and then punish him for having a hard heart?",
+      "verseReferences": [
+        {
+          "reference": "Exodus 7:1-7",
+          "bookNumber": 2,
+          "chapter": 7,
+          "verseStart": 1,
+          "verseEnd": 7,
+          "type": "context"
+        },
+        {
+          "reference": "Exodus 14:4-18",
+          "bookNumber": 2,
+          "chapter": 14,
+          "verseStart": 4,
+          "verseEnd": 18,
+          "type": "response"
+        },
+        {
+          "reference": "Romans 9:14-24",
+          "bookNumber": 45,
+          "chapter": 9,
+          "verseStart": 14,
+          "verseEnd": 24,
+          "type": "response"
+        },
+        {
+          "reference": "Exodus 8:15",
+          "bookNumber": 2,
+          "chapter": 8,
+          "verseStart": 15,
+          "verseEnd": null,
+          "type": "context"
+        },
+        {
+          "reference": "2 Chronicles 36:15-17",
+          "bookNumber": 14,
+          "chapter": 36,
+          "verseStart": 15,
+          "verseEnd": 17,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "f1865a2e-f2ad-4ee8-aa26-2b82f7341ad1",
+      "orderIndex": 65,
+      "categoryId": "cat-the-bibles-moralityoutdated-an",
+      "categoryName": "The Bible's Morality—Outdated and Dangerous?",
+      "questionText": "Why does Paul tell slaves to obey their masters and women to be silent?",
+      "verseReferences": [
+        {
+          "reference": "Ephesians 6:5-9",
+          "bookNumber": 49,
+          "chapter": 6,
+          "verseStart": 5,
+          "verseEnd": 9,
+          "type": "response"
+        },
+        {
+          "reference": "1 Peter 2:18-25",
+          "bookNumber": 60,
+          "chapter": 2,
+          "verseStart": 18,
+          "verseEnd": 25,
+          "type": "response"
+        },
+        {
+          "reference": "1 Timothy 1:9-10",
+          "bookNumber": 54,
+          "chapter": 1,
+          "verseStart": 9,
+          "verseEnd": 10,
+          "type": "context"
+        },
+        {
+          "reference": "1 Peter 3:1-7",
+          "bookNumber": 60,
+          "chapter": 3,
+          "verseStart": 1,
+          "verseEnd": 7,
+          "type": "response"
+        },
+        {
+          "reference": "Philemon 1:8-21",
+          "bookNumber": 57,
+          "chapter": 1,
+          "verseStart": 8,
+          "verseEnd": 21,
+          "type": "response"
+        },
+        {
+          "reference": "1 Corinthians 14:33-35",
+          "bookNumber": 46,
+          "chapter": 14,
+          "verseStart": 33,
+          "verseEnd": 35,
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "3d7ef4be-3429-4610-978c-411f9be6b825",
+      "orderIndex": 66,
+      "categoryId": "cat-does-god-even-exist",
+      "categoryName": "Does God Even Exist?",
+      "questionText": "Isn't \"God\" just a concept humans invented to explain what they didn't understand?",
+      "verseReferences": [
+        {
+          "reference": "John 1:1-18",
+          "bookNumber": 43,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 18,
+          "type": "response"
+        },
+        {
+          "reference": "Genesis 1:1-3",
+          "bookNumber": 1,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 3,
+          "type": "context"
+        },
+        {
+          "reference": "Romans 1:18-23",
+          "bookNumber": 45,
+          "chapter": 1,
+          "verseStart": 18,
+          "verseEnd": 23,
+          "type": "response"
+        },
+        {
+          "reference": "Psalm 19:1-6",
+          "bookNumber": 19,
+          "chapter": 19,
+          "verseStart": 1,
+          "verseEnd": 6,
+          "type": "response"
+        },
+        {
+          "reference": "Isaiah 40:25-28",
+          "bookNumber": 23,
+          "chapter": 40,
+          "verseStart": 25,
+          "verseEnd": 28,
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "b99322fe-4c58-4144-bbc1-4ddbfaa39ac4",
+      "orderIndex": 67,
+      "categoryId": "cat-the-problem-of-evilgods-bigges",
+      "categoryName": "The Problem of Evil—God's Biggest Failure?",
+      "questionText": "Why would a loving God create Satan if He knew what Satan would do?",
+      "verseReferences": [
+        {
+          "reference": "Job 1:6-12",
+          "bookNumber": 18,
+          "chapter": 1,
+          "verseStart": 6,
+          "verseEnd": 12,
+          "type": "context"
+        },
+        {
+          "reference": "Genesis 3:1-7",
+          "bookNumber": 1,
+          "chapter": 3,
+          "verseStart": 1,
+          "verseEnd": 7,
+          "type": "context"
+        },
+        {
+          "reference": "Isaiah 14:12-15",
+          "bookNumber": 23,
+          "chapter": 14,
+          "verseStart": 12,
+          "verseEnd": 15,
+          "type": "response"
+        },
+        {
+          "reference": "Job 38:1-7",
+          "bookNumber": 18,
+          "chapter": 38,
+          "verseStart": 1,
+          "verseEnd": 7,
+          "type": "response"
+        },
+        {
+          "reference": "Revelation 20:10",
+          "bookNumber": 66,
+          "chapter": 20,
+          "verseStart": 10,
+          "verseEnd": null,
+          "type": "response"
+        },
+        {
+          "reference": "Colossians 1:16-17",
+          "bookNumber": 51,
+          "chapter": 1,
+          "verseStart": 16,
+          "verseEnd": 17,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "4c0b4282-e23d-40c9-8e7c-2a73018162e9",
+      "orderIndex": 68,
+      "categoryId": "cat-is-jesus-who-christians-claim",
+      "categoryName": "Is Jesus Who Christians Claim?",
+      "questionText": "If Jesus was sinless, why did He get baptized for repentance?",
+      "verseReferences": [
+        {
+          "reference": "Matthew 3:13-17",
+          "bookNumber": 40,
+          "chapter": 3,
+          "verseStart": 13,
+          "verseEnd": 17,
+          "type": "response"
+        },
+        {
+          "reference": "Acts 19:1-7",
+          "bookNumber": 44,
+          "chapter": 19,
+          "verseStart": 1,
+          "verseEnd": 7,
+          "type": "context"
+        },
+        {
+          "reference": "Luke 20:1-8",
+          "bookNumber": 42,
+          "chapter": 20,
+          "verseStart": 1,
+          "verseEnd": 8,
+          "type": "context"
+        },
+        {
+          "reference": "Isaiah 53:4-6",
+          "bookNumber": 23,
+          "chapter": 53,
+          "verseStart": 4,
+          "verseEnd": 6,
+          "type": "response"
+        },
+        {
+          "reference": "2 Corinthians 5:21",
+          "bookNumber": 47,
+          "chapter": 5,
+          "verseStart": 21,
+          "verseEnd": null,
+          "type": "response"
+        },
+        {
+          "reference": "Hebrews 4:15",
+          "bookNumber": 58,
+          "chapter": 4,
+          "verseStart": 15,
+          "verseEnd": null,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "4a2eed4f-e012-4471-ab17-438c84fd7c27",
+      "orderIndex": 69,
+      "categoryId": "cat-is-the-bible-trustworthyor-a-m",
+      "categoryName": "Is the Bible Trustworthy—Or a Mess of Errors?",
+      "questionText": "Why does Genesis 1 and Genesis 2 give different orders of creation?",
+      "verseReferences": [
+        {
+          "reference": "Genesis 1:1-2:3",
+          "bookNumber": null,
+          "chapter": null,
+          "verseStart": null,
+          "verseEnd": null,
+          "type": "context"
+        },
+        {
+          "reference": "Genesis 2:4-25",
+          "bookNumber": 1,
+          "chapter": 2,
+          "verseStart": 4,
+          "verseEnd": 25,
+          "type": "response"
+        },
+        {
+          "reference": "Psalm 19:1-6",
+          "bookNumber": 19,
+          "chapter": 19,
+          "verseStart": 1,
+          "verseEnd": 6,
+          "type": "context"
+        },
+        {
+          "reference": "2 Timothy 3:16-17",
+          "bookNumber": 55,
+          "chapter": 3,
+          "verseStart": 16,
+          "verseEnd": 17,
+          "type": "response"
+        },
+        {
+          "reference": "John 1:1-3",
+          "bookNumber": 43,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 3,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "0168362b-ecd6-4c36-a4d7-cca5e6941adc",
+      "orderIndex": 70,
+      "categoryId": "cat-science-vs-scripturecant-both-",
+      "categoryName": "Science vs. Scripture—Can't Both Be True?",
+      "questionText": "If God created humans, why do we have vestigial organs and \"design flaws\"?",
+      "verseReferences": [
+        {
+          "reference": "Genesis 1:1-31",
+          "bookNumber": 1,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 31,
+          "type": "context"
+        },
+        {
+          "reference": "Romans 1:19-23",
+          "bookNumber": 45,
+          "chapter": 1,
+          "verseStart": 19,
+          "verseEnd": 23,
+          "type": "context"
+        },
+        {
+          "reference": "Romans 8:18-23",
+          "bookNumber": 45,
+          "chapter": 8,
+          "verseStart": 18,
+          "verseEnd": 23,
+          "type": "response"
+        },
+        {
+          "reference": "Psalm 139:13-16",
+          "bookNumber": 19,
+          "chapter": 139,
+          "verseStart": 13,
+          "verseEnd": 16,
+          "type": "response"
+        },
+        {
+          "reference": "1 Corinthians 1:25-29",
+          "bookNumber": 46,
+          "chapter": 1,
+          "verseStart": 25,
+          "verseEnd": 29,
+          "type": "response"
+        },
+        {
+          "reference": "Job 38:1-11",
+          "bookNumber": 18,
+          "chapter": 38,
+          "verseStart": 1,
+          "verseEnd": 11,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "33e962c5-b986-444e-9ee9-55cfda8984d6",
+      "orderIndex": 71,
+      "categoryId": "cat-christianitys-exclusive-claims",
+      "categoryName": "Christianity's Exclusive Claims—Arrogant or True?",
+      "questionText": "If Christianity is self-evidently true, why does it require so much apologetics to defend?",
+      "verseReferences": [
+        {
+          "reference": "Romans 1:18-21",
+          "bookNumber": 45,
+          "chapter": 1,
+          "verseStart": 18,
+          "verseEnd": 21,
+          "type": "context"
+        },
+        {
+          "reference": "2 Timothy 3:14-17",
+          "bookNumber": 55,
+          "chapter": 3,
+          "verseStart": 14,
+          "verseEnd": 17,
+          "type": "response"
+        },
+        {
+          "reference": "1 Corinthians 1:18-25",
+          "bookNumber": 46,
+          "chapter": 1,
+          "verseStart": 18,
+          "verseEnd": 25,
+          "type": "response"
+        },
+        {
+          "reference": "2 Corinthians 4:3-6",
+          "bookNumber": 47,
+          "chapter": 4,
+          "verseStart": 3,
+          "verseEnd": 6,
+          "type": "context"
+        },
+        {
+          "reference": "Acts 17:22-31",
+          "bookNumber": 44,
+          "chapter": 17,
+          "verseStart": 22,
+          "verseEnd": 31,
+          "type": "response"
+        },
+        {
+          "reference": "1 Peter 3:15",
+          "bookNumber": 60,
+          "chapter": 3,
+          "verseStart": 15,
+          "verseEnd": null,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "9909a538-d182-4915-9a91-223e4d16a3c3",
+      "orderIndex": 72,
+      "categoryId": "cat-the-character-of-godworthy-of-",
+      "categoryName": "The Character of God—Worthy of Worship?",
+      "questionText": "If God is unchanging, why does He \"repent\" or \"regret\" His decisions in Scripture?",
+      "verseReferences": [
+        {
+          "reference": "Numbers 23:19",
+          "bookNumber": 4,
+          "chapter": 23,
+          "verseStart": 19,
+          "verseEnd": null,
+          "type": "response"
+        },
+        {
+          "reference": "1 Samuel 15:10-29",
+          "bookNumber": 9,
+          "chapter": 15,
+          "verseStart": 10,
+          "verseEnd": 29,
+          "type": "context"
+        },
+        {
+          "reference": "Genesis 6:5-8",
+          "bookNumber": 1,
+          "chapter": 6,
+          "verseStart": 5,
+          "verseEnd": 8,
+          "type": "context"
+        },
+        {
+          "reference": "Jonah 3:10-4:2",
+          "bookNumber": null,
+          "chapter": null,
+          "verseStart": null,
+          "verseEnd": null,
+          "type": "response"
+        },
+        {
+          "reference": "Malachi 3:6",
+          "bookNumber": 39,
+          "chapter": 3,
+          "verseStart": 6,
+          "verseEnd": null,
+          "type": "response"
+        },
+        {
+          "reference": "Jeremiah 18:1-10",
+          "bookNumber": 24,
+          "chapter": 18,
+          "verseStart": 1,
+          "verseEnd": 10,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "c843a2a5-f0ed-4c3c-a58d-1d3dd67c8334",
+      "orderIndex": 73,
+      "categoryId": "cat-the-bibles-moralityoutdated-an",
+      "categoryName": "The Bible's Morality—Outdated and Dangerous?",
+      "questionText": "Why do Christians cherry-pick which Old Testament laws to follow?",
+      "verseReferences": [
+        {
+          "reference": "Galatians 3:23-25",
+          "bookNumber": 48,
+          "chapter": 3,
+          "verseStart": 23,
+          "verseEnd": 25,
+          "type": "context"
+        },
+        {
+          "reference": "Colossians 2:16-17",
+          "bookNumber": 51,
+          "chapter": 2,
+          "verseStart": 16,
+          "verseEnd": 17,
+          "type": "response"
+        },
+        {
+          "reference": "Acts 15:1-11",
+          "bookNumber": 44,
+          "chapter": 15,
+          "verseStart": 1,
+          "verseEnd": 11,
+          "type": "response"
+        },
+        {
+          "reference": "Hebrews 10:1-4",
+          "bookNumber": 58,
+          "chapter": 10,
+          "verseStart": 1,
+          "verseEnd": 4,
+          "type": "response"
+        },
+        {
+          "reference": "Matthew 5:17-20",
+          "bookNumber": 40,
+          "chapter": 5,
+          "verseStart": 17,
+          "verseEnd": 20,
+          "type": "context"
+        },
+        {
+          "reference": "Galatians 5:14",
+          "bookNumber": 48,
+          "chapter": 5,
+          "verseStart": 14,
+          "verseEnd": null,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "54d19ba2-e469-45c1-bf2e-4e66d5de7432",
+      "orderIndex": 74,
+      "categoryId": "cat-does-god-even-exist",
+      "categoryName": "Does God Even Exist?",
+      "questionText": "Why should I believe in your God and not Zeus, Thor, or any other deity?",
+      "verseReferences": [
+        {
+          "reference": "Acts 17:24-28",
+          "bookNumber": 44,
+          "chapter": 17,
+          "verseStart": 24,
+          "verseEnd": 28,
+          "type": "context"
+        },
+        {
+          "reference": "Genesis 1:1-3",
+          "bookNumber": 1,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 3,
+          "type": "response"
+        },
+        {
+          "reference": "John 1:1-14",
+          "bookNumber": 43,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 14,
+          "type": "response"
+        },
+        {
+          "reference": "Isaiah 44:6-20",
+          "bookNumber": 23,
+          "chapter": 44,
+          "verseStart": 6,
+          "verseEnd": 20,
+          "type": "response"
+        },
+        {
+          "reference": "Psalm 115:1-8",
+          "bookNumber": 19,
+          "chapter": 115,
+          "verseStart": 1,
+          "verseEnd": 8,
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "0fbba5a7-d504-4e80-8b66-e66138933f8f",
+      "orderIndex": 75,
+      "categoryId": "cat-the-problem-of-evilgods-bigges",
+      "categoryName": "The Problem of Evil—God's Biggest Failure?",
+      "questionText": "Isn't \"God works in mysterious ways\" just an excuse when there's no good answer?",
+      "verseReferences": [
+        {
+          "reference": "Job 40:6-14",
+          "bookNumber": 18,
+          "chapter": 40,
+          "verseStart": 6,
+          "verseEnd": 14,
+          "type": "context"
+        },
+        {
+          "reference": "Job 42:1-6",
+          "bookNumber": 18,
+          "chapter": 42,
+          "verseStart": 1,
+          "verseEnd": 6,
+          "type": "response"
+        },
+        {
+          "reference": "Romans 8:18-25",
+          "bookNumber": 45,
+          "chapter": 8,
+          "verseStart": 18,
+          "verseEnd": 25,
+          "type": "response"
+        },
+        {
+          "reference": "Job 1:6-12",
+          "bookNumber": 18,
+          "chapter": 1,
+          "verseStart": 6,
+          "verseEnd": 12,
+          "type": "context"
+        },
+        {
+          "reference": "1 Corinthians 13:12",
+          "bookNumber": 46,
+          "chapter": 13,
+          "verseStart": 12,
+          "verseEnd": null,
+          "type": "response"
+        },
+        {
+          "reference": "Habakkuk 1:2-4, 2:1-4",
+          "bookNumber": null,
+          "chapter": null,
+          "verseStart": null,
+          "verseEnd": null,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "53a955c8-67f7-454b-b844-524744e5f720",
+      "orderIndex": 76,
+      "categoryId": "cat-is-jesus-who-christians-claim",
+      "categoryName": "Is Jesus Who Christians Claim?",
+      "questionText": "If Jesus knew He would rise again, was His sacrifice really that significant?",
+      "verseReferences": [
+        {
+          "reference": "Luke 22:39-46",
+          "bookNumber": 42,
+          "chapter": 22,
+          "verseStart": 39,
+          "verseEnd": 46,
+          "type": "response"
+        },
+        {
+          "reference": "Hebrews 5:7-10",
+          "bookNumber": 58,
+          "chapter": 5,
+          "verseStart": 7,
+          "verseEnd": 10,
+          "type": "response"
+        },
+        {
+          "reference": "Philippians 2:5-11",
+          "bookNumber": 50,
+          "chapter": 2,
+          "verseStart": 5,
+          "verseEnd": 11,
+          "type": "context"
+        },
+        {
+          "reference": "John 10:17-18",
+          "bookNumber": 43,
+          "chapter": 10,
+          "verseStart": 17,
+          "verseEnd": 18,
+          "type": "response"
+        },
+        {
+          "reference": "1 Peter 2:21-25",
+          "bookNumber": 60,
+          "chapter": 2,
+          "verseStart": 21,
+          "verseEnd": 25,
+          "type": "response"
+        },
+        {
+          "reference": "Matthew 26:36-46",
+          "bookNumber": 40,
+          "chapter": 26,
+          "verseStart": 36,
+          "verseEnd": 46,
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "52cfe330-e0cb-4615-b5e0-17c553ddf73f",
+      "orderIndex": 77,
+      "categoryId": "cat-is-the-bible-trustworthyor-a-m",
+      "categoryName": "Is the Bible Trustworthy—Or a Mess of Errors?",
+      "questionText": "How can you claim the Bible is \"inerrant\" when it contains obvious contradictions?",
+      "verseReferences": [
+        {
+          "reference": "Luke 24:25-27",
+          "bookNumber": 42,
+          "chapter": 24,
+          "verseStart": 25,
+          "verseEnd": 27,
+          "type": "context"
+        },
+        {
+          "reference": "Romans 10:5-13",
+          "bookNumber": 45,
+          "chapter": 10,
+          "verseStart": 5,
+          "verseEnd": 13,
+          "type": "response"
+        },
+        {
+          "reference": "2 Timothy 3:14-17",
+          "bookNumber": 55,
+          "chapter": 3,
+          "verseStart": 14,
+          "verseEnd": 17,
+          "type": "response"
+        },
+        {
+          "reference": "2 Peter 1:20-21",
+          "bookNumber": 61,
+          "chapter": 1,
+          "verseStart": 20,
+          "verseEnd": 21,
+          "type": "response"
+        },
+        {
+          "reference": "Matthew 5:17-18",
+          "bookNumber": 40,
+          "chapter": 5,
+          "verseStart": 17,
+          "verseEnd": 18,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "65dbed55-cd0b-4746-bb4c-af50a0a1d8eb",
+      "orderIndex": 78,
+      "categoryId": "cat-science-vs-scripturecant-both-",
+      "categoryName": "Science vs. Scripture—Can't Both Be True?",
+      "questionText": "Why does the Bible treat mental illness and epilepsy as demon possession?",
+      "verseReferences": [
+        {
+          "reference": "Luke 11:14-23",
+          "bookNumber": 42,
+          "chapter": 11,
+          "verseStart": 14,
+          "verseEnd": 23,
+          "type": "context"
+        },
+        {
+          "reference": "Mark 9:14-29",
+          "bookNumber": 41,
+          "chapter": 9,
+          "verseStart": 14,
+          "verseEnd": 29,
+          "type": "response"
+        },
+        {
+          "reference": "John 9:1-7",
+          "bookNumber": 43,
+          "chapter": 9,
+          "verseStart": 1,
+          "verseEnd": 7,
+          "type": "response"
+        },
+        {
+          "reference": "Ephesians 6:10-17",
+          "bookNumber": 49,
+          "chapter": 6,
+          "verseStart": 10,
+          "verseEnd": 17,
+          "type": "context"
+        },
+        {
+          "reference": "Matthew 4:24",
+          "bookNumber": 40,
+          "chapter": 4,
+          "verseStart": 24,
+          "verseEnd": null,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "b4611f23-fa7e-4a40-8b40-79294ad8d334",
+      "orderIndex": 79,
+      "categoryId": "cat-christianitys-exclusive-claims",
+      "categoryName": "Christianity's Exclusive Claims—Arrogant or True?",
+      "questionText": "What makes your holy book more valid than the Quran, the Vedas, or the Book of Mormon?",
+      "verseReferences": [
+        {
+          "reference": "2 Timothy 3:14-17",
+          "bookNumber": 55,
+          "chapter": 3,
+          "verseStart": 14,
+          "verseEnd": 17,
+          "type": "response"
+        },
+        {
+          "reference": "John 14:6",
+          "bookNumber": 43,
+          "chapter": 14,
+          "verseStart": 6,
+          "verseEnd": null,
+          "type": "response"
+        },
+        {
+          "reference": "Mark 15:40-47",
+          "bookNumber": 41,
+          "chapter": 15,
+          "verseStart": 40,
+          "verseEnd": 47,
+          "type": "context"
+        },
+        {
+          "reference": "1 Corinthians 15:3-8",
+          "bookNumber": 46,
+          "chapter": 15,
+          "verseStart": 3,
+          "verseEnd": 8,
+          "type": "response"
+        },
+        {
+          "reference": "Acts 17:11",
+          "bookNumber": 44,
+          "chapter": 17,
+          "verseStart": 11,
+          "verseEnd": null,
+          "type": "context"
+        },
+        {
+          "reference": "Hebrews 1:1-4",
+          "bookNumber": 58,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 4,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "f6c0a16b-e23e-41f1-88fd-f3ef9f78d9c6",
+      "orderIndex": 80,
+      "categoryId": "cat-the-character-of-godworthy-of-",
+      "categoryName": "The Character of God—Worthy of Worship?",
+      "questionText": "Why did God kill Uzzah for steadying the Ark when he was trying to help?",
+      "verseReferences": [
+        {
+          "reference": "2 Samuel 6:1-11",
+          "bookNumber": 10,
+          "chapter": 6,
+          "verseStart": 1,
+          "verseEnd": 11,
+          "type": "context"
+        },
+        {
+          "reference": "Numbers 4:15",
+          "bookNumber": 4,
+          "chapter": 4,
+          "verseStart": 15,
+          "verseEnd": null,
+          "type": "context"
+        },
+        {
+          "reference": "Leviticus 10:1-3",
+          "bookNumber": 3,
+          "chapter": 10,
+          "verseStart": 1,
+          "verseEnd": 3,
+          "type": "response"
+        },
+        {
+          "reference": "Isaiah 55:8-9",
+          "bookNumber": 23,
+          "chapter": 55,
+          "verseStart": 8,
+          "verseEnd": 9,
+          "type": "response"
+        },
+        {
+          "reference": "1 Chronicles 15:11-15",
+          "bookNumber": 13,
+          "chapter": 15,
+          "verseStart": 11,
+          "verseEnd": 15,
+          "type": "response"
+        },
+        {
+          "reference": "Job 1:6-12",
+          "bookNumber": 18,
+          "chapter": 1,
+          "verseStart": 6,
+          "verseEnd": 12,
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "971b504f-0054-4242-943f-4879f3c93567",
+      "orderIndex": 81,
+      "categoryId": "cat-does-god-even-exist",
+      "categoryName": "Does God Even Exist?",
+      "questionText": "If God is love, why did He design a world where survival depends on death and predation?",
+      "verseReferences": [
+        {
+          "reference": "Romans 8:18-22",
+          "bookNumber": 45,
+          "chapter": 8,
+          "verseStart": 18,
+          "verseEnd": 22,
+          "type": "context"
+        },
+        {
+          "reference": "Job 38:39-41",
+          "bookNumber": 18,
+          "chapter": 38,
+          "verseStart": 39,
+          "verseEnd": 41,
+          "type": "response"
+        },
+        {
+          "reference": "Job 40:6-14",
+          "bookNumber": 18,
+          "chapter": 40,
+          "verseStart": 6,
+          "verseEnd": 14,
+          "type": "response"
+        },
+        {
+          "reference": "Genesis 1:29-31",
+          "bookNumber": 1,
+          "chapter": 1,
+          "verseStart": 29,
+          "verseEnd": 31,
+          "type": "context"
+        },
+        {
+          "reference": "Revelation 21:1-4",
+          "bookNumber": 66,
+          "chapter": 21,
+          "verseStart": 1,
+          "verseEnd": 4,
+          "type": "response"
+        },
+        {
+          "reference": "Romans 1:19-20",
+          "bookNumber": 45,
+          "chapter": 1,
+          "verseStart": 19,
+          "verseEnd": 20,
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "a01f1208-9a28-45e3-ab9c-3396e3e2b0e4",
+      "orderIndex": 82,
+      "categoryId": "cat-the-problem-of-evilgods-bigges",
+      "categoryName": "The Problem of Evil—God's Biggest Failure?",
+      "questionText": "How can you worship a God who stood by during the Holocaust?",
+      "verseReferences": [
+        {
+          "reference": "Job 1:6-12",
+          "bookNumber": 18,
+          "chapter": 1,
+          "verseStart": 6,
+          "verseEnd": 12,
+          "type": "context"
+        },
+        {
+          "reference": "Job 2:1-10",
+          "bookNumber": 18,
+          "chapter": 2,
+          "verseStart": 1,
+          "verseEnd": 10,
+          "type": "response"
+        },
+        {
+          "reference": "Romans 8:28-39",
+          "bookNumber": 45,
+          "chapter": 8,
+          "verseStart": 28,
+          "verseEnd": 39,
+          "type": "response"
+        },
+        {
+          "reference": "Matthew 5:43-48",
+          "bookNumber": 40,
+          "chapter": 5,
+          "verseStart": 43,
+          "verseEnd": 48,
+          "type": "response"
+        },
+        {
+          "reference": "Habakkuk 1:2-4, 2:1-4",
+          "bookNumber": null,
+          "chapter": null,
+          "verseStart": null,
+          "verseEnd": null,
+          "type": "context"
+        },
+        {
+          "reference": "Revelation 6:9-11",
+          "bookNumber": 66,
+          "chapter": 6,
+          "verseStart": 9,
+          "verseEnd": 11,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "a9797338-8dc2-45f5-a96e-3543c2f11368",
+      "orderIndex": 83,
+      "categoryId": "cat-is-jesus-who-christians-claim",
+      "categoryName": "Is Jesus Who Christians Claim?",
+      "questionText": "Why did Jesus seem to ignore or insult non-Jews (like calling a woman a \"dog\")?",
+      "verseReferences": [
+        {
+          "reference": "Matthew 15:21-28",
+          "bookNumber": 40,
+          "chapter": 15,
+          "verseStart": 21,
+          "verseEnd": 28,
+          "type": "response"
+        },
+        {
+          "reference": "Mark 7:24-30",
+          "bookNumber": 41,
+          "chapter": 7,
+          "verseStart": 24,
+          "verseEnd": 30,
+          "type": "response"
+        },
+        {
+          "reference": "Genesis 12:1-3",
+          "bookNumber": 1,
+          "chapter": 12,
+          "verseStart": 1,
+          "verseEnd": 3,
+          "type": "context"
+        },
+        {
+          "reference": "Ephesians 3:1-6",
+          "bookNumber": 49,
+          "chapter": 3,
+          "verseStart": 1,
+          "verseEnd": 6,
+          "type": "response"
+        },
+        {
+          "reference": "Ruth 1:16-17",
+          "bookNumber": 8,
+          "chapter": 1,
+          "verseStart": 16,
+          "verseEnd": 17,
+          "type": "context"
+        },
+        {
+          "reference": "Joshua 2:8-13",
+          "bookNumber": 6,
+          "chapter": 2,
+          "verseStart": 8,
+          "verseEnd": 13,
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "5bced724-b0d5-477c-b85f-7592a0c7dc16",
+      "orderIndex": 84,
+      "categoryId": "cat-is-the-bible-trustworthyor-a-m",
+      "categoryName": "Is the Bible Trustworthy—Or a Mess of Errors?",
+      "questionText": "Why does God command genocide of entire people groups, including children?",
+      "verseReferences": [
+        {
+          "reference": "Genesis 18:22-33",
+          "bookNumber": 1,
+          "chapter": 18,
+          "verseStart": 22,
+          "verseEnd": 33,
+          "type": "context"
+        },
+        {
+          "reference": "Joshua 2:1-21",
+          "bookNumber": 6,
+          "chapter": 2,
+          "verseStart": 1,
+          "verseEnd": 21,
+          "type": "response"
+        },
+        {
+          "reference": "2 Peter 3:9",
+          "bookNumber": 61,
+          "chapter": 3,
+          "verseStart": 9,
+          "verseEnd": null,
+          "type": "response"
+        },
+        {
+          "reference": "Romans 9:19-24",
+          "bookNumber": 45,
+          "chapter": 9,
+          "verseStart": 19,
+          "verseEnd": 24,
+          "type": "response"
+        },
+        {
+          "reference": "Leviticus 18:24-28",
+          "bookNumber": 3,
+          "chapter": 18,
+          "verseStart": 24,
+          "verseEnd": 28,
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "2d3644af-417e-4de5-afe1-410fe37bfaf9",
+      "orderIndex": 85,
+      "categoryId": "cat-science-vs-scripturecant-both-",
+      "categoryName": "Science vs. Scripture—Can't Both Be True?",
+      "questionText": "Why would God create a universe that looks exactly like it doesn't need Him to function?",
+      "verseReferences": [
+        {
+          "reference": "Genesis 1:1-5",
+          "bookNumber": 1,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 5,
+          "type": "context"
+        },
+        {
+          "reference": "Acts 17:24-28",
+          "bookNumber": 44,
+          "chapter": 17,
+          "verseStart": 24,
+          "verseEnd": 28,
+          "type": "response"
+        },
+        {
+          "reference": "Isaiah 40:21-26",
+          "bookNumber": 23,
+          "chapter": 40,
+          "verseStart": 21,
+          "verseEnd": 26,
+          "type": "response"
+        },
+        {
+          "reference": "Colossians 1:16-17",
+          "bookNumber": 51,
+          "chapter": 1,
+          "verseStart": 16,
+          "verseEnd": 17,
+          "type": "response"
+        },
+        {
+          "reference": "Psalm 19:1-4",
+          "bookNumber": 19,
+          "chapter": 19,
+          "verseStart": 1,
+          "verseEnd": 4,
+          "type": "context"
+        },
+        {
+          "reference": "Romans 1:19-20",
+          "bookNumber": 45,
+          "chapter": 1,
+          "verseStart": 19,
+          "verseEnd": 20,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "a453e320-382e-4bdc-9e77-57253c73a9cc",
+      "orderIndex": 86,
+      "categoryId": "cat-christianitys-exclusive-claims",
+      "categoryName": "Christianity's Exclusive Claims—Arrogant or True?",
+      "questionText": "If the Holy Spirit guides believers into truth, why do Spirit-filled Christians disagree on everything?",
+      "verseReferences": [
+        {
+          "reference": "John 16:12-15",
+          "bookNumber": 43,
+          "chapter": 16,
+          "verseStart": 12,
+          "verseEnd": 15,
+          "type": "response"
+        },
+        {
+          "reference": "Ephesians 4:1-6",
+          "bookNumber": 49,
+          "chapter": 4,
+          "verseStart": 1,
+          "verseEnd": 6,
+          "type": "context"
+        },
+        {
+          "reference": "Romans 14:1-12",
+          "bookNumber": 45,
+          "chapter": 14,
+          "verseStart": 1,
+          "verseEnd": 12,
+          "type": "response"
+        },
+        {
+          "reference": "1 Corinthians 1:10-17",
+          "bookNumber": 46,
+          "chapter": 1,
+          "verseStart": 10,
+          "verseEnd": 17,
+          "type": "context"
+        },
+        {
+          "reference": "2 Timothy 3:14-17",
+          "bookNumber": 55,
+          "chapter": 3,
+          "verseStart": 14,
+          "verseEnd": 17,
+          "type": "response"
+        },
+        {
+          "reference": "Ephesians 4:11-16",
+          "bookNumber": 49,
+          "chapter": 4,
+          "verseStart": 11,
+          "verseEnd": 16,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "67dc1208-9ed0-469a-9bb2-c74b5658cd0e",
+      "orderIndex": 87,
+      "categoryId": "cat-the-character-of-godworthy-of-",
+      "categoryName": "The Character of God—Worthy of Worship?",
+      "questionText": "Why does God accept human sacrifice in the case of Jephthah's daughter?",
+      "verseReferences": [
+        {
+          "reference": "Genesis 22:1-19",
+          "bookNumber": 1,
+          "chapter": 22,
+          "verseStart": 1,
+          "verseEnd": 19,
+          "type": "context"
+        },
+        {
+          "reference": "Judges 11:29-40",
+          "bookNumber": 7,
+          "chapter": 11,
+          "verseStart": 29,
+          "verseEnd": 40,
+          "type": "response"
+        },
+        {
+          "reference": "Leviticus 18:21",
+          "bookNumber": 3,
+          "chapter": 18,
+          "verseStart": 21,
+          "verseEnd": null,
+          "type": "response"
+        },
+        {
+          "reference": "Jeremiah 19:4-6",
+          "bookNumber": 24,
+          "chapter": 19,
+          "verseStart": 4,
+          "verseEnd": 6,
+          "type": "response"
+        },
+        {
+          "reference": "Hebrews 11:32-34",
+          "bookNumber": 58,
+          "chapter": 11,
+          "verseStart": 32,
+          "verseEnd": 34,
+          "type": "context"
+        },
+        {
+          "reference": "Ecclesiastes 5:4-6",
+          "bookNumber": 21,
+          "chapter": 5,
+          "verseStart": 4,
+          "verseEnd": 6,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "6cb5aef5-d850-45ee-93c8-d7bdc1e6bc2f",
+      "orderIndex": 88,
+      "categoryId": "cat-does-god-even-exist",
+      "categoryName": "Does God Even Exist?",
+      "questionText": "Why would an all-powerful God need to be worshipped?",
+      "verseReferences": [
+        {
+          "reference": "Acts 17:24-25",
+          "bookNumber": 44,
+          "chapter": 17,
+          "verseStart": 24,
+          "verseEnd": 25,
+          "type": "context"
+        },
+        {
+          "reference": "Isaiah 43:6-7",
+          "bookNumber": 23,
+          "chapter": 43,
+          "verseStart": 6,
+          "verseEnd": 7,
+          "type": "response"
+        },
+        {
+          "reference": "Job 41:33-42:6",
+          "bookNumber": null,
+          "chapter": null,
+          "verseStart": null,
+          "verseEnd": null,
+          "type": "response"
+        },
+        {
+          "reference": "Romans 1:18-23",
+          "bookNumber": 45,
+          "chapter": 1,
+          "verseStart": 18,
+          "verseEnd": 23,
+          "type": "context"
+        },
+        {
+          "reference": "Psalm 19:1-6",
+          "bookNumber": 19,
+          "chapter": 19,
+          "verseStart": 1,
+          "verseEnd": 6,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "dad02526-d0a5-4338-9eed-97cfd8008b2e",
+      "orderIndex": 89,
+      "categoryId": "cat-the-problem-of-evilgods-bigges",
+      "categoryName": "The Problem of Evil—God's Biggest Failure?",
+      "questionText": "If God is sovereign, isn't He ultimately responsible for all evil?",
+      "verseReferences": [
+        {
+          "reference": "Job 1:6-12",
+          "bookNumber": 18,
+          "chapter": 1,
+          "verseStart": 6,
+          "verseEnd": 12,
+          "type": "context"
+        },
+        {
+          "reference": "Job 40:1-14",
+          "bookNumber": 18,
+          "chapter": 40,
+          "verseStart": 1,
+          "verseEnd": 14,
+          "type": "response"
+        },
+        {
+          "reference": "Isaiah 45:5-7",
+          "bookNumber": 23,
+          "chapter": 45,
+          "verseStart": 5,
+          "verseEnd": 7,
+          "type": "context"
+        },
+        {
+          "reference": "Romans 9:19-24",
+          "bookNumber": 45,
+          "chapter": 9,
+          "verseStart": 19,
+          "verseEnd": 24,
+          "type": "response"
+        },
+        {
+          "reference": "James 1:13-15",
+          "bookNumber": 59,
+          "chapter": 1,
+          "verseStart": 13,
+          "verseEnd": 15,
+          "type": "response"
+        },
+        {
+          "reference": "Acts 2:22-24",
+          "bookNumber": 44,
+          "chapter": 2,
+          "verseStart": 22,
+          "verseEnd": 24,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "2e5bcb14-2d23-4a53-bd6a-447686334281",
+      "orderIndex": 90,
+      "categoryId": "cat-is-jesus-who-christians-claim",
+      "categoryName": "Is Jesus Who Christians Claim?",
+      "questionText": "Why should I believe Jesus existed when there's almost no contemporary evidence?",
+      "verseReferences": [
+        {
+          "reference": "Luke 1:1-4",
+          "bookNumber": 42,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 4,
+          "type": "context"
+        },
+        {
+          "reference": "1 Corinthians 15:3-8",
+          "bookNumber": 46,
+          "chapter": 15,
+          "verseStart": 3,
+          "verseEnd": 8,
+          "type": "response"
+        },
+        {
+          "reference": "2 Peter 1:16-18",
+          "bookNumber": 61,
+          "chapter": 1,
+          "verseStart": 16,
+          "verseEnd": 18,
+          "type": "response"
+        },
+        {
+          "reference": "Mark 15:40-47",
+          "bookNumber": 41,
+          "chapter": 15,
+          "verseStart": 40,
+          "verseEnd": 47,
+          "type": "response"
+        },
+        {
+          "reference": "Acts 26:24-26",
+          "bookNumber": 44,
+          "chapter": 26,
+          "verseStart": 24,
+          "verseEnd": 26,
+          "type": "response"
+        },
+        {
+          "reference": "John 20:30-31",
+          "bookNumber": 43,
+          "chapter": 20,
+          "verseStart": 30,
+          "verseEnd": 31,
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "bb3aa820-9541-47ac-b4f8-7962c207a7b7",
+      "orderIndex": 91,
+      "categoryId": "cat-is-the-bible-trustworthyor-a-m",
+      "categoryName": "Is the Bible Trustworthy—Or a Mess of Errors?",
+      "questionText": "Why does the Bible endorse slavery instead of condemning it outright?",
+      "verseReferences": [
+        {
+          "reference": "Ephesians 6:5-9",
+          "bookNumber": 49,
+          "chapter": 6,
+          "verseStart": 5,
+          "verseEnd": 9,
+          "type": "response"
+        },
+        {
+          "reference": "1 Timothy 1:9-10",
+          "bookNumber": 54,
+          "chapter": 1,
+          "verseStart": 9,
+          "verseEnd": 10,
+          "type": "response"
+        },
+        {
+          "reference": "Exodus 21:16",
+          "bookNumber": 2,
+          "chapter": 21,
+          "verseStart": 16,
+          "verseEnd": null,
+          "type": "context"
+        },
+        {
+          "reference": "Exodus 21:2-6",
+          "bookNumber": 2,
+          "chapter": 21,
+          "verseStart": 2,
+          "verseEnd": 6,
+          "type": "response"
+        },
+        {
+          "reference": "Genesis 50:15-21",
+          "bookNumber": 1,
+          "chapter": 50,
+          "verseStart": 15,
+          "verseEnd": 21,
+          "type": "context"
+        },
+        {
+          "reference": "1 Peter 2:18-25",
+          "bookNumber": 60,
+          "chapter": 2,
+          "verseStart": 18,
+          "verseEnd": 25,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "3cf4820e-8003-47b1-b32b-6ee32508e503",
+      "orderIndex": 92,
+      "categoryId": "cat-does-god-even-exist",
+      "categoryName": "Does God Even Exist?",
+      "questionText": "Isn't the universe better explained by science than by an invisible deity?",
+      "verseReferences": [
+        {
+          "reference": "Psalm 19:1-6",
+          "bookNumber": 19,
+          "chapter": 19,
+          "verseStart": 1,
+          "verseEnd": 6,
+          "type": "context"
+        },
+        {
+          "reference": "Acts 17:24-28",
+          "bookNumber": 44,
+          "chapter": 17,
+          "verseStart": 24,
+          "verseEnd": 28,
+          "type": "response"
+        },
+        {
+          "reference": "John 1:1-14",
+          "bookNumber": 43,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 14,
+          "type": "response"
+        },
+        {
+          "reference": "Isaiah 40:21-26",
+          "bookNumber": 23,
+          "chapter": 40,
+          "verseStart": 21,
+          "verseEnd": 26,
+          "type": "response"
+        },
+        {
+          "reference": "Romans 1:19-20",
+          "bookNumber": 45,
+          "chapter": 1,
+          "verseStart": 19,
+          "verseEnd": 20,
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "3c56e06d-3f6a-43ba-8405-40eeb35a5fc1",
+      "orderIndex": 93,
+      "categoryId": "cat-the-problem-of-evilgods-bigges",
+      "categoryName": "The Problem of Evil—God's Biggest Failure?",
+      "questionText": "Isn't it cruel to create people knowing most of them will end up in eternal hell?",
+      "verseReferences": [
+        {
+          "reference": "Ephesians 2:1-10",
+          "bookNumber": 49,
+          "chapter": 2,
+          "verseStart": 1,
+          "verseEnd": 10,
+          "type": "context"
+        },
+        {
+          "reference": "Romans 9:19-24",
+          "bookNumber": 45,
+          "chapter": 9,
+          "verseStart": 19,
+          "verseEnd": 24,
+          "type": "response"
+        },
+        {
+          "reference": "2 Peter 3:9",
+          "bookNumber": 61,
+          "chapter": 3,
+          "verseStart": 9,
+          "verseEnd": null,
+          "type": "response"
+        },
+        {
+          "reference": "Ezekiel 33:11",
+          "bookNumber": 26,
+          "chapter": 33,
+          "verseStart": 11,
+          "verseEnd": null,
+          "type": "response"
+        },
+        {
+          "reference": "Genesis 18:25",
+          "bookNumber": 1,
+          "chapter": 18,
+          "verseStart": 25,
+          "verseEnd": null,
+          "type": "context"
+        },
+        {
+          "reference": "Romans 3:10-18",
+          "bookNumber": 45,
+          "chapter": 3,
+          "verseStart": 10,
+          "verseEnd": 18,
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "3f784fdf-3183-4e7a-a76b-e46d92531392",
+      "orderIndex": 94,
+      "categoryId": "cat-is-jesus-who-christians-claim",
+      "categoryName": "Is Jesus Who Christians Claim?",
+      "questionText": "Isn't the Jesus story just a recycled myth from older dying-and-rising gods?",
+      "verseReferences": [
+        {
+          "reference": "Luke 1:1-4",
+          "bookNumber": 42,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 4,
+          "type": "context"
+        },
+        {
+          "reference": "Mark 15:40-47",
+          "bookNumber": 41,
+          "chapter": 15,
+          "verseStart": 40,
+          "verseEnd": 47,
+          "type": "response"
+        },
+        {
+          "reference": "1 Corinthians 15:3-8",
+          "bookNumber": 46,
+          "chapter": 15,
+          "verseStart": 3,
+          "verseEnd": 8,
+          "type": "response"
+        },
+        {
+          "reference": "Acts 26:24-26",
+          "bookNumber": 44,
+          "chapter": 26,
+          "verseStart": 24,
+          "verseEnd": 26,
+          "type": "response"
+        },
+        {
+          "reference": "2 Peter 1:16-18",
+          "bookNumber": 61,
+          "chapter": 1,
+          "verseStart": 16,
+          "verseEnd": 18,
+          "type": "response"
+        },
+        {
+          "reference": "John 1:14",
+          "bookNumber": 43,
+          "chapter": 1,
+          "verseStart": 14,
+          "verseEnd": null,
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "ce7278b8-317a-4ed8-b73b-98032362dc20",
+      "orderIndex": 95,
+      "categoryId": "cat-is-the-bible-trustworthyor-a-m",
+      "categoryName": "Is the Bible Trustworthy—Or a Mess of Errors?",
+      "questionText": "Hasn't the Bible been copied and translated so many times that the original meaning is lost?",
+      "verseReferences": [
+        {
+          "reference": "1 Peter 1:23-25",
+          "bookNumber": 60,
+          "chapter": 1,
+          "verseStart": 23,
+          "verseEnd": 25,
+          "type": "response"
+        },
+        {
+          "reference": "Hebrews 1:1-3",
+          "bookNumber": 58,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 3,
+          "type": "context"
+        },
+        {
+          "reference": "2 Timothy 3:16-17",
+          "bookNumber": 55,
+          "chapter": 3,
+          "verseStart": 16,
+          "verseEnd": 17,
+          "type": "response"
+        },
+        {
+          "reference": "Matthew 5:17-18",
+          "bookNumber": 40,
+          "chapter": 5,
+          "verseStart": 17,
+          "verseEnd": 18,
+          "type": "response"
+        },
+        {
+          "reference": "Psalm 119:89-96",
+          "bookNumber": 19,
+          "chapter": 119,
+          "verseStart": 89,
+          "verseEnd": 96,
+          "type": "response"
+        },
+        {
+          "reference": "Romans 10:14-17",
+          "bookNumber": 45,
+          "chapter": 10,
+          "verseStart": 14,
+          "verseEnd": 17,
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "cd7d19b2-5ca7-4fb2-8147-0da93ace62ff",
+      "orderIndex": 96,
+      "categoryId": "cat-does-god-even-exist",
+      "categoryName": "Does God Even Exist?",
+      "questionText": "Isn't religious experience just a product of brain chemistry and psychology?",
+      "verseReferences": [
+        {
+          "reference": "Acts 17:24-28",
+          "bookNumber": 44,
+          "chapter": 17,
+          "verseStart": 24,
+          "verseEnd": 28,
+          "type": "context"
+        },
+        {
+          "reference": "1 John 4:7-12",
+          "bookNumber": 62,
+          "chapter": 4,
+          "verseStart": 7,
+          "verseEnd": 12,
+          "type": "response"
+        },
+        {
+          "reference": "Romans 1:19-20",
+          "bookNumber": 45,
+          "chapter": 1,
+          "verseStart": 19,
+          "verseEnd": 20,
+          "type": "response"
+        },
+        {
+          "reference": "John 1:1-14",
+          "bookNumber": 43,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 14,
+          "type": "response"
+        },
+        {
+          "reference": "1 Corinthians 15:3-8",
+          "bookNumber": 46,
+          "chapter": 15,
+          "verseStart": 3,
+          "verseEnd": 8,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "db33d6a8-1968-4717-a56f-a557e684c80a",
+      "orderIndex": 97,
+      "categoryId": "cat-is-the-bible-trustworthyor-a-m",
+      "categoryName": "Is the Bible Trustworthy—Or a Mess of Errors?",
+      "questionText": "Why would God's \"perfect revelation\" require scholars and translators to understand it?",
+      "verseReferences": [
+        {
+          "reference": "Luke 24:25-27",
+          "bookNumber": 42,
+          "chapter": 24,
+          "verseStart": 25,
+          "verseEnd": 27,
+          "type": "context"
+        },
+        {
+          "reference": "2 Timothy 3:16-17",
+          "bookNumber": 55,
+          "chapter": 3,
+          "verseStart": 16,
+          "verseEnd": 17,
+          "type": "response"
+        },
+        {
+          "reference": "Acts 8:30-35",
+          "bookNumber": 44,
+          "chapter": 8,
+          "verseStart": 30,
+          "verseEnd": 35,
+          "type": "response"
+        },
+        {
+          "reference": "Nehemiah 8:8",
+          "bookNumber": 16,
+          "chapter": 8,
+          "verseStart": 8,
+          "verseEnd": null,
+          "type": "context"
+        },
+        {
+          "reference": "2 Peter 3:15-16",
+          "bookNumber": 61,
+          "chapter": 3,
+          "verseStart": 15,
+          "verseEnd": 16,
+          "type": "response"
+        },
+        {
+          "reference": "1 Corinthians 2:12-14",
+          "bookNumber": 46,
+          "chapter": 2,
+          "verseStart": 12,
+          "verseEnd": 14,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "5bde720a-27a1-4c7c-a02b-f499ae315751",
+      "orderIndex": 98,
+      "categoryId": "cat-does-god-even-exist",
+      "categoryName": "Does God Even Exist?",
+      "questionText": "If God speaks to people, why do they all hear different and contradictory things?",
+      "verseReferences": [
+        {
+          "reference": "Acts 17:24-28",
+          "bookNumber": 44,
+          "chapter": 17,
+          "verseStart": 24,
+          "verseEnd": 28,
+          "type": "context"
+        },
+        {
+          "reference": "John 1:1-14",
+          "bookNumber": 43,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 14,
+          "type": "response"
+        },
+        {
+          "reference": "1 Corinthians 2:10-14",
+          "bookNumber": 46,
+          "chapter": 2,
+          "verseStart": 10,
+          "verseEnd": 14,
+          "type": "response"
+        },
+        {
+          "reference": "Jeremiah 23:25-32",
+          "bookNumber": 24,
+          "chapter": 23,
+          "verseStart": 25,
+          "verseEnd": 32,
+          "type": "context"
+        },
+        {
+          "reference": "Hebrews 1:1-3",
+          "bookNumber": 58,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 3,
+          "type": "response"
+        },
+        {
+          "reference": "2 Timothy 3:16-17",
+          "bookNumber": 55,
+          "chapter": 3,
+          "verseStart": 16,
+          "verseEnd": 17,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "53cab029-15b6-4d9b-9ba8-f4138db6f799",
+      "orderIndex": 99,
+      "categoryId": "cat-is-the-bible-trustworthyor-a-m",
+      "categoryName": "Is the Bible Trustworthy—Or a Mess of Errors?",
+      "questionText": "If the Bible is God's Word, why is it so easily misunderstood and misused?",
+      "verseReferences": [
+        {
+          "reference": "2 Peter 3:15-16",
+          "bookNumber": 61,
+          "chapter": 3,
+          "verseStart": 15,
+          "verseEnd": 16,
+          "type": "context"
+        },
+        {
+          "reference": "Romans 10:6-8",
+          "bookNumber": 45,
+          "chapter": 10,
+          "verseStart": 6,
+          "verseEnd": 8,
+          "type": "response"
+        },
+        {
+          "reference": "1 Peter 1:23-25",
+          "bookNumber": 60,
+          "chapter": 1,
+          "verseStart": 23,
+          "verseEnd": 25,
+          "type": "response"
+        },
+        {
+          "reference": "Hebrews 1:1-3",
+          "bookNumber": 58,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 3,
+          "type": "response"
+        },
+        {
+          "reference": "2 Timothy 3:16-17",
+          "bookNumber": 55,
+          "chapter": 3,
+          "verseStart": 16,
+          "verseEnd": 17,
+          "type": "response"
+        },
+        {
+          "reference": "Matthew 4:1-11",
+          "bookNumber": 40,
+          "chapter": 4,
+          "verseStart": 1,
+          "verseEnd": 11,
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "cf8ce8d6-3030-4672-bb1d-2d2b03df1d01",
+      "orderIndex": 100,
+      "categoryId": "cat-does-god-even-exist",
+      "categoryName": "Does God Even Exist?",
+      "questionText": "How can you claim God is \"necessary\" when billions live without believing in Him?",
+      "verseReferences": [
+        {
+          "reference": "Acts 17:24-28",
+          "bookNumber": 44,
+          "chapter": 17,
+          "verseStart": 24,
+          "verseEnd": 28,
+          "type": "response"
+        },
+        {
+          "reference": "Romans 1:18-21",
+          "bookNumber": 45,
+          "chapter": 1,
+          "verseStart": 18,
+          "verseEnd": 21,
+          "type": "context"
+        },
+        {
+          "reference": "Psalm 19:1-6",
+          "bookNumber": 19,
+          "chapter": 19,
+          "verseStart": 1,
+          "verseEnd": 6,
+          "type": "response"
+        },
+        {
+          "reference": "John 1:1-5",
+          "bookNumber": 43,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 5,
+          "type": "response"
+        },
+        {
+          "reference": "Colossians 1:16-17",
+          "bookNumber": 51,
+          "chapter": 1,
+          "verseStart": 16,
+          "verseEnd": 17,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "ba73f472-b31d-4ccb-b3d7-610fa95d365a",
+      "orderIndex": 101,
+      "categoryId": "cat-is-the-bible-trustworthyor-a-m",
+      "categoryName": "Is the Bible Trustworthy—Or a Mess of Errors?",
+      "questionText": "Why do Matthew and Luke give completely different genealogies for Jesus?",
+      "verseReferences": [
+        {
+          "reference": "Luke 1:1-4",
+          "bookNumber": 42,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 4,
+          "type": "context"
+        },
+        {
+          "reference": "Matthew 1:1-17",
+          "bookNumber": 40,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 17,
+          "type": "response"
+        },
+        {
+          "reference": "Luke 3:23-38",
+          "bookNumber": 42,
+          "chapter": 3,
+          "verseStart": 23,
+          "verseEnd": 38,
+          "type": "response"
+        },
+        {
+          "reference": "Romans 1:1-4",
+          "bookNumber": 45,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 4,
+          "type": "response"
+        },
+        {
+          "reference": "2 Timothy 3:16-17",
+          "bookNumber": 55,
+          "chapter": 3,
+          "verseStart": 16,
+          "verseEnd": 17,
+          "type": "context"
+        }
+      ]
+    },
+    {
+      "id": "25c2307b-edf8-4253-9d26-29ca99d09ac4",
+      "orderIndex": 102,
+      "categoryId": "cat-is-the-bible-trustworthyor-a-m",
+      "categoryName": "Is the Bible Trustworthy—Or a Mess of Errors?",
+      "questionText": "Why does God seem jealous, angry, and petty in the Old Testament but loving in the New?",
+      "verseReferences": [
+        {
+          "reference": "Hosea 11:1-9",
+          "bookNumber": 28,
+          "chapter": 11,
+          "verseStart": 1,
+          "verseEnd": 9,
+          "type": "context"
+        },
+        {
+          "reference": "John 2:13-17",
+          "bookNumber": 43,
+          "chapter": 2,
+          "verseStart": 13,
+          "verseEnd": 17,
+          "type": "response"
+        },
+        {
+          "reference": "Romans 11:22",
+          "bookNumber": 45,
+          "chapter": 11,
+          "verseStart": 22,
+          "verseEnd": null,
+          "type": "response"
+        },
+        {
+          "reference": "Malachi 3:6",
+          "bookNumber": 39,
+          "chapter": 3,
+          "verseStart": 6,
+          "verseEnd": null,
+          "type": "context"
+        },
+        {
+          "reference": "Revelation 19:11-16",
+          "bookNumber": 66,
+          "chapter": 19,
+          "verseStart": 11,
+          "verseEnd": 16,
+          "type": "response"
+        },
+        {
+          "reference": "Isaiah 54:7-10",
+          "bookNumber": 23,
+          "chapter": 54,
+          "verseStart": 7,
+          "verseEnd": 10,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "a1ea69a0-9327-4b03-a2f6-09072745c454",
+      "orderIndex": 103,
+      "categoryId": "cat-is-the-bible-trustworthyor-a-m",
+      "categoryName": "Is the Bible Trustworthy—Or a Mess of Errors?",
+      "questionText": "Why do the Gospels disagree about what was written on Jesus' cross?",
+      "verseReferences": [
+        {
+          "reference": "John 20:30-31",
+          "bookNumber": 43,
+          "chapter": 20,
+          "verseStart": 30,
+          "verseEnd": 31,
+          "type": "context"
+        },
+        {
+          "reference": "Mark 15:40-47",
+          "bookNumber": 41,
+          "chapter": 15,
+          "verseStart": 40,
+          "verseEnd": 47,
+          "type": "response"
+        },
+        {
+          "reference": "Luke 1:1-4",
+          "bookNumber": 42,
+          "chapter": 1,
+          "verseStart": 1,
+          "verseEnd": 4,
+          "type": "context"
+        },
+        {
+          "reference": "John 19:19-22",
+          "bookNumber": 43,
+          "chapter": 19,
+          "verseStart": 19,
+          "verseEnd": 22,
+          "type": "response"
+        },
+        {
+          "reference": "1 Corinthians 15:3-8",
+          "bookNumber": 46,
+          "chapter": 15,
+          "verseStart": 3,
+          "verseEnd": 8,
+          "type": "response"
+        }
+      ]
+    },
+    {
+      "id": "67fa6b8d-fa3f-49ff-99ae-f2d7f5cd34e4",
+      "orderIndex": 104,
+      "categoryId": "cat-is-the-bible-trustworthyor-a-m",
+      "categoryName": "Is the Bible Trustworthy—Or a Mess of Errors?",
+      "questionText": "Why did the church get to decide which books made it into the Bible and which didn't?",
+      "verseReferences": [
+        {
+          "reference": "Luke 24:25-27",
+          "bookNumber": 42,
+          "chapter": 24,
+          "verseStart": 25,
+          "verseEnd": 27,
+          "type": "context"
+        },
+        {
+          "reference": "2 Timothy 3:14-17",
+          "bookNumber": 55,
+          "chapter": 3,
+          "verseStart": 14,
+          "verseEnd": 17,
+          "type": "response"
+        },
+        {
+          "reference": "2 Peter 1:19-21",
+          "bookNumber": 61,
+          "chapter": 1,
+          "verseStart": 19,
+          "verseEnd": 21,
+          "type": "response"
+        },
+        {
+          "reference": "John 10:35",
+          "bookNumber": 43,
+          "chapter": 10,
+          "verseStart": 35,
+          "verseEnd": null,
+          "type": "response"
+        },
+        {
+          "reference": "Luke 24:44-45",
+          "bookNumber": 42,
+          "chapter": 24,
+          "verseStart": 44,
+          "verseEnd": 45,
+          "type": "context"
+        },
+        {
+          "reference": "1 Thessalonians 2:13",
+          "bookNumber": 52,
+          "chapter": 2,
+          "verseStart": 13,
+          "verseEnd": null,
+          "type": "response"
+        }
+      ]
+    }
+  ],
+  "holidayOverrides": {
+    "christmas-eve": {
+      "id": "holiday-christmas-eve",
+      "categoryId": "cat-holiday-christmas",
+      "categoryName": "The Incarnation",
+      "questionText": "Why would an all-powerful God choose to enter the world as a helpless baby in a manger?",
+      "verseReferences": [
+        {
+          "reference": "Philippians 2:6-8",
+          "bookNumber": 50,
+          "chapter": 2,
+          "verseStart": 6,
+          "verseEnd": 8
+        },
+        {
+          "reference": "Luke 2:7",
+          "bookNumber": 42,
+          "chapter": 2,
+          "verseStart": 7,
+          "verseEnd": null
+        },
+        {
+          "reference": "John 1:14",
+          "bookNumber": 43,
+          "chapter": 1,
+          "verseStart": 14,
+          "verseEnd": null
+        }
+      ]
+    },
+    "christmas-day": {
+      "id": "holiday-christmas-day",
+      "categoryId": "cat-holiday-christmas",
+      "categoryName": "The Incarnation",
+      "questionText": "If Jesus is truly God, why was His birth announced to lowly shepherds instead of kings and rulers?",
+      "verseReferences": [
+        {
+          "reference": "Luke 2:8-14",
+          "bookNumber": 42,
+          "chapter": 2,
+          "verseStart": 8,
+          "verseEnd": 14
+        },
+        {
+          "reference": "1 Corinthians 1:27-29",
+          "bookNumber": 46,
+          "chapter": 1,
+          "verseStart": 27,
+          "verseEnd": 29
+        },
+        {
+          "reference": "Matthew 11:25",
+          "bookNumber": 40,
+          "chapter": 11,
+          "verseStart": 25,
+          "verseEnd": null
+        }
+      ]
+    },
+    "good-friday": {
+      "id": "holiday-good-friday",
+      "categoryId": "cat-holiday-easter",
+      "categoryName": "Salvation & Atonement",
+      "questionText": "Why did Jesus have to die? Couldn't an all-powerful God simply forgive sins without the cross?",
+      "verseReferences": [
+        {
+          "reference": "Hebrews 9:22",
+          "bookNumber": 58,
+          "chapter": 9,
+          "verseStart": 22,
+          "verseEnd": null
+        },
+        {
+          "reference": "Romans 3:25-26",
+          "bookNumber": 45,
+          "chapter": 3,
+          "verseStart": 25,
+          "verseEnd": 26
+        },
+        {
+          "reference": "Isaiah 53:5-6",
+          "bookNumber": 23,
+          "chapter": 53,
+          "verseStart": 5,
+          "verseEnd": 6
+        }
+      ]
+    },
+    "easter-saturday": {
+      "id": "holiday-easter-saturday",
+      "categoryId": "cat-holiday-easter",
+      "categoryName": "Salvation & Atonement",
+      "questionText": "If Jesus knew He would rise again, was His sacrifice really a sacrifice at all?",
+      "verseReferences": [
+        {
+          "reference": "Hebrews 12:2",
+          "bookNumber": 58,
+          "chapter": 12,
+          "verseStart": 2,
+          "verseEnd": null
+        },
+        {
+          "reference": "Luke 22:42-44",
+          "bookNumber": 42,
+          "chapter": 22,
+          "verseStart": 42,
+          "verseEnd": 44
+        },
+        {
+          "reference": "2 Corinthians 5:21",
+          "bookNumber": 47,
+          "chapter": 5,
+          "verseStart": 21,
+          "verseEnd": null
+        }
+      ]
+    },
+    "easter-sunday": {
+      "id": "holiday-easter-sunday",
+      "categoryId": "cat-holiday-easter",
+      "categoryName": "Salvation & Atonement",
+      "questionText": "What evidence is there that Jesus actually rose from the dead, and why does it matter for salvation?",
+      "verseReferences": [
+        {
+          "reference": "1 Corinthians 15:3-8",
+          "bookNumber": 46,
+          "chapter": 15,
+          "verseStart": 3,
+          "verseEnd": 8
+        },
+        {
+          "reference": "1 Corinthians 15:17",
+          "bookNumber": 46,
+          "chapter": 15,
+          "verseStart": 17,
+          "verseEnd": null
+        },
+        {
+          "reference": "Romans 4:25",
+          "bookNumber": 45,
+          "chapter": 4,
+          "verseStart": 25,
+          "verseEnd": null
+        }
+      ]
+    },
+    "easter-monday": {
+      "id": "holiday-easter-monday",
+      "categoryId": "cat-holiday-easter",
+      "categoryName": "Salvation & Atonement",
+      "questionText": "If Jesus conquered death, why do Christians still die? What does resurrection really promise?",
+      "verseReferences": [
+        {
+          "reference": "1 Corinthians 15:20-22",
+          "bookNumber": 46,
+          "chapter": 15,
+          "verseStart": 20,
+          "verseEnd": 22
+        },
+        {
+          "reference": "Romans 6:5",
+          "bookNumber": 45,
+          "chapter": 6,
+          "verseStart": 5,
+          "verseEnd": null
+        },
+        {
+          "reference": "John 11:25-26",
+          "bookNumber": 43,
+          "chapter": 11,
+          "verseStart": 25,
+          "verseEnd": 26
+        }
+      ]
+    }
+  }
+}

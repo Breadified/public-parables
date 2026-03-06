@@ -1,0 +1,19 @@
+{
+  "name": "parables-bible-data",
+  "version": "1.0.0",
+  "description": "Bible data processing scripts for Parables app",
+  "private": true,
+  "scripts": {
+    "fetch": "node scripts/esvFetchBibleChapters.js",
+    "build-db": "python scripts/create_bible_database.py",
+    "build-lorem": "python scripts/create_lorem_bible.py",
+    "generate-recaps": "node scripts/generate-plan-recaps.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

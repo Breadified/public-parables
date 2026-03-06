@@ -1,0 +1,29 @@
+# Dependencies
+**/node_modules/
+node_modules/
+frontend/build-test/*
+
+# Environment variables - NEVER commit these!
+.env
+.env.local
+.env*.local
+**/.env
+**/.env.local
+**/.env*.local
+
+# Backup folders
+*.backup/
+
+# Logs
+.logs/
+
+# Large binary files (exceed GitHub 100MB limit)
+bible-data/embeddings/embeddings.db
+bible-data/data/bible.db
+frontend/assets/embeddings.db.gz
+
+# Lock files (build artifacts)
+**/*.lock
+!**/package-lock.json
+!**/yarn.lock
+**/.gradle/

@@ -1,0 +1,63 @@
+# EAS Build Ignore (relative to frontend/)
+# NOTE: This file REPLACES all .gitignore rules for EAS builds
+
+# ============================================
+# PROJECT-SPECIFIC EXCLUSIONS
+# ============================================
+
+# Parent directory exclusions (go up from frontend/)
+../bible-data/
+../supabase/
+../supabase-docker/
+../scripts/
+../.business-requirements/
+../.reference/
+../.claude/
+../*.md
+
+# ============================================
+# BUILD OUTPUTS (~134MB savings)
+# ============================================
+dist/
+web-build/
+build-test/
+
+# ============================================
+# CACHE AND TEMP FILES
+# ============================================
+.expo/
+.kotlin/
+expo-env.d.ts
+
+# Native build artifacts (EAS rebuilds these)
+android/.gradle/
+android/build/
+android/app/build/
+ios/build/
+ios/Pods/
+
+# Debug files
+*.log
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# Environment files (use EAS secrets instead)
+.env
+.env.local
+.env*.local
+
+# Keystores (use EAS credentials instead)
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# Backup files
+*.backup
+*.orig.*
+android/local.properties
