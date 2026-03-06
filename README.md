@@ -1,15 +1,29 @@
 # Parables
 
-**A cross-platform Bible study app with offline-first architecture, custom native modules, and real-time collaborative features.**
+**A cross-platform Bible study app with offline-first architecture, an AI Pastor powered by RAG over 1,000+ sermons, custom native modules, and real-time collaborative features.**
 
 ![React Native](https://img.shields.io/badge/React_Native-0.81-61DAFB?logo=react&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo_SDK-54-000020?logo=expo&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-cc785c?logo=anthropic&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-iOS_|_Android-lightgrey?logo=apple&logoColor=white)
+
+## Screenshots
+
+<p align="center">
+  <img src="docs/screenshots/ai-pastor.jpg" width="230" alt="AI Pastor — theological Q&A powered by RAG over 1,000+ sermons" />
+  <img src="docs/screenshots/bible-plan.jpg" width="230" alt="Bible reading plan with AI-generated chapter recaps" />
+  <img src="docs/screenshots/version-comparison.jpg" width="230" alt="Side-by-side Bible translation comparison (ESV vs KJV)" />
+</p>
+
+<p align="center">
+  <em>Left: AI Pastor answering theological questions with scripture references | Centre: Reading plan with chapter recaps | Right: Side-by-side translation comparison</em>
+</p>
 
 ### Engineering Highlights
 
+- **AI Pastor (RAG)** — Theological Q&A powered by Claude API with retrieval-augmented generation over 1,000+ sermons stored as vector embeddings in Supabase pgvector, grounding every response in real pastoral teaching and scripture
 - **Custom native modules** — Built iOS (Swift) and Android (Kotlin) text selection modules with context menus, bridged to React Native via Expo Modules API
 - **Offline-first sync** — Bible text in bundled SQLite (~8 MB compressed), user data in AsyncStorage with queue-based server sync via Supabase Realtime
 - **338 source files** across TypeScript, Swift, Kotlin, and PLpgSQL with **43 database migrations**
@@ -35,9 +49,15 @@ A split-pane study mode offers two configurations:
 - **Compare** — View two Bible versions side-by-side with synchronized scrolling and verse-aligned layout
 - **Notes** — Read a chapter alongside a note-taking pane for inline study
 
+### AI Pastor
+
+The standout feature — a theological Q&A assistant powered by Claude API and retrieval-augmented generation (RAG). Over 1,000 sermons from a single pastor are chunked, embedded, and stored in Supabase pgvector. When a user asks a question (or a daily devotion is presented), the system retrieves the most relevant sermon passages and feeds them as context to Claude, producing answers that are theologically grounded in real pastoral teaching and backed by specific scripture references.
+
+The AI Pastor responds in the community comment threads alongside human users, providing thoughtful, citation-rich commentary that reflects the theological depth of the underlying sermon corpus.
+
 ### Daily Devotions
 
-105 apologetics questions cycle daily, organized across 8 categories (Bible Reliability, Existence of God, Problem of Evil, Science & Faith, Jesus, Salvation, Objections to Faith, Christian Living). Special questions override on holidays like Christmas, Easter, and Good Friday. Each day's question has a community comment thread with replies and likes.
+105 apologetics questions cycle daily, organized across 8 categories (Bible Reliability, Existence of God, Problem of Evil, Science & Faith, Jesus, Salvation, Objections to Faith, Christian Living). Special questions override on holidays like Christmas, Easter, and Good Friday. Each day's question has a community comment thread with replies and likes — including AI Pastor responses.
 
 ### Bible Plans
 
@@ -165,6 +185,7 @@ frontend/
 | **State** | Legend State 2.1 with reactive observables |
 | **Storage** | SQLite (Bible data), AsyncStorage (user data), MMKV (positions) |
 | **Backend** | Supabase (Auth, PostgreSQL, Realtime, Edge Functions) |
+| **AI** | Claude API, RAG, Supabase pgvector (vector embeddings) |
 | **UI** | FlashList, Reanimated, Skia, Bottom Sheet, Lottie |
 | **Infra** | EAS Build, Expo Updates (OTA), Sentry (error tracking) |
 
